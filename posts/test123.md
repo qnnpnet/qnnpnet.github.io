@@ -6,8 +6,6 @@ timestamps: [{"time": 120, "label": "02:00", "summary": "첫 번째 주요 장�
 date: "2026-02-14"
 ---
 
-import VideoPlayer from '@/components/VideoPlayer'
-
 # 테스트 영상 제목
 
 ## 전체 요약

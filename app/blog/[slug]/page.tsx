@@ -30,9 +30,10 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function BlogPost({ params }: { params: { slug: string } }) {
+export default async function BlogPost({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const postsDirectory = path.join(process.cwd(), 'posts');
-  const fullPath = path.join(postsDirectory, `${params.slug}.md`);
+  const fullPath = path.join(postsDirectory, `${slug}.md`);
 
   // 파일이 없으면 404
   if (!fs.existsSync(fullPath)) {

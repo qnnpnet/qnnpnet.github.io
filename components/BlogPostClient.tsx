@@ -40,7 +40,13 @@ export default function BlogPostClient({
         href: string | undefined,
     ) => {
         const timestamp = extractTimestamp(href);
-        setTimestamp(timestamp);
+        if (timestamp) {
+            // 1. 브라우저의 기본 페이지 이동 동작을 막습니다.
+            e.preventDefault();
+            // 2. 정의하신 클릭 핸들러만 실행합니다.
+            setTimestamp(timestamp);
+        } else {
+        }
     };
 
     return (
@@ -86,9 +92,6 @@ export default function BlogPostClient({
                                                 : ""
                                         }`}
                                         onClick={(e) => {
-                                            // 1. 브라우저의 기본 페이지 이동 동작을 막습니다.
-                                            e.preventDefault();
-                                            // 2. 정의하신 클릭 핸들러만 실행합니다.
                                             handleLinkClick(e, href);
                                         }}
                                         target={

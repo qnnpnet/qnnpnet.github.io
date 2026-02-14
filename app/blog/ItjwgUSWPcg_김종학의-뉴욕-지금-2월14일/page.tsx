@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 import VideoPlayer from '@/components/VideoPlayer';
 import ReactMarkdown from 'react-markdown';
 
@@ -12,7 +13,9 @@ export default async function VideoSummaryPage() {
   const filePath = path.join(process.cwd(), 'app', 'blog', 'ItjwgUSWPcg_김종학의-뉴욕-지금-2월14일', 'content.md');
   let mdContent = '';
   try {
-    mdContent = fs.readFileSync(filePath, 'utf8');
+    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const matterResult = matter(fileContents);
+    mdContent = matterResult.content;
   } catch (e) {
     console.error('Error reading markdown file:', e);
   }

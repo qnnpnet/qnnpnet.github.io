@@ -12,7 +12,7 @@ interface PostData {
 }
 
 export default async function Home() {
-  const postsDirectory = path.join(process.cwd(), 'posts');
+  const postsDirectory = path.join(process.cwd(), 'app', 'blog');
 
   if (!fs.existsSync(postsDirectory)) {
     return (
@@ -29,20 +29,40 @@ export default async function Home() {
     );
   }
 
-  const fileNames = fs.readdirSync(postsDirectory);
+  const dirNames = fs.readdirSync(postsDirectory, { withFileTypes: true });
 
-  const posts: Array<{ slug: string; data: PostData }> = fileNames
-    .filter(fileName => fileName.endsWith('.md'))
-    .map(fileName => {
-      const fullPath = path.join(postsDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, 'utf8');
-      const matterResult = matter(fileContents);
+  const posts: Array<{ slug: string; data: PostData }> = dirNames
+    .filter(dirent => dirent.isDirectory())
+    .map(dirent => {
+      const pagePath = path.join(postsDirectory, dirent.name, 'page.tsx');
+      if (!fs.existsSync(pagePath)) {
+        return null;
+      }
+
+      const pageContent = fs.readFileSync(pagePath, 'utf8');
+
+      // Extract metadata from page.tsx
+      const titleMatch = pageContent.match(/title:\s*['"`]([^'"`]+)['"`]/);
+      const videoIdMatch = pageContent.match(/videoId:\s*['"`]([^'"`]+)['"`]/);
+      const publishedAtMatch = pageContent.match(/published_at:\s*['"`]([^'"`]+)['"`]/);
+      const tagsMatch = pageContent.match(/tags:\s*['"`]([^'"`]+)['"`]/);
+
+      if (!titleMatch || !videoIdMatch) {
+        return null;
+      }
+
       return {
-        slug: fileName.replace(/\.md$/, ''),
-        data: matterResult.data as PostData,
+        slug: dirent.name,
+        data: {
+          title: titleMatch[1],
+          video_id: videoIdMatch[1],
+          published_at: publishedAtMatch?.[1] || '',
+          date: publishedAtMatch?.[1] || '',
+          tags: tagsMatch?.[1] ? tagsMatch[1].split(',').map(tag => tag.trim()) : [],
+        } as PostData,
       };
     })
-    .filter(post => post.data.title && post.data.video_id)
+    .filter((post): post is { slug: string; data: PostData } => post !== null)
     .sort((a, b) => {
       const dateA = new Date(a.data.date || a.data.published_at || '');
       const dateB = new Date(b.data.date || b.data.published_at || '');

@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  output: 'export', // GitHub Pages용 정적 export
   images: {
     unoptimized: true,
   },

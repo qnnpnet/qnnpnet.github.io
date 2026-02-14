@@ -34,39 +34,32 @@ export default async function Home() {
   const posts: Array<{ slug: string; data: PostData }> = dirNames
     .filter(dirent => dirent.isDirectory())
     .map(dirent => {
-      const pagePath = path.join(postsDirectory, dirent.name, 'page.tsx');
-      if (!fs.existsSync(pagePath)) {
+      const contentPath = path.join(postsDirectory, dirent.name, 'content.md');
+      if (!fs.existsSync(contentPath)) {
         return null;
       }
 
-      const pageContent = fs.readFileSync(pagePath, 'utf8');
-
-      // Extract metadata from page.tsx
-      const titleMatch = pageContent.match(/title:\s*['"`]([^'"`]+)['"`]/);
-      const videoIdMatch = pageContent.match(/videoId:\s*['"`]([^'"`]+)['"`]/);
-      const publishedAtMatch = pageContent.match(/published_at:\s*['"`]([^'"`]+)['"`]/);
-      const tagsMatch = pageContent.match(/tags:\s*['"`]([^'"`]+)['"`]/);
-
-      if (!titleMatch || !videoIdMatch) {
-        return null;
-      }
+      const fileContents = fs.readFileSync(contentPath, 'utf8');
+      const matterResult = matter(fileContents);
 
       return {
         slug: dirent.name,
         data: {
-          title: titleMatch[1],
-          video_id: videoIdMatch[1],
-          published_at: publishedAtMatch?.[1] || '',
-          date: publishedAtMatch?.[1] || '',
-          tags: tagsMatch?.[1] ? tagsMatch[1].split(',').map(tag => tag.trim()) : [],
+          title: matterResult.data.title,
+          video_id: matterResult.data.video_id,
+          published_at: matterResult.data.published_at || '',
+          date: matterResult.data.published_at || '',
+          tags: matterResult.data.tags ? (typeof matterResult.data.tags === 'string' ? matterResult.data.tags.split(',').map((tag: string) => tag.trim()) : matterResult.data.tags) : [],
         } as PostData,
       };
     })
-    .filter((post): post is { slug: string; data: PostData } => post !== null)
+    .filter((post): post is { slug: string; data: PostData } => post !== null && !!post.data.title)
     .sort((a, b) => {
       const dateA = new Date(a.data.date || a.data.published_at || '');
       const dateB = new Date(b.data.date || b.data.published_at || '');
-      return dateB.getTime() - dateA.getTime();
+      const timeA = isNaN(dateA.getTime()) ? 0 : dateA.getTime();
+      const timeB = isNaN(dateB.getTime()) ? 0 : dateB.getTime();
+      return timeB - timeA;
     });
 
   return (

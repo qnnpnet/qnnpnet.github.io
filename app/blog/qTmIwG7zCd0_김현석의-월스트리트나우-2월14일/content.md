@@ -8,17 +8,16 @@ published_at: "2026-02-13T22:50:29Z"
 # [김현석의 월스트리트나우-2월14일] 고용, 물가 '골디락스', Mag 7은 계속 부진.."구글 좋고, 테슬라 별로"
 ## 📋 한 줄 요약
 
-> 미국 1월 CPI가 예상치를 하회하며 물가 안정화 신호가 나타나 금리 인하 기대감이 커졌으나, 연휴를 앞둔 차익 실현과 AI 관련 우려로 주요 지수는 소폭 등락하는데 그쳤습니다.
+> 1월 미국 소비자물가(CPI)가 시장 예상을 밑돌며 금리 인하 기대가 강화되었으나, 장막 매도세와 AI 섹터에 대한 불안 심리로 인해 주요 지수는 등락을 반복하며 혼조세로 마감했습니다.
 
 ## 🧠 핵심 포인트
 
-- [00:45](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=45) 미 3대 지수 엇갈린 상승…AI 공포 여전 → 막차 매도세로 상승 폭 제한
-- [01:15](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=75) 채권 수익률 급락…10년물 금리, 한 주간 약 18bp 하락 → 금리 인하 기대 반영
-- [01:40](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=100) 1월 CPI 전년 대비 2.4% 상승…근원 CPI 4년 만에 최저 → 물가 안정화 확실
-- [02:10](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=130) 물가 안정 주도…에너지·중고차 하락, 주거비 상승 둔화 → 긍정적 변수 작용
-- [02:45](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=165) ‘슈퍼 코어’ 0.56% 급등…서비스 물가 경계신호 → 뚜렷한 디스인플레이션 아님
-- [03:15](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=195) 관세 효과 감지…가전·컴퓨터 등 내구재 가격 상승 → 1월 효과 및 관세 영향
-- [03:45](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=225) 시장 반응…연내 3차 금리 인하 기대 → 완화적 통화정책 전망 강화
+- [00:15](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=15) 고용 지표와 물가 안정으로 금리 인하 기대 상승 → 경제 불안 해소와 Fed의 금리 인하 기대감 동반 확대
+- [01:00](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=60) 미 3대 지수 혼조 마감, 국채 금리는 급락 → 휴일 전 익스포저 조정과 안전 자산 선호 현상
+- [01:50](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=110) 1월 CPI 전년 대비 2.4%…예상 하회 기록 → 물가 안정세 확인되며 금리 인하 명분 확보
+- [02:40](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=160) 에너지·주거비·차량가격 둔화가 물가 안정 견인 → 전반적인 물가 상승 압력 완화에 긍정적 요인 작용
+- [03:40](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=220) ‘1월 효과’로 슈퍼코어 및 전자제품 가격 급등 → 기업들의 연초 가격 인상 여파로 잠재적 인플레이션 리스크는 존재
+- [04:40](https://www.youtube.com/watch?v=qTmIwG7zCd0&t=280) 시장, 연 3회 금리 인하 가능성 점쳐 → 물가 데이터 발표 후 채권 수익률 하락 및 금리 인하 배팅 강화
 
 ## 🔗 원본 영상
 

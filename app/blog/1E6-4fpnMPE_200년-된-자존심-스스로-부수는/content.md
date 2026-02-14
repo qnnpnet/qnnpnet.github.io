@@ -7,8 +7,6 @@ published_at: "2026-02-14T00:00:02Z"
 
 # 200년 된 자존심, 스스로 부수는 중..재고폭탄에 세대교체까지, 미국 위스키 산업이 무너지고 있다 | 바이아메리카 in 뉴욕
 
-<!-- YouTube Embed -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1E6-4fpnMPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 📋 한 줄 요약
 

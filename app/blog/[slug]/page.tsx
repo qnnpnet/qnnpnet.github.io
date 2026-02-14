@@ -1,9 +1,8 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
-import VideoPlayer from "@/components/VideoPlayer";
-import ReactMarkdown from "react-markdown";
 import { notFound } from "next/navigation";
+import BlogPostClient from "@/components/BlogPostClient";
 
 interface Props {
     params: Promise<{ slug: string }>;
@@ -91,14 +90,6 @@ export default async function BlogPost({ params }: Props) {
     }
 
     return (
-        <>
-            <div className="container mx-auto max-w-4xl px-4 py-8">
-                <h1 className="text-4xl font-bold mb-4">{title}</h1>
-                {videoId && <VideoPlayer videoId={videoId} />}
-                <div className="prose mt-8 prose-headings:font-bold prose-a:text-blue-600 hover:prose-a:text-blue-800 dark:prose-invert">
-                    <ReactMarkdown>{mdContent}</ReactMarkdown>
-                </div>
-            </div>
-        </>
+        <BlogPostClient title={title} videoId={videoId} mdContent={mdContent} />
     );
 }

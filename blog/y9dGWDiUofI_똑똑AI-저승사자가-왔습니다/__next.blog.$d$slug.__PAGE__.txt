@@ -2,20 +2,20 @@
 2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-3:T79c,
+3:T7b4,
 # 똑똑...AI 저승사자가 왔습니다 | 월가백브리핑
 ## 🧠 핵심 포인트
 
-- [00:00](https://www.youtube.com/watch?v=y9dGWDiUofI&t=0) AI 공포의 전방위적 확산** | 소프트웨어를 넘어 금융, 자문업 등 전 산업군으로 공포가 전이되는 중
-- [00:35](https://www.youtube.com/watch?v=y9dGWDiUofI&t=35) 안전지대로 여겨졌던 물류·인프라 섹터의 균열** | 물리적 기반을 가진 산업은 안전할 것이라는 믿음이 흔들리기 시작
-- [01:09](https://www.youtube.com/watch?v=y9dGWDiUofI&t=69) '알고리즘 홀딩스' 사태와 물류주 폭락** | 시총 500만 달러의 소형주 발표 하나에 미국 1위 트러커 주가가 15% 폭락하는 기현상 발생
-- [01:46](https://www.youtube.com/watch?v=y9dGWDiUofI&t=106) 페덱스(FedEx)의 AI 및 로봇 도입 시연** | 물류 업계도 이미 AI를 통한 비용 절감과 효율화 경쟁에 본격 돌입
-- [02:22](https://www.youtube.com/watch?v=y9dGWDiUofI&t=142) 알고리즘 홀딩스의 실체는 노래방 기기 수입사** | 과거 이력이 불분명한 기업의 발표에도 시장이 과민 반응할 만큼 심리가 취약함
-- [02:55](https://www.youtube.com/watch?v=y9dGWDiUofI&t=175) AI 대체 공포가 만든 시장의 광기** | 현재의 폭락은 실질적인 위협보다 차익 실현을 위한 명분으로 AI 공포가 이용되는 측면이 강함
-- [03:10](https://www.youtube.com/watch?v=y9dGWDiUofI&t=190) 가치주와 실물 자산으로의 선호도 변화** | 테크주에서 안전한 실물 기반 산업으로 자금이 이동하려 하나, 이마저도 AI 영향권에 노출됨
-- [03:28](https://www.youtube.com/watch?v=y9dGWDiUofI&t=208) 인간 지능을 대체하려는 AI의 종착지** | 결국 모든 산업이 AI의 영향에서 자유로울 수 없다는 근본적인 불안감 존재
+- [00:00](https://www.youtube.com/watch?v=y9dGWDiUofI&t=0) 전방위로 확산되는 AI 공포 AI가 소프트웨어와 금융을 넘어 모든 산업을 대체할 것이라는 공포가 시장을 지배 중
+- [00:35](https://www.youtube.com/watch?v=y9dGWDiUofI&t=35) 안전지대로 여겨졌던 물류·인프라의 붕괴 물리적 기반을 가진 물류 기업들은 안전할 것이라 믿었으나 최근 주가 폭락 발생
+- [01:09](https://www.youtube.com/watch?v=y9dGWDiUofI&t=69) '알고리즘 홀딩스'가 촉발한 물류주 폭락 시총 500만 달러 미만의 소형주가 낸 AI 보도자료 하나에 미 1위 트러커 주가 15% 폭락
+- [01:46](https://www.youtube.com/watch?v=y9dGWDiUofI&t=106) 페덱스(FedEx)의 AI 및 로봇 도입 시연 대형 물류사들도 비용 절감을 위해 AI를 적극 도입하며 업계 변화가 가속화됨
+- [02:22](https://www.youtube.com/watch?v=y9dGWDiUofI&t=142) 폭락의 도화선이 된 기업의 황당한 과거 알고리즘 홀딩스는 2년 전까지 중국산 노래방 기기를 수입하던 회사로 신뢰성에 의문
+- [02:55](https://www.youtube.com/watch?v=y9dGWDiUofI&t=175) 통제 불가능한 수준의 시장 광기 실체가 불분명한 소식에도 섹터가 무너지는 것은 현재 시장의 공포가 비이성적임을 시사
+- [03:10](https://www.youtube.com/watch?v=y9dGWDiUofI&t=190) 가치주로의 도피조차 무색하게 만드는 AI 서사 테크주를 피해 실물 자산으로 옮겨가려는 투자자들의 전략마저 AI 공포에 흔들리는 상황
+- [03:33](https://www.youtube.com/watch?v=y9dGWDiUofI&t=213) 인간 지능을 대체하는 AI의 엔드 게임 결국 AI가 모든 인간의 영역을 대체할 것이라는 근원적 두려움이 시장의 변동성을 키움
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=y9dGWDiUofI)0:{"buildId":"fh3NgvP4jXvxXJ32aNwVq","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"똑똑...AI 저승사자가 왔습니다 | 월가백브리핑","videoId":"y9dGWDiUofI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=y9dGWDiUofI)0:{"buildId":"OhRqQ8oyE8BgNvUPTZmBJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"똑똑...AI 저승사자가 왔습니다 | 월가백브리핑","videoId":"y9dGWDiUofI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

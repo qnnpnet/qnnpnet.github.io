@@ -22,7 +22,7 @@ export async function generateStaticParams() {
             (dirent) => dirent.isDirectory() && !dirent.name.startsWith("["),
         )
         .map((dirent) => ({
-            slug: encodeURIComponent(dirent.name),
+            slug: dirent.name,
         }));
 
     console.log(

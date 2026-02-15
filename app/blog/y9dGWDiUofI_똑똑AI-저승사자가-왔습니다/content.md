@@ -6,16 +6,9 @@ published_at: "2026-02-15T04:00:59Z"
 ---
 
 # 똑똑...AI 저승사자가 왔습니다 | 월가백브리핑
-## 🧠 핵심 포인트
+## 📋 한 줄 요약
 
-- [00:00](https://www.youtube.com/watch?v=y9dGWDiUofI&t=0) 전방위로 확산되는 AI 공포 AI가 소프트웨어와 금융을 넘어 모든 산업을 대체할 것이라는 공포가 시장을 지배 중
-- [00:35](https://www.youtube.com/watch?v=y9dGWDiUofI&t=35) 안전지대로 여겨졌던 물류·인프라의 붕괴 물리적 기반을 가진 물류 기업들은 안전할 것이라 믿었으나 최근 주가 폭락 발생
-- [01:09](https://www.youtube.com/watch?v=y9dGWDiUofI&t=69) '알고리즘 홀딩스'가 촉발한 물류주 폭락 시총 500만 달러 미만의 소형주가 낸 AI 보도자료 하나에 미 1위 트러커 주가 15% 폭락
-- [01:46](https://www.youtube.com/watch?v=y9dGWDiUofI&t=106) 페덱스(FedEx)의 AI 및 로봇 도입 시연 대형 물류사들도 비용 절감을 위해 AI를 적극 도입하며 업계 변화가 가속화됨
-- [02:22](https://www.youtube.com/watch?v=y9dGWDiUofI&t=142) 폭락의 도화선이 된 기업의 황당한 과거 알고리즘 홀딩스는 2년 전까지 중국산 노래방 기기를 수입하던 회사로 신뢰성에 의문
-- [02:55](https://www.youtube.com/watch?v=y9dGWDiUofI&t=175) 통제 불가능한 수준의 시장 광기 실체가 불분명한 소식에도 섹터가 무너지는 것은 현재 시장의 공포가 비이성적임을 시사
-- [03:10](https://www.youtube.com/watch?v=y9dGWDiUofI&t=190) 가치주로의 도피조차 무색하게 만드는 AI 서사 테크주를 피해 실물 자산으로 옮겨가려는 투자자들의 전략마저 AI 공포에 흔들리는 상황
-- [03:33](https://www.youtube.com/watch?v=y9dGWDiUofI&t=213) 인간 지능을 대체하는 AI의 엔드 게임 결국 AI가 모든 인간의 영역을 대체할 것이라는 근원적 두려움이 시장의 변동성을 키움
+> AI 요약 기능이 활성화되지 않았습니다.
 
 ## 🔗 원본 영상
 

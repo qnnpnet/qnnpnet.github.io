@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/752dfed33cb8e348.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"AO8acP_p8u0GaE5sr7FSR","c":["","blog","ItjwgUSWPcg_ny_now"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","ItjwgUSWPcg_ny_now","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/752dfed33cb8e348.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
+e:T108d,
+## 📊 주요 요약
+뉴욕증시는 대통령의 날 휴장을 앞두고 혼조세로 마감했습니다. 3대 지수는 오후 들어 상승폭을 반납하며 보합권에서 거래를 마쳤습니다. 그러나 1월 소비자물가지수(CPI)가 시장 예상보다 낮게 나오면서 6월 금리 인하 가능성이 85%까지 상승했습니다. 국채 금리는 하락세를 보였고, 금 가격은 온스당 2,000달러를 회복했습니다.
+
+*   **지수:** S&P 500(-0.05%), 나스닥(-0.2%), 다우(-0.1%) 모두 약보합 마감.
+*   **금리/환율:** 10년물 국채금리는 4.048%로 하락, 금값 상승(+2.16%).
+*   **유가:** 배럴당 $62.74로 소폭 하락 (방송 기준).
+*   **VIX:** 20.72로 여전히 높은 수준 유지.
+
+## 📈 기업/섹터 분석
+기술주(M7) 중심의 차익실현 매물이 출회되며 대형 기술주들은 전반적으로 약세를 보였습니다. 반면, 실적 호조를 보인 기업들과 경기 방어주는 상승세를 나타냈습니다.
+
+*   **반도체:**
+    *   **어플라이드 머티리얼즈(AMAT):** 실적 서프라이즈로 +8.08% 급등. AI 인프라 및 HBM 수요 증가 수혜 기대.
+    *   **엔비디아(NVDA):** 오픈AI의 대체 칩 검토(세레브라스) 및 코딩 자동화 투자 소식 등으로 -2.21% 하락.
+*   **플랫폼/서비스:**
+    *   **코인베이스(COIN):** 암호화폐 시장 회복과 구독 매출 증가 기대로 +16.46% 급등. 로빈후드도 동반 상승.
+    *   **드래프트킹스(DKNG):** 실적 부진 및 가이던스 실망으로 -13.51% 급락. 예측 시장 준비 부족 우려.
+*   **기타:**
+    *   **테슬라(TSLA):** 중국의 차량 내 물리 버튼 의무화 검토 소식 등 규제 우려 속에서도 +0.09% 강보합. 스페이스X 상장 기대감 일부 반영.
+    *   **소매유통:** 월마트, 코스트코 등 경기 방어주 성격의 종목들이 신고가 경신 흐름을 보임.
+
+## 📰 주요 뉴스
+*   **CPI 및 금리 인하:** 1월 CPI는 전년 대비 2.4% 상승(예상 2.5%), 근원 CPI는 2.5% 상승(예상 부합)으로 집계되었습니다. 물가 안정세가 확인되면서 시장은 6월 첫 금리 인하(25bp) 가능성을 85%로 높게 반영하고 있습니다. 연내 3회(6월, 9월, 12월) 인하 기대감도 형성되었습니다.
+*   **트럼프 2기 경제 전망:** 스콧 베센트 미 재무장관은 트럼프 2기 경제 성과가 안정적이며, 금리 인하와 세금 환급 정책이 2026년 경제 성장에 기여할 것이라고 긍정적으로 전망했습니다.
+*   **AI 테마 내 차별화:** AI 관련주 내에서도 옥석 가리기가 진행 중입니다. 단순 테마성 기업들은 조정을 받고, 실질적인 수혜가 예상되는 기업들로 매수세가 집중되고 있습니다. UBS는 AI 투자 급증에 따른 기업들의 자금 조달 비용 증가를 우려했습니다.
+
+## 🏥 특이 사항
+*   **중국 규제 리스크:** 미 국방부의 중국 기업 제재 리스트 관련 혼선으로 알리바바(-1.8%), 바이두(-0.99%) 등 중국 기술주들이 하락했습니다.
+*   **신용 시장 우려:** AI 기술 도입에 따른 기업 환경 변화가 신용 등급에 영향을 미치고 있다는 분석이 제기되었습니다.
+
+## 📈 투자 전략
+*   **순환매 대응:** 기술주 쏠림 현상이 완화되면서 경기 방어주(필수소비재) 및 저평가 섹터로 자금이 이동하는 순환매 장세가 나타나고 있습니다. 이에 따른 포트폴리오 다변화가 필요합니다.
+*   **주요 일정 체크:**
+    *   **월요일(2/17):** '대통령의 날'로 휴장.
+    *   **화요일(2/18):** 팰로앨토 네트웍스 등 실적 발표.
+    *   **목요일(2/20):** 월마트 실적 발표 (소비 경기 가늠자).
+    *   **기타:** FOMC 의사록 공개 및 국채 입찰 일정 주시.
+
+## 📌 결론
+시장은 숨 고르기 양상을 보이고 있습니다. CPI 결과는 안도감을 주었지만, 기술주의 차익실현 압력과 개별 기업 실적에 따른 주가 차별화가 심화되고 있습니다. 금리 인하 기대감이 유지되는 가운데, 경기 방어주와 실적 호전주 중심의 대응이 유효해 보입니다.
+4:["$","$Ld",null,{"title":"[김종학의 뉴욕, 지금-2월14일] 6월 금리 인하 확률 85%로 상승 | 기술주 또 차익실현 중 | 종목(코인베이스, 드래프트킹스, 어플라이드 머티리얼즈, 엔비디아, 테슬라)","videoId":"ItjwgUSWPcg","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"[김종학의 뉴욕, 지금-2월14일] 6월 금리 인하 확률 85%로 상승 | 기술주 또 차익실현 중 | 종목(코인베이스, 드래프트킹스, 어플라이드 머티리얼즈, 엔비디아, 테슬라)"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

@@ -22,20 +22,19 @@ export async function generateStaticParams() {
             (dirent) => dirent.isDirectory() && !dirent.name.startsWith("["),
         )
         .map((dirent) => ({
-            slug: encodeURIComponent(dirent.name),
+            slug: dirent.name,
         }));
-
-    console.log(
-        "generateStaticParams returning:",
-        JSON.stringify(params, null, 2),
-    );
 
     return params;
 }
 
 export async function generateMetadata({ params }: Props) {
     const { slug } = await params;
+    // Next.js App Router decodes slugs automatically in many contexts,
+    // but we use raw directory names as slugs in generateStaticParams.
+    // However, if the slug comes in encoded via URL, we need to decode it to match the directory.
     const decodedSlug = decodeURIComponent(slug);
+    
     const filePath = path.join(
         process.cwd(),
         "app",

@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"gPoW1CDlnQ9-fbZs8z-s-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"똑똑...AI 저승사자가 왔습니다 | 월가백브리핑","videoId":"y9dGWDiUofI","mdContent":"\n# 똑똑...AI 저승사자가 왔습니다 | 월가백브리핑\n## 📋 한 줄 요약\n\n> AI 요약 기능이 활성화되지 않았습니다.\n\n## 🔗 원본 영상\n\n[📺 영상 보기](https://www.youtube.com/watch?v=y9dGWDiUofI)"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null

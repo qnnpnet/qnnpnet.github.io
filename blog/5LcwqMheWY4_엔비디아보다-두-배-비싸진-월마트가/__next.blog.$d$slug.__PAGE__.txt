@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T86c,
+# 엔비디아보다 두 배 비싸진 월마트가 죽어야 산다? | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 2월 증시의 계절적 약세와 지정학적 불안 속에서 월마트가 방어적 대안으로 부각되고 있으며, 당분간 현금 비중을 유지하며 시장의 변동성에 대비할 필요가 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:00](https://www.youtube.com/watch?v=5LcwqMheWY4&t=0) 월마트의 시총 1조 달러 육박 및 방어주 성격 부각 → 시장이 불안할 때 오르는 역행적 지표로 활용됨
+- [01:46](https://www.youtube.com/watch?v=5LcwqMheWY4&t=106) 기관 투자자들의 시장 중립(Neutral) 도구가 된 월마트 → 나스닥 편입 후 기술주 매도 시 헤지 수단으로 활용도가 높아짐
+- [03:01](https://www.youtube.com/watch?v=5LcwqMheWY4&t=181) 중간 선거 및 지정학적 리스크에 따른 시장 조정 가능성 → 이란 문제와 트럼프의 행보가 단기적 폭풍의 핵이 될 전망
+- [04:52](https://www.youtube.com/watch?v=5LcwqMheWY4&t=292) 인플레이션 억제를 위한 트럼프의 관세 완화 검토 → 지지율 관리를 위해 실생활 관련 품목의 관세를 낮추려는 실용적 변화
+- [06:14](https://www.youtube.com/watch?v=5LcwqMheWY4&t=374) 네타냐후 방문 이후 중동 긴장 고조 및 유가 영향 → 과거 사례를 볼 때 군사 행동 전조일 가능성에 월가가 긴장 중
+- [08:21](https://www.youtube.com/watch?v=5LcwqMheWY4&t=501) 개인 투자자들의 '저가 매수(Buy the dip)' 동력 약화 → 레버리지 ETF 유입 감소 등 시장의 전반적인 힘이 빠지는 단계
+- [09:14](https://www.youtube.com/watch?v=5LcwqMheWY4&t=554) 엔 캐리 트레이드 청산 및 디레버리징 징후 → 엔화 강세 전환 시 시장 전반의 유동성 회수 위험 존재
+- [12:05](https://www.youtube.com/watch?v=5LcwqMheWY4&t=725) AI 산업에 대한 모순적인 공포와 시장의 내러티브 → 과잉 투자와 수익성 우려가 공존하나 시간이 지나며 완화될 이슈
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=5LcwqMheWY4)0:{"buildId":"s0GyL-xoWLNaoE1d8w1ru","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"엔비디아보다 두 배 비싸진 월마트가 죽어야 산다? | 월가백브리핑","videoId":"5LcwqMheWY4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,6 +1,26 @@
 1:"$Sreact.fragment"
 2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"s0GyL-xoWLNaoE1d8w1ru","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 퀵브리프-2월12일] \"IT 주식 줄여라\" 이례적 '다운그레이드'..UBS가 사라는 건?","videoId":"hR-qPT2NY_Q","mdContent":"\n# [김현석의 퀵브리프-2월12일] \"IT 주식 줄여라\" 이례적 '다운그레이드'..UBS가 사라는 건?\n## 📋 한 줄 요약\n\n> AI 요약 기능이 활성화되지 않았습니다.\n\n## 🔗 원본 영상\n\n[📺 영상 보기](https://www.youtube.com/watch?v=hR-qPT2NY_Q)"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7d5,
+# [김현석의 퀵브리프-2월12일] "IT 주식 줄여라" 이례적 '다운그레이드'..UBS가 사라는 건?
+
+## 📋 한 줄 요약
+
+> UBS가 AI 투자 둔화와 고평가 부담을 이유로 IT 업종 투자의견을 중립으로 하향하며, 빅테크 내에서도 종목별 차별화 전략을 권고했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:36](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=36) UBS, IT 업종 투자의견 '비중확대'에서 '중립'으로 하향 → 시장 주도주에 대한 시각 변화의 신호탄
+- [02:17](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=137) AI 투자 증가율 둔화 우려 제기 → 하이퍼스케일러의 지출이 한계치에 도달하며 성장률 저하 가능성
+- [03:55](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=235) 소프트웨어 업종의 경쟁 심화 및 밸류에이션 잠식 → AI가 기존 업체에 위협이 되며 높은 마진 유지가 어려워짐
+- [05:04](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=304) IT 하드웨어(애플 등)의 역사적 고평가 지적 → 10년 평균 대비 과도하게 높은 P/E 배수가 부담으로 작용
+- [06:14](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=374) 제조업 지수 반등에 따른 시장 순환매 가능성 → IT 외 제조업 등 다른 섹터로 투자 자금이 분산되는 과정
+- [07:32](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=452) IT 대신 주목할 5개 섹터 제시 → 커뮤니케이션, 임의소비재, 금융, 헬스케어, 유틸리티 추천
+- [08:51](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=531) 임의소비재 내 아마존과 테슬라는 긍정적 평가 → 섹터 내에서도 핵심 우량주에 대한 선별적 접근 강조
+- [10:20](https://www.youtube.com/watch?v=hR-qPT2NY_Q&t=620) 빅테크 종목별 선별적 대응 전략 → 엔비디아·애플은 주의, 알파벳·메타·아마존은 여전히 유망
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=hR-qPT2NY_Q)0:{"buildId":"VMZG7spAb8heQEdkFA2q0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 퀵브리프-2월12일] \"IT 주식 줄여라\" 이례적 '다운그레이드'..UBS가 사라는 건?","videoId":"hR-qPT2NY_Q","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

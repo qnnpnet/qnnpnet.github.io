@@ -1,6 +1,27 @@
 1:"$Sreact.fragment"
 2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"s0GyL-xoWLNaoE1d8w1ru","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"200년 된 자존심, 스스로 부수는 중..재고폭탄에 세대교체까지, 미국 위스키 산업이 무너지고 있다 | 바이아메리카 in 뉴욕","videoId":"1E6-4fpnMPE","mdContent":"\n# 200년 된 자존심, 스스로 부수는 중..재고폭탄에 세대교체까지, 미국 위스키 산업이 무너지고 있다 | 바이아메리카 in 뉴욕\n## 📋 한 줄 요약\n\n> AI 요약 기능이 활성화되지 않았습니다.\n\n## 🔗 원본 영상\n\n[📺 영상 보기](https://www.youtube.com/watch?v=1E6-4fpnMPE)"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T913,
+# 200년 된 자존심, 스스로 부수는 중..재고폭탄에 세대교체까지, 미국 위스키 산업이 무너지고 있다 | 바이아메리카 in 뉴욕
+
+## 📋 한 줄 요약
+
+> 미국 위스키 업계가 팬데믹 시기의 과잉 생산과 젊은 층의 소비 감소, 징벌적 세금 및 무역 전쟁이라는 '퍼펙트 스톰'을 맞아 잭다니엘 등 대형 업체들까지 혹독한 구조조정에 직면해 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:49](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=49) 위스키 거물 잭다니엘의 비용 절감 및 공정 축소 → 전통의 브랜드조차 생존을 위한 긴축 경영 돌입
+- [01:37](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=97) 뉴욕 맨해튼에 등장한 신생 증류소의 스토리텔링 전략 → 입지와 경험을 강조하는 새로운 마케팅의 부상
+- [02:12](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=132) 미국 법원 위스키의 엄격한 제조 규칙과 특징 → 품질 유지의 핵심이나 비용 부담의 원인이 되기도 함
+- [05:40](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=340) 공급망의 '채찍 효과'로 인한 위스키 업계의 타격 → 수요 예측 실패가 수년 뒤 재고 폭탄으로 귀결
+- [06:13](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=373) 팬데믹 당시 과잉 생산으로 인한 1,000만 배럴의 재고 적체 → 역대급 공급 과잉이 시장 가격을 위협하는 상황
+- [07:40](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=460) 젊은 층의 '소버 큐리어스' 트렌드와 대마초 대체 현상 → 주류 소비 문화의 근본적인 구조적 변화
+- [08:04](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=484) 무역 전쟁 관세 보복으로 인한 수출길 봉쇄 → 대외 정치적 변수가 산업의 자존심을 꺾는 사례
+- [08:41](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=521) 켄터키주의 징벌적 재산세인 '배럴 택스' 부담 → 숙성 기간이 길수록 세금이 늘어나는 가혹한 구조
+- [09:35](https://www.youtube.com/watch?v=1E6-4fpnMPE&t=575) 브라운포맨의 주가 폭락과 잭다니엘의 대규모 해고 → 위스키 산업의 위기가 실물 경제 지표로 증명됨
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=1E6-4fpnMPE)0:{"buildId":"VMZG7spAb8heQEdkFA2q0","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"200년 된 자존심, 스스로 부수는 중..재고폭탄에 세대교체까지, 미국 위스키 산업이 무너지고 있다 | 바이아메리카 in 뉴욕","videoId":"1E6-4fpnMPE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

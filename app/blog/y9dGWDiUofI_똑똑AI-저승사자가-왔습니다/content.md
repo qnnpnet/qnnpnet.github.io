@@ -6,9 +6,21 @@ published_at: "2026-02-15T04:00:59Z"
 ---
 
 # 똑똑...AI 저승사자가 왔습니다 | 월가백브리핑
+
 ## 📋 한 줄 요약
 
-> AI 요약 기능이 활성화되지 않았습니다.
+> AI 교체 공포와 고평가 논란 속에 시장의 중심이 무형 자산에서 실물 제조업으로 이동하며 대규모 포트폴리오 재편과 디레버리징이 발생하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:35](https://www.youtube.com/watch?v=y9dGWDiUofI&t=35) 알고리즘 홀딩스 사태와 물류 업종 폭락 → AI 대체 공포가 실물 인프라 섹터까지 확산됨
+- [03:10](https://www.youtube.com/watch?v=y9dGWDiUofI&t=190) 성장주에서 실물 자산 및 가치주로의 선호도 변화 → 안전한 물리적 기반을 갖춘 기업으로 자금 이동
+- [06:33](https://www.youtube.com/watch?v=y9dGWDiUofI&t=393) 피지컬 AI 시대와 제조업의 중요성 부상 → 금융·소프트웨어 중심에서 제조 강국(한국 등) 유리
+- [09:48](https://www.youtube.com/watch?v=y9dGWDiUofI&t=588) 기술주 비중 축소와 전방위적 디레버리징 발생 → 포트폴리오 재편 과정에서 자산 매도 압력 심화
+- [10:51](https://www.youtube.com/watch?v=y9dGWDiUofI&t=651) 100년 채권 발행과 슈퍼볼 광고 등 버블 징후 → 역사적 고점 신호들이 AI 시장에서도 포착됨
+- [13:52](https://www.youtube.com/watch?v=y9dGWDiUofI&t=832) 주식 담보 대출 마진콜과 자산 간 연쇄 하락 → 소프트웨어 하락이 은, 코인, 반도체 매도로 연결
+- [15:35](https://www.youtube.com/watch?v=y9dGWDiUofI&t=935) 메모리 가격 상승에 따른 빅테크 마진 압박 → AI 투자 비용이 다른 IT 기업의 수익성을 저해
+- [17:47](https://www.youtube.com/watch?v=y9dGWDiUofI&t=1067) AI 케펙스(CAPEX)의 기회에서 리스크로의 전환 → 공급 부족과 비용 상승이 실적의 걸림돌로 작용
 
 ## 🔗 원본 영상
 

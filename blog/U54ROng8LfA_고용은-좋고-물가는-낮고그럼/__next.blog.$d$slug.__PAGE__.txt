@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=U54ROng8LfA)0:{"buildId":"ddc58B6qRx_gfYiVMZOB5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"고용은 좋고, 물가는 낮고...그럼 이제는 금리 인하? | 월가백브리핑","videoId":"U54ROng8LfA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=U54ROng8LfA)0:{"buildId":"tIycuEcxUQOmuxqurqxIN","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"고용은 좋고, 물가는 낮고...그럼 이제는 금리 인하? | 월가백브리핑","videoId":"U54ROng8LfA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

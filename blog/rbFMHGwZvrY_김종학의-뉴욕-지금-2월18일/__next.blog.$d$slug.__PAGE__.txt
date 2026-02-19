@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7b0,
+# [김종학의 뉴욕, 지금-2월18일] 미-이란 2차 협상 | 미중 AI 기술 경쟁 가속 | 드러켄 밀러 쿠팡 추가 구매 | 종목(아마존, 마이크론, 애플, 유나이티드헬스)
+
+## 📋 한 줄 요약
+
+> 뉴욕 증시는 특별한 경제 지표 없이 보합권에서 숨고르기를 이어갔으며, AI 경쟁 심화와 드루켄밀러의 포트폴리오 조정, 빅테크의 개별 반등이 주요 이슈였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:28](https://www.youtube.com/watch?v=rbFMHGwZvrY&t=28) 뉴욕 증시, 주요 지수 보합권 마감 및 숨고르기 장세 → 뚜렷한 시장 재료 부재로 인한 관망세 지속
+- [05:00](https://www.youtube.com/watch?v=rbFMHGwZvrY&t=300) 미국-이란 핵협상 긍정적 진행 및 국제 유가 하락 → 중동 리스크 완화 가능성에 따른 에너지 가격 안정
+- [06:46](https://www.youtube.com/watch?v=rbFMHGwZvrY&t=406) 앤스로픽 신제품 출시 등 AI 기술 경쟁 가속화 → 오픈AI와 구글을 위협하는 후발 주자들의 공세
+- [08:30](https://www.youtube.com/watch?v=rbFMHGwZvrY&t=510) 드루켄밀러 13F 공시: 쿠팡 비중 확대 및 TSMC 축소 → 대형 기술주에서 이커머스 및 기타 섹터로의 비중 조절
+- [09:53](https://www.youtube.com/watch?v=rbFMHGwZvrY&t=593) 아크 인노베이션(ARKK)의 나스닥 대비 저조한 성과 → 성장주 중심 액티브 ETF에 대한 시장의 회의론 확산
+- [10:48](https://www.youtube.com/watch?v=rbFMHGwZvrY&t=648) 아마존 10일 만의 반등 및 애플의 웨어러블 기대감 상승 → 낙폭 과대에 따른 저가 매수세 유입과 신제품 모멘텀
+- [12:34](https://www.youtube.com/watch?v=rbFMHGwZvrY&t=754) 파라마운트와 워너브라더스 등 미디어 업계 M&A 논의 → 스트리밍 시장 생존을 위한 대형 미디어사들의 합병 추진
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=rbFMHGwZvrY)0:{"buildId":"tIycuEcxUQOmuxqurqxIN","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월18일] 미-이란 2차 협상 | 미중 AI 기술 경쟁 가속 | 드러켄 밀러 쿠팡 추가 구매 | 종목(아마존, 마이크론, 애플, 유나이티드헬스)","videoId":"rbFMHGwZvrY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

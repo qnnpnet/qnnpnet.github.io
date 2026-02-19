@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7d1,
+# [김현석의 월스트리트나우-2월19일] '금리 인상' 매파의 반란..AI 공포 완화됐지만 빅테크 투자 줄인다?
+
+## 📋 한 줄 요약
+
+> 미국 증시는 엔비디아 주도의 기술주 반등과 견조한 경제 지표에도 불구하고, 매파적인 FOMC 회의록 공개로 금리 인하 기대가 꺾이며 상승폭을 일부 반납했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:39](https://www.youtube.com/watch?v=8m4vEnQZ_Ac&t=39) 증시 상승세 중 매파적 FOMC 회의록 발표로 상승폭 축소 → AI 공포는 완화되었으나 금리 우려가 다시 시장을 압박함
+- [02:35](https://www.youtube.com/watch?v=8m4vEnQZ_Ac&t=155) 엔비디아-메타 대규모 공급 계약 및 GTC 신제품 기대감 → 엔비디아의 독점적 지위와 기술적 우위가 재확인됨
+- [06:30](https://www.youtube.com/watch?v=8m4vEnQZ_Ac&t=390) 소프트웨어 업종의 과매도 해소 및 저가 매수세 유입 → 반도체 쏠림 현상이 극단에 달하며 순환매 가능성 제기
+- [11:30](https://www.youtube.com/watch?v=8m4vEnQZ_Ac&t=690) 빅테크 기업들의 과도한 AI 자본 지출(CAPEX) 우려 확산 → 막대한 투자 대비 수익 회수 시점에 대한 시장의 의구심 증폭
+- [16:02](https://www.youtube.com/watch?v=8m4vEnQZ_Ac&t=962) 내구제 주문 및 산업 생산 등 강력한 경제 데이터 발표 → 미국 경제가 예상보다 훨씬 견고하게 회복되고 있음을 시사
+- [19:53](https://www.youtube.com/watch?v=8m4vEnQZ_Ac&t=1193) 1월 FOMC 회의록 공개, 일부 위원 금리 인상 가능성 언급 → 연준의 신중한 태도가 확인되며 조기 금리 인하 기대감 후퇴
+- [24:52](https://www.youtube.com/watch?v=8m4vEnQZ_Ac&t=1492) 이란 관련 지정학적 긴장 고조로 인한 국제 유가 급등 → 에너지 가격 상승이 인플레이션 둔화 속도를 늦출 위험 존재
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=8m4vEnQZ_Ac)0:{"buildId":"tIycuEcxUQOmuxqurqxIN","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월19일] '금리 인상' 매파의 반란..AI 공포 완화됐지만 빅테크 투자 줄인다?","videoId":"8m4vEnQZ_Ac","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

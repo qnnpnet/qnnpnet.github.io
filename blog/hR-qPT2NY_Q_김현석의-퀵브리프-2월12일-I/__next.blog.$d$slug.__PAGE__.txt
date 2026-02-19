@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=hR-qPT2NY_Q)0:{"buildId":"ddc58B6qRx_gfYiVMZOB5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 퀵브리프-2월12일] \"IT 주식 줄여라\" 이례적 '다운그레이드'..UBS가 사라는 건?","videoId":"hR-qPT2NY_Q","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=hR-qPT2NY_Q)0:{"buildId":"tIycuEcxUQOmuxqurqxIN","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 퀵브리프-2월12일] \"IT 주식 줄여라\" 이례적 '다운그레이드'..UBS가 사라는 건?","videoId":"hR-qPT2NY_Q","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

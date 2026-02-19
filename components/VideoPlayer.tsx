@@ -41,17 +41,15 @@ export default function VideoPlayer({
 
     return (
         <div className="video-player-container">
-            <div className="video-wrapper mb-4">
+            <div className="video-wrapper mb-4 w-full aspect-video">
                 <iframe
                     id={`youtube-player-${videoId}`}
-                    width="560"
-                    height="315"
                     src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1`}
                     title="YouTube video player"
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
-                    className="w-full aspect-video rounded-lg shadow-lg"
+                    className="w-full h-full rounded-lg shadow-lg"
                 />
             </div>
 

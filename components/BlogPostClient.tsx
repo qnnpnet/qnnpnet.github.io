@@ -60,10 +60,12 @@ export default function BlogPostClient({
                 </header>
 
                 {videoId && (
-                    <VideoPlayer
-                        videoId={videoId}
-                        currentTime={timestamp || 0}
-                    />
+                    <div className="sticky top-0 z-40 bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm py-4 mb-6">
+                        <VideoPlayer
+                            videoId={videoId}
+                            currentTime={timestamp || 0}
+                        />
+                    </div>
                 )}
 
                 <div className="markdown-body bg-white dark:bg-gray-900 p-6 rounded-lg shadow-sm">

@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
+2:I[54151,["/_next/static/chunks/fbef2beb6bea99c5.js"],"default"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:T7b0,
@@ -21,5 +21,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=rbFMHGwZvrY)0:{"buildId":"tIycuEcxUQOmuxqurqxIN","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월18일] 미-이란 2차 협상 | 미중 AI 기술 경쟁 가속 | 드러켄 밀러 쿠팡 추가 구매 | 종목(아마존, 마이크론, 애플, 유나이티드헬스)","videoId":"rbFMHGwZvrY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=rbFMHGwZvrY)0:{"buildId":"SZ-DeQg-JsFs49Qr-TU6x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월18일] 미-이란 2차 협상 | 미중 AI 기술 경쟁 가속 | 드러켄 밀러 쿠팡 추가 구매 | 종목(아마존, 마이크론, 애플, 유나이티드헬스)","videoId":"rbFMHGwZvrY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/fbef2beb6bea99c5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

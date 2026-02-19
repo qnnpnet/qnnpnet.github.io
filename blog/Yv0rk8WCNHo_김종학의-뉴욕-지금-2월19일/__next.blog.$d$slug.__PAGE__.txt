@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[54151,["/_next/static/chunks/c0f3748a407c0516.js"],"default"]
+2:I[54151,["/_next/static/chunks/fbef2beb6bea99c5.js"],"default"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:T779,
@@ -21,5 +21,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=Yv0rk8WCNHo)0:{"buildId":"tIycuEcxUQOmuxqurqxIN","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월19일] 버크셔, 기술주 축소 | 데이비드 테퍼, 마이크론 비중 확대 | 암호화폐 ‘명확성' 법안 | 종목(엔비디아, AMD, ARM, 샌디스크)","videoId":"Yv0rk8WCNHo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/c0f3748a407c0516.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=Yv0rk8WCNHo)0:{"buildId":"SZ-DeQg-JsFs49Qr-TU6x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월19일] 버크셔, 기술주 축소 | 데이비드 테퍼, 마이크론 비중 확대 | 암호화폐 ‘명확성' 법안 | 종목(엔비디아, AMD, ARM, 샌디스크)","videoId":"Yv0rk8WCNHo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/fbef2beb6bea99c5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -1,0 +1,27 @@
+---
+title: "[김현석의 브레이킹 뉴스] 4분기 미국 GDP · 12월 PCE(개인소비지출) 물가 발표! 2월 20일 오후 10시30분 L.I.V.E"
+video_id: "JGbZLBOU2UU"
+tags: "김현석의 브레이킹 뉴스, 김현석, 브레이킹 뉴스"
+published_at: "2026-02-20T13:46:42Z"
+---
+
+# [김현석의 브레이킹 뉴스] 4분기 미국 GDP · 12월 PCE(개인소비지출) 물가 발표! 2월 20일 오후 10시30분 L.I.V.E
+
+## 📋 한 줄 요약
+
+> 미국 4분기 GDP 성장률이 예상을 하회하고 PCE 물가는 소폭 상회하면서 금리 인하 기대감이 위축되어 시장은 관망세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:24](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=24) 12월 PCE 물가 및 4분기 GDP 발표 대기 → 시장 방향성을 결정할 핵심 지표
+- [01:23](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=83) 근원 PCE 물가 및 GDP에 대한 시장 예상치 → 견조한 성장과 물가 둔화 여부가 관건
+- [03:29](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=209) FOMC 회의록 내 금리 인상 가능성 언급 → 연준 내 매파적 목소리에 시장 긴장
+- [05:03](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=303) 4분기 GDP 1.4% 및 근원 PCE 0.4% 실제 발표 → 성장은 예상보다 낮고 물가는 높음
+- [05:42](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=342) 3월 금리 인하 가능성 사실상 소멸 → 물가 가속화 우려로 인하 시점 지연
+- [06:20](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=380) 국제 비상 경제 권법 관세 판결 대기 → 추가적인 대외 변수에 대한 관망세
+- [07:24](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=444) 성장 둔화와 물가 상승의 상쇄 효과 → 지표 혼조세로 인한 시장의 중립적 반응
+- [08:56](https://www.youtube.com/watch?v=JGbZLBOU2UU&t=536) 민간 부문 실질 최종 판매 2.4% 증가 → 표면적 GDP보다 견조한 민간 소비 체력
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=JGbZLBOU2UU)

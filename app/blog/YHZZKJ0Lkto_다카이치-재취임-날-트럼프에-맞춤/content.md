@@ -1,0 +1,26 @@
+---
+title: "다카이치 재취임 날, 트럼프에 맞춤 선물 | 김일규의 도쿄나우"
+video_id: "YHZZKJ0Lkto"
+tags: "김일규, 도쿄나우"
+published_at: "2026-02-20T10:01:01Z"
+---
+
+# 다카이치 재취임 날, 트럼프에 맞춤 선물 | 김일규의 도쿄나우
+
+## 📋 한 줄 요약
+
+> 일본 다카이치 내각이 대규모 대미 투자를 통해 미일 동맹을 강화하며 한국에 대한 투자 압박이 거세지는 가운데, 공격적인 재정 및 안보 정책에 대한 우려가 공존하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:38](https://www.youtube.com/watch?v=YHZZKJ0Lkto&t=38) 다카이치 총리 재선출 및 제2차 내각 출범 → 총선 압승을 바탕으로 강력한 국정 운영 동력 확보
+- [01:30](https://www.youtube.com/watch?v=YHZZKJ0Lkto&t=90) 적극적 재정 확대 및 식품 소비세 한시적 폐지 추진 → 사나에노믹스 본격화로 경기 부양 의지 표명
+- [02:30](https://www.youtube.com/watch?v=YHZZKJ0Lkto&t=150) IMF의 일본 재정 건전성 악화 경고 → 감세로 인한 세수 결손과 국채 이자 부담에 대한 국제적 우려
+- [03:55](https://www.youtube.com/watch?v=YHZZKJ0Lkto&t=235) 무기 수출 규제 완화 및 공격용 드론 도입 → 평화헌법 위배 논란 속에서도 안보 보수주의 정책 가속화
+- [04:48](https://www.youtube.com/watch?v=YHZZKJ0Lkto&t=288) 360억 달러 규모의 대미 투자 1호 프로젝트 공개 → 미국과의 경제적 유대 강화를 통한 공급망 주도권 확보
+- [07:25](https://www.youtube.com/watch?v=YHZZKJ0Lkto&t=445) 중국의 '정치적 충성 서약' 비판 → 미일 밀착에 대한 중국의 경계심과 지정학적 긴장 고조
+- [08:35](https://www.youtube.com/watch?v=YHZZKJ0Lkto&t=515) 일본의 속도전에 따른 한국의 대미 투자 압박 심화 → 관세 위협 속 국내 법안 처리 지연으로 인한 통상 위기 우려
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=YHZZKJ0Lkto)

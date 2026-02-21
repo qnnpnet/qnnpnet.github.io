@@ -1,0 +1,27 @@
+---
+title: "[김종학의 뉴욕, 지금-2월21일] 미 대법원, ‘해방의 날 관세’ 무효화 | 트럼프, 새 관세 10% 즉각 서명 | 종목(코어위브, 블루아울, 알파벳, 테슬라, 뉴몬트)"
+video_id: "5vmdFKNjlbM"
+tags: "김종학의 뉴욕 지금-2월21일, 김종학, 뉴욕 지금"
+published_at: "2026-02-20T21:53:29Z"
+---
+
+# [김종학의 뉴욕, 지금-2월21일] 미 대법원, ‘해방의 날 관세’ 무효화 | 트럼프, 새 관세 10% 즉각 서명 | 종목(코어위브, 블루아울, 알파벳, 테슬라, 뉴몬트)
+
+## 📋 한 줄 요약
+
+> 미 대법원의 관세 무효화 판결과 트럼프의 새로운 10% 보편 관세 도입 등 정책 혼선 속에서도 미 증시는 기술주 중심으로 상승 마감했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:43](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=43) 미 증시 3대 지수 일제히 상승 마감 → 관세 불확실성 소화 및 기술주 반등
+- [03:19](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=199) 미 대법원, 트럼프의 IEEPA 기반 관세 불법 판결 → 대통령의 독자적 세금 부과 권한에 제동
+- [06:53](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=413) 트럼프, 전 세계 대상 10% 신규 관세 행정명령 서명 → 대법원 판결에 대한 즉각적인 보복성 정책
+- [07:47](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=467) 최대 2,500억 달러 규모의 관세 환급 가능성 제기 → 기업 수익 개선 및 경기 부양 효과 기대
+- [10:55](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=655) 미국 4분기 GDP 1.4% 기록, 예상치 하회 → 정부 셧다운 여파로 인한 성장 둔화 확인
+- [12:33](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=753) 구글, 추론 효율 높인 '제미나이 3.1' 프리뷰 공개 → AI 모델의 실질적 성능 개선에 집중
+- [13:38](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=818) 테슬라, 사이버트럭 가격 인하 및 법적 배상 판결 → 수요 진작 노력과 자율주행 리스크 공존
+- [16:54](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=1014) 차주 트럼프 대통령의 의회 연설 예정 → 향후 관세 및 경제 정책의 핵심 분수령
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=5vmdFKNjlbM)

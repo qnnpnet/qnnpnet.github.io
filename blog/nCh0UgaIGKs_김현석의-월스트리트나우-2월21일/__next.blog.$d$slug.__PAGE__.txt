@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T940,
+# [김현석의 월스트리트나우-2월21일] '상호관세' 위헌, 대체 관세는 10%..빅테크는 왜 올랐나
+
+## 📋 한 줄 요약
+
+> 미국 대법원의 관세 위헌 판결과 트럼프의 10% 글로벌 관세 발표로 관세율 하락 기대감이 커지며 증시가 상승했고, GDP 둔화에도 민간 소비는 견조함을 유지했습니다.
+
+## 🧠 핵심 포인트
+
+- [01:10](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=70) 대법원의 관세 위헌 판결과 트럼프의 10% 글로벌 관세 발표 → 기존 상호관세보다 낮은 세율 적용으로 시장은 관세 부담 완화로 해석
+- [02:14](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=134) 미국 4분기 GDP 성장률 1.4% 기록하며 예상치 하회 → 정부 셧다운에 따른 일시적 둔화일 뿐, 민간 소비 지출은 여전히 강력함
+- [04:32](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=272) 12월 PCE 물가 지표 예상 부합 및 전월 대비 가속화 → 인플레이션 우려가 완전히 해소되지 않아 3월 금리 인하 가능성은 낮음
+- [08:36](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=516) 대법원, 대통령의 아이파(IEEPA) 관세 부과 권한에 위헌 판결 → 대통령의 독단적인 관세 부과에 제동이 걸리며 무역 불확실성 일부 해소
+- [14:13](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=853) 실효 관세율이 기존 16%에서 13% 수준으로 낮아질 전망 → 수입 의존도가 높은 유통, IT, 소비재 기업들에게 실질적인 호재로 작용
+- [17:30](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=1050) 블루아울 캐피털의 환매 중단으로 인한 사모 대출 시장 불안 → AI 소프트웨어 업황 우려가 금융 시장의 유동성 리스크로 전이되는 양상
+- [19:34](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=1174) 앤스로픽의 AI 보안 도구 출시로 사이버 보안주 일제히 폭락 → 생성형 AI가 기존 소프트웨어 기업들의 비즈니스 모델을 직접 위협하기 시작
+- [23:30](https://www.youtube.com/watch?v=nCh0UgaIGKs&t=1410) 기술주 바닥론 대두 및 엔비디아 실적 발표 기대감 → 과매도 구간에 진입한 소프트웨어와 대형 기술주(Mag 7)의 반등 가능성 주목
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=nCh0UgaIGKs)0:{"buildId":"izTZs20jv134iRBvh8LMt","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월21일] '상호관세' 위헌, 대체 관세는 10%..빅테크는 왜 올랐나","videoId":"nCh0UgaIGKs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T737,
+# 커져가는 사모대출 불안..하지만 금융위기는 걱정 없다? | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 사모 신용 시장의 리스크와 블루아울의 환매 중단 사태를 분석하고, 소프트웨어 및 헬스케어 섹터의 저평가 종목 매수 전략을 공유합니다.
+
+## 🧠 핵심 포인트
+
+- [00:00](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=0) 사모 신용(Private Credit) 시장의 위기 징후 → 고금리 상황 속 리스크 관리 필요성 대두
+- [02:21](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=141) 블루아울 캐피탈의 환매 중단 및 자산 매각 → 유동성 문제로 인한 투자자 불안 확산
+- [03:53](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=233) 소프트웨어 섹터 하락이 사모 펀드에 미치는 영향 → 대출처의 부실이 펀드 건전성 악화로 전이
+- [07:40](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=460) 사모 펀드의 폐쇄형 구조와 환매 제한 → 장기 자산 특성상 개인 투자자의 자금 회수 어려움
+- [09:13](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=553) AI 시대 소프트웨어 기업의 해자(Moat) 논쟁 → 사용자 교육과 습관이 강력한 진입장벽 역할
+- [10:30](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=630) 사이버 보안 및 방산 종목 신규 매수 → 과도한 하락을 이용한 저점 매수 전략
+- [11:22](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=682) 일본 및 중국 시장(EV)에 대한 긍정적 시각 → 지역별 차별화된 투자 기회 포착
+- [12:42](https://www.youtube.com/watch?v=9NwpLaWyJ2M&t=762) 헬스케어 섹터의 반등과 저평가 종목 공략 → 머크, 유나이티드헬스 등 가치주 중심의 수익 창출
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=9NwpLaWyJ2M)0:{"buildId":"izTZs20jv134iRBvh8LMt","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"커져가는 사모대출 불안..하지만 금융위기는 걱정 없다? | 월가백브리핑","videoId":"9NwpLaWyJ2M","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

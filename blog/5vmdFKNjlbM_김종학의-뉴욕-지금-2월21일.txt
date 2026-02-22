@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"izTZs20jv134iRBvh8LMt","c":["","blog","5vmdFKNjlbM_%EA%B9%80%EC%A2%85%ED%95%99%EC%9D%98-%EB%89%B4%EC%9A%95-%EC%A7%80%EA%B8%88-2%EC%9B%9421%EC%9D%BC"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","5vmdFKNjlbM_%EA%B9%80%EC%A2%85%ED%95%99%EC%9D%98-%EB%89%B4%EC%9A%95-%EC%A7%80%EA%B8%88-2%EC%9B%9421%EC%9D%BC","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T79c,
+# [김종학의 뉴욕, 지금-2월21일] 미 대법원, ‘해방의 날 관세’ 무효화 | 트럼프, 새 관세 10% 즉각 서명 | 종목(코어위브, 블루아울, 알파벳, 테슬라, 뉴몬트)
+
+## 📋 한 줄 요약
+
+> 미 대법원의 관세 무효화 판결과 트럼프의 새로운 10% 보편 관세 도입 등 정책 혼선 속에서도 미 증시는 기술주 중심으로 상승 마감했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:43](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=43) 미 증시 3대 지수 일제히 상승 마감 → 관세 불확실성 소화 및 기술주 반등
+- [03:19](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=199) 미 대법원, 트럼프의 IEEPA 기반 관세 불법 판결 → 대통령의 독자적 세금 부과 권한에 제동
+- [06:53](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=413) 트럼프, 전 세계 대상 10% 신규 관세 행정명령 서명 → 대법원 판결에 대한 즉각적인 보복성 정책
+- [07:47](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=467) 최대 2,500억 달러 규모의 관세 환급 가능성 제기 → 기업 수익 개선 및 경기 부양 효과 기대
+- [10:55](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=655) 미국 4분기 GDP 1.4% 기록, 예상치 하회 → 정부 셧다운 여파로 인한 성장 둔화 확인
+- [12:33](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=753) 구글, 추론 효율 높인 '제미나이 3.1' 프리뷰 공개 → AI 모델의 실질적 성능 개선에 집중
+- [13:38](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=818) 테슬라, 사이버트럭 가격 인하 및 법적 배상 판결 → 수요 진작 노력과 자율주행 리스크 공존
+- [16:54](https://www.youtube.com/watch?v=5vmdFKNjlbM&t=1014) 차주 트럼프 대통령의 의회 연설 예정 → 향후 관세 및 경제 정책의 핵심 분수령
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=5vmdFKNjlbM)4:["$","$Ld",null,{"title":"[김종학의 뉴욕, 지금-2월21일] 미 대법원, ‘해방의 날 관세’ 무효화 | 트럼프, 새 관세 10% 즉각 서명 | 종목(코어위브, 블루아울, 알파벳, 테슬라, 뉴몬트)","videoId":"5vmdFKNjlbM","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"[김종학의 뉴욕, 지금-2월21일] 미 대법원, ‘해방의 날 관세’ 무효화 | 트럼프, 새 관세 10% 즉각 서명 | 종목(코어위브, 블루아울, 알파벳, 테슬라, 뉴몬트)"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

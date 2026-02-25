@@ -1,0 +1,30 @@
+---
+title: "99치킨에서 맺은 하이닉스-엔비디아 동맹…연쇄 회동 의미는? | 김인엽의 실리콘밸리나우"
+video_id: "_v-99qx0yto"
+tags: "미국주식"
+published_at: "2026-02-25T10:00:51Z"
+---
+
+# 99치킨에서 맺은 하이닉스-엔비디아 동맹…연쇄 회동 의미는? | 김인엽의 실리콘밸리나우
+
+## 📋 한 줄 요약
+
+> 젠슨 황 엔비디아 CEO가 SK그룹과 협력을 강화하며 AI는 거품이 아닌 역사상 최대 규모의 인프라 구축의 시작임을 강조했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:02](https://www.youtube.com/watch?v=_v-99qx0yto&t=2) 젠슨 황의 단골집 '구구치킨'에서 열린 SK와의 회동 → 한국 치킨을 매개로 한 친밀한 파트너십 과시
+- [01:07](https://www.youtube.com/watch?v=_v-99qx0yto&t=67) 최태원 회장과 젠슨 황의 전략적 만남 → 메모리를 넘어 AI 인프라 전반으로 협력 확대
+- [01:59](https://www.youtube.com/watch?v=_v-99qx0yto&t=119) 젠슨 황의 '5단 케이크론'과 SK의 전략 일치 → 에너지, 데이터센터 등 AI 생태계 전 영역의 중요성 강조
+- [02:41](https://www.youtube.com/watch?v=_v-99qx0yto&t=161) SK하이닉스 HBM과 엔비디아 GPU의 운명 공동체 관계 → HBM 성능이 AI 가속기 성능의 핵심임을 재확인
+- [04:48](https://www.youtube.com/watch?v=_v-99qx0yto&t=288) AI 거품론 일축 및 역사적 인프라 구축 강조 → AI 산업이 초기 단계이며 장기적 성장을 확신함
+- [05:31](https://www.youtube.com/watch?v=_v-99qx0yto&t=331) 경쟁을 두려워하지 않는 젠슨 황의 철학 → 경쟁의 존재가 곧 시장의 활력을 의미한다는 자신감
+- [05:56](https://www.youtube.com/watch?v=_v-99qx0yto&t=356) 차기 GTC에서의 혁신적인 신제품 발표 예고 → 기술적 한계를 돌파하는 신규 칩에 대한 기대감 고조
+- [09:52](https://www.youtube.com/watch?v=_v-99qx0yto&t=592) 젠슨 황의 소탈한 리더십과 지속적인 위기 의식 → 성공 뒤에 숨겨진 절박함이 엔비디아의 진정한 경쟁력
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=_v-99qx0yto)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/_v-99qx0yto_99치킨에서-맺은-하이닉스-엔비디아)

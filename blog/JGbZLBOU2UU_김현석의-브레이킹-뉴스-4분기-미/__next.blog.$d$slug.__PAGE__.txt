@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=JGbZLBOU2UU)0:{"buildId":"awdhA3ySD8CvLphkBMTg7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 브레이킹 뉴스] 4분기 미국 GDP · 12월 PCE(개인소비지출) 물가 발표! 2월 20일 오후 10시30분 L.I.V.E","videoId":"JGbZLBOU2UU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=JGbZLBOU2UU)0:{"buildId":"ekuP7nCM-n_04gucr9UIY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 브레이킹 뉴스] 4분기 미국 GDP · 12월 PCE(개인소비지출) 물가 발표! 2월 20일 오후 10시30분 L.I.V.E","videoId":"JGbZLBOU2UU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=_v-99qx0yto)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/_v-99qx0yto_99치킨에서-맺은-하이닉스-엔비디아)0:{"buildId":"awdhA3ySD8CvLphkBMTg7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"99치킨에서 맺은 하이닉스-엔비디아 동맹…연쇄 회동 의미는? | 김인엽의 실리콘밸리나우","videoId":"_v-99qx0yto","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/_v-99qx0yto_99치킨에서-맺은-하이닉스-엔비디아)0:{"buildId":"ekuP7nCM-n_04gucr9UIY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"99치킨에서 맺은 하이닉스-엔비디아 동맹…연쇄 회동 의미는? | 김인엽의 실리콘밸리나우","videoId":"_v-99qx0yto","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

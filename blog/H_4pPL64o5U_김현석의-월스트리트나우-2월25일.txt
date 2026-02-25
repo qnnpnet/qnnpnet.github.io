@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"awdhA3ySD8CvLphkBMTg7","c":["","blog","H_4pPL64o5U_%EA%B9%80%ED%98%84%EC%84%9D%EC%9D%98-%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%82%98%EC%9A%B0-2%EC%9B%9425%EC%9D%BC"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","H_4pPL64o5U_%EA%B9%80%ED%98%84%EC%84%9D%EC%9D%98-%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%82%98%EC%9A%B0-2%EC%9B%9425%EC%9D%BC","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T917,
+# [김현석의 월스트리트나우-2월25일] 앤트로픽이 살렸다, 소프트웨어 반등..메모리가 다음 희생양?
+
+## 📋 한 줄 요약
+
+> AI 공포 완화와 메타-AMD의 협력, 앤트로픽의 파트너십 전략으로 증시가 반등했으나 관세 불확실성과 반도체 고점론에 대한 경계심은 여전합니다.
+
+## 🧠 핵심 포인트
+
+- [00:47](https://www.youtube.com/watch?v=H_4pPL64o5U&t=47) 미 증시, AI 공포와 관세 불안을 딛고 하루 만에 반등 → 어제의 급락을 대부분 회복하며 시장의 복원력을 확인
+- [02:11](https://www.youtube.com/watch?v=H_4pPL64o5U&t=131) 메타와 AMD의 대규모 AI 칩 공급 계약 발표 → 엔비디아 독점 체제에 대한 대안으로서 AMD의 입지 강화
+- [03:51](https://www.youtube.com/watch?v=H_4pPL64o5U&t=231) 앤트로픽, 기존 소프트웨어 업체와의 파트너십 발표 → AI가 기존 소프트웨어를 대체할 것이라는 우려를 완화하며 관련주 상승
+- [06:31](https://www.youtube.com/watch?v=H_4pPL64o5U&t=391) 시트론 리서치의 비관적 AI 보고서에 대한 월가의 반박 → AI로 인한 소비 붕괴 시나리오가 지나치게 극단적이라는 평가
+- [12:33](https://www.youtube.com/watch?v=H_4pPL64o5U&t=753) 제이미 다이먼, 사모 대출 위험 및 AI 산업 변화 경고 → 금융 시스템 내 잠재적 위험 요소에 대한 보수적 접근 강조
+- [16:51](https://www.youtube.com/watch?v=H_4pPL64o5U&t=1011) 반도체 고점론 및 소프트웨어로의 수급 이동 가능성 제기 → 메모리 가격 정점 우려와 함께 업종 간 수익률 격차 축소 전망
+- [19:08](https://www.youtube.com/watch?v=H_4pPL64o5U&t=1148) 트럼프 행정부의 10% 글로벌 관세 발효 및 추가 검토 → 관세 불확실성이 장기적인 시장 변동성 요인으로 잔존
+- [25:37](https://www.youtube.com/watch?v=H_4pPL64o5U&t=1537) 엔비디아 실적 발표 대기 및 워크데이 가이던스 실망 → 실적 결과에 따라 AI 및 소프트웨어 업종의 향방이 결정될 것
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=H_4pPL64o5U)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/H_4pPL64o5U_김현석의-월스트리트나우-2월25일)4:["$","$Ld",null,{"title":"[김현석의 월스트리트나우-2월25일] 앤트로픽이 살렸다, 소프트웨어 반등..메모리가 다음 희생양?","videoId":"H_4pPL64o5U","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"[김현석의 월스트리트나우-2월25일] 앤트로픽이 살렸다, 소프트웨어 반등..메모리가 다음 희생양?"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

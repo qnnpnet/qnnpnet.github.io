@@ -1,0 +1,29 @@
+---
+title: "또 다시 시작된 '메이드 인 차이나'의 공습…한국도 '흔들'"
+video_id: "FxuYYYKmQJ0"
+tags: "미국주식"
+published_at: "2026-02-26T10:00:19Z"
+---
+
+# 또 다시 시작된 '메이드 인 차이나'의 공습…한국도 '흔들'
+
+## 📋 한 줄 요약
+
+> 중국 전기차 시장이 보조금 종료 이후 하드웨어 가격 경쟁을 넘어 화웨이·샤오미 등 빅테크와의 협업을 통한 소프트웨어 및 지능형 디지털 경험 중심으로 급격히 재편되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:07](https://www.youtube.com/watch?v=FxuYYYKmQJ0&t=7) 베이징자동차와 화웨이의 협업 브랜드 '스텔라토' 공개 → 전통 완성차 제조 역량과 빅테크의 소프트웨어 기술 결합
+- [01:29](https://www.youtube.com/watch?v=FxuYYYKmQJ0&t=89) 화웨이의 역할이 설계, 마케팅, 판매 채널까지 전방위로 확대 → IT 기업이 자동차 산업의 기획부터 서비스까지 주도하는 양상
+- [03:02](https://www.youtube.com/watch?v=FxuYYYKmQJ0&t=182) 전기차 경쟁의 핵심이 배터리 원가에서 소프트웨어로 이동 → 보조금 종료 후 지능화 및 프리미엄 차별화가 생존 전략으로 부상
+- [04:21](https://www.youtube.com/watch?v=FxuYYYKmQJ0&t=261) 샤오미 SU7, 스마트폰 생태계 연결성 앞세워 테슬라 추월 → 기존 IT 생태계의 영향력이 자동차 구매 결정의 핵심 요소로 작용
+- [05:25](https://www.youtube.com/watch?v=FxuYYYKmQJ0&t=325) 시장 과잉 생산 해소를 위한 대형사 중심의 구조조정 및 M&A 활발 → 기술력과 자본력을 갖춘 상위 브랜드 위주의 시장 재편 가속화
+- [06:56](https://www.youtube.com/watch?v=FxuYYYKmQJ0&t=416) 7년 만기 1%대 초저금리 할부 등 변형된 가격 경쟁 도입 → 직접적 가격 인하 대신 금융 혜택을 통한 고도화된 판촉 전략
+- [08:10](https://www.youtube.com/watch?v=FxuYYYKmQJ0&t=490) 비야디(BYD) 등 중국 전기차 브랜드의 한국 및 글로벌 시장 공습 → 가성비와 소프트웨어 강점을 앞세운 중국산 차량의 글로벌 영향력 확대
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=FxuYYYKmQJ0)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/FxuYYYKmQJ0_또-다시-시작된-메이드-인-차이나)

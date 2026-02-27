@@ -1,0 +1,32 @@
+---
+title: "[김현석의 월스트리트나우-2월27일] \"경이로운 실적\"에도 고꾸라진 엔비디아..월가 걱정하는 건 이것!"
+video_id: "pwvNaYVpkaY"
+tags: "김현석의 월스트리트나우-2월27일, 김현석, 월스트리트나우"
+published_at: "2026-02-26T22:35:20Z"
+---
+
+# [김현석의 월스트리트나우-2월27일] "경이로운 실적"에도 고꾸라진 엔비디아..월가 걱정하는 건 이것!
+
+## 📋 한 줄 요약
+
+> 엔비디아의 기록적인 실적에도 불구하고 하이퍼스케일러의 자본 지출 정점 우려와 기술적 요인으로 반도체주가 급락하며 소프트웨어 및 금융주로의 순환매가 나타났습니다.
+
+## 🧠 핵심 포인트
+
+- [00:50](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=50) 엔비디아 실적 발표 후 5% 이상 급락 → 어닝 서프라이즈에도 불구하고 시장의 높은 기대치와 차익 실현 욕구가 충돌함
+- [04:21](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=261) 하이퍼스케일러 자본 지출(Capex) 증가율 둔화 우려 → 빅테크들의 투자 정점 통과 가능성이 반도체 밸류에이션에 부정적 영향
+- [06:32](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=392) 젠슨 황의 AI 투자 수익성 확신 → 컴퓨팅 투자가 기업의 현금 흐름 창출로 이어지는 변곡점에 있음을 강조
+- [08:23](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=503) 옵션 시장의 기술적 요인에 의한 하락 가속 → 딜러들의 콜옵션 해지용 현물 매도가 주가 하락폭을 키운 기술적 배경
+- [09:22](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=562) 반도체에서 소프트웨어 업종으로의 자금 순환매 → 하드웨어와 소프트웨어 간의 극단적 수익률 격차가 평균으로 회기하는 과정
+- [11:31](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=691) 세일스포스의 500억 달러 규모 자사주 매입 → 성장 둔화 우려를 막대한 주주 환원 정책으로 방어하려는 전략
+- [14:11](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=851) HBM의 대안 기술인 LPU와 SRAM 부각 → 엔비디아의 기술 확장 노력이 한국 HBM 관련주에 리스크가 될 가능성 시사
+- [16:33](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=993) 미국 고용 시장의 지속적인 견조함 확인 → AI가 단기적으로 대규모 실직을 유발하지는 않을 것이라는 안도감 형성
+- [18:11](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=1091) 채권 시장의 AI 관련 장기 디플레이션 우려 → 미래의 고용 악화 가능성을 선반영하며 국채 수익률이 하락하는 이례적 현상
+- [20:34](https://www.youtube.com/watch?v=pwvNaYVpkaY&t=1234) 시장 전체의 강세 전망 유지 및 업종별 차별화 → 돈이 시장을 떠나는 것이 아니라 AI 외의 저평가된 섹터로 이동 중
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=pwvNaYVpkaY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/pwvNaYVpkaY_김현석의-월스트리트나우-2월27일)

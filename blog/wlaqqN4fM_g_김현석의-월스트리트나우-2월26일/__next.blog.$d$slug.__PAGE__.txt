@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T98f,
+# [김현석의 월스트리트나우-2월26일] 'AI 공포' 바닥쳤나..메모리 폭등에도 엔비디아 마진 75%↑
+
+## 📋 한 줄 요약
+
+> 엔비디아의 압도적 실적과 소프트웨어 업종의 바닥 통과 신호에 힘입어 기술주 중심의 강세장이 연출되었으나, 기업별 가이던스 차별화와 글로벌 자금의 아시아 이동 등 복합적인 시장 변화가 관찰되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:50](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=50) 뉴욕 증시 기술주 중심의 강한 상승세 → 엔비디아 실적 기대감과 AI 공포 완화가 지수를 견인함
+- [01:24](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=84) 엔비디아 어닝 서프라이즈 및 소프트웨어 기업 가이던스 명암 → 엔비디아는 희망치를 넘었으나 세일즈포스 등은 가이던스 부족으로 시간외 하락
+- [01:59](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=119) 엔트로픽의 협력 전략으로 인한 AI 소프트웨어 공포 완화 → AI가 기존 소프트웨어를 대체하기보다 통합·협력할 것이라는 안도감 확산
+- [05:32](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=332) 소프트웨어 업종의 기술적 바닥 징후 포착 → 역대급 거래량을 동반한 하락은 통상적으로 시장의 바닥 신호로 해석됨
+- [09:24](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=564) 트럼프 대통령 연두교서 발표 및 시장 영향 → 새로운 정책 발표 부재로 시장에 미친 실질적 영향은 제한적이었음
+- [11:31](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=691) USTR의 글로벌 관세 부과 계획 구체화 → 기본 10%에 일부 15% 부과 가능성이 언급되며 무역 불확실성 지속
+- [17:53](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=1073) 엔비디아 데이터 센터 매출 폭증 및 마진 회복 → 블랙웰 효과와 강력한 수요로 AI 대장주의 지배력을 재확인함
+- [24:58](https://www.youtube.com/watch?v=wlaqqN4fM_g&t=1498) 미국 외 한국 및 일본 증시로의 글로벌 자금 유입 → 미국 기업의 어닝 서프라이즈 비율 둔화로 인해 아시아 시장 매력도 상승
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=wlaqqN4fM_g)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/wlaqqN4fM_g_김현석의-월스트리트나우-2월26일)0:{"buildId":"-uD64vfuvuuwKVs_jeIeh","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월26일] 'AI 공포' 바닥쳤나..메모리 폭등에도 엔비디아 마진 75%↑","videoId":"wlaqqN4fM_g","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

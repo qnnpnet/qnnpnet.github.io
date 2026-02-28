@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8d7,
+# [김종학의 뉴욕, 지금-2월28일] 사모펀드발 금융위기 불안 증폭 | UBS, 미국 주식 등급 하향 | 종목(델, 넷플릭스, 파라마운트, 블록, 트럼프미디어&테크놀로지)
+
+## 📋 한 줄 요약
+
+> 예상치를 웃돈 PPI 지표와 사모펀드발 금융 불안, 지정학적 긴장감이 더해지며 뉴욕 증시가 일제히 하락 마감했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:29](https://www.youtube.com/watch?v=eD3VK30P13I&t=29) PPI 지표 발표 및 사모펀드발 불안으로 인한 시장 하락 → 인플레이션 우려와 금융권 리스크가 동시에 시장을 압박함
+- [04:06](https://www.youtube.com/watch?v=eD3VK30P13I&t=246) 생산자물가지수(PPI) 예상치 상회 및 근원 PPI 급등 → 연준의 금리 인하 시점이 늦춰질 가능성이 높아짐
+- [05:38](https://www.youtube.com/watch?v=eD3VK30P13I&t=338) 오픈AI의 100억 달러 규모 자금 조달 및 빅테크 투자 → 시장 하락세 속에서도 AI 산업에 대한 투자는 여전히 공격적임
+- [07:15](https://www.youtube.com/watch?v=eD3VK30P13I&t=435) UBS의 미국 주식 등급 하향 조정 → 밸류에이션 부담과 정책 불확실성이 상방을 제한한다는 평가
+- [08:06](https://www.youtube.com/watch?v=eD3VK30P13I&t=486) 미국과 이란 간의 지정학적 갈등 고조 → 국제 유가 상승 및 안전 자산 선호 심리를 자극함
+- [08:53](https://www.youtube.com/watch?v=eD3VK30P13I&t=533) 영국 MFS 파산 신청 및 사모펀드/금융권 위기 확산 → 부실 대출 리스크가 대형 은행으로 전이될 우려가 커짐
+- [11:07](https://www.youtube.com/watch?v=eD3VK30P13I&t=667) 넷플릭스의 인수 철회와 파라마운트-스카이댄스 합병 가시화 → 미디어 업계의 대규모 구조 개편이 진행 중임
+- [13:06](https://www.youtube.com/watch?v=eD3VK30P13I&t=786) 블록(Block)과 델(Dell)의 실적 호조 및 주가 급등 → AI 서버 수요와 비용 절감이 기업 실적의 핵심 차별화 요소
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=eD3VK30P13I)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/eD3VK30P13I_김종학의-뉴욕-지금-2월28일)0:{"buildId":"-uD64vfuvuuwKVs_jeIeh","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월28일] 사모펀드발 금융위기 불안 증폭 | UBS, 미국 주식 등급 하향 | 종목(델, 넷플릭스, 파라마운트, 블록, 트럼프미디어&테크놀로지)","videoId":"eD3VK30P13I","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

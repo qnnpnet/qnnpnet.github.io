@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7ee,
+# 진퇴양난 일본은행…엔저에도 금리 못 올리나 | 김일규의 도쿄나우
+
+## 📋 한 줄 요약
+
+> 일본은행의 비둘기파 인사 기용과 다카이치 총리의 금리 인상 견제로 니케이 지수가 사상 최고치를 경신했으나, 역대급 엔저와 중국의 수출 규제가 새로운 리스크로 부상하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:10](https://www.youtube.com/watch?v=Fo4ssilT12w&t=10) 일본은행 비둘기파 위원 기용에 니케이 사상 최고치 경신 → 금리 인상 지연 기대감이 증시 상승 견인
+- [01:58](https://www.youtube.com/watch?v=Fo4ssilT12w&t=118) 다카이치 총리의 금융 완화 의지가 반영된 인사 단행 → 정치권의 통화 정책 개입이 가시화되는 양상
+- [03:20](https://www.youtube.com/watch?v=Fo4ssilT12w&t=200) 일본은행의 금리 인상 기조와 정부의 난색 사이의 갈등 → 추가 금리 인상 속도 조절 가능성 증대
+- [04:03](https://www.youtube.com/watch?v=Fo4ssilT12w&t=243) 미국 트럼프 행정부의 엔저 불만과 환율 개입 경계 → 미일 정상회담을 앞두고 환율이 주요 쟁점화
+- [05:45](https://www.youtube.com/watch?v=Fo4ssilT12w&t=345) 엔화 실질 가치 1973년 변동환율제 도입 이후 최저 → 일본의 대외 구매력 저하 및 경제 기초체력 약화 우려
+- [06:47](https://www.youtube.com/watch?v=Fo4ssilT12w&t=407) 중국의 일본 기업 40곳에 대한 수출 통제 및 관찰리스트 등재 → 경제 보복을 통한 다카이치 정권 압박 및 공급망 리스크 심화
+- [09:04](https://www.youtube.com/watch?v=Fo4ssilT12w&t=544) 일본 정부의 히토류 재활용 및 공급망 자구책 마련 → 중국 의존도를 낮추기 위한 전략적 대응 시작
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Fo4ssilT12w)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Fo4ssilT12w_진퇴양난-일본은행엔저에도-금리-못)0:{"buildId":"-uD64vfuvuuwKVs_jeIeh","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"진퇴양난 일본은행…엔저에도 금리 못 올리나 | 김일규의 도쿄나우","videoId":"Fo4ssilT12w","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

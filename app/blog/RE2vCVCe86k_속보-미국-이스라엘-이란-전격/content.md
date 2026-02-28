@@ -1,0 +1,30 @@
+---
+title: "[속보] 미국-이스라엘, 이란 전격 공습 | 버크셔 해서웨이 실적 정리"
+video_id: "RE2vCVCe86k"
+tags: "속보"
+published_at: "2026-02-28T16:42:34Z"
+---
+
+# [속보] 미국-이스라엘, 이란 전격 공습 | 버크셔 해서웨이 실적 정리
+
+## 📋 한 줄 요약
+
+> 미국과 이스라엘의 전격적인 이란 공습으로 중동 긴장이 최고조에 달하며 유가 폭등 및 금융 시장 불안 우려가 확산되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [01:17](https://www.youtube.com/watch?v=RE2vCVCe86k&t=77) 이스라엘의 '루어링 라이언' 작전 및 예방적 공습 개시 → 중동 지역의 지정학적 리스크가 실질적 군사 행동으로 전이됨
+- [01:38](https://www.youtube.com/watch?v=RE2vCVCe86k&t=98) 미국의 '에픽 퓨리' 작전 선포 및 트럼프 대통령 성명 → 이란 정권 교체와 핵 포기를 목표로 한 강력한 군사 압박
+- [02:31](https://www.youtube.com/watch?v=RE2vCVCe86k&t=151) 호르무즈 해협 봉쇄 우려에 따른 유가 폭등 가능성 → 공급망 마비 시 배럴당 100달러 돌파 가능성 상존
+- [07:12](https://www.youtube.com/watch?v=RE2vCVCe86k&t=432) 비트코인 급락 및 미 증시 야간 선물 하락세 → 전쟁 공포로 인한 위험 자산의 즉각적인 회피 현상
+- [11:44](https://www.youtube.com/watch?v=RE2vCVCe86k&t=704) 중동 항로 폐쇄로 인한 항공 및 물류 타격 → 우회 항로 이용에 따른 비용 상승이 인플레이션 자극 우려
+- [15:32](https://www.youtube.com/watch?v=RE2vCVCe86k&t=932) 버크셔 해서웨이 순이익 25% 급감 등 실적 부진 → 보험 및 에너지 부문 손실로 인한 투자 지주사의 수익성 악화
+- [17:39](https://www.youtube.com/watch?v=RE2vCVCe86k&t=1059) 버크셔의 520조 원 규모 현금 보유 및 보수적 기조 → 시장 불확실성 속에서 워런 버핏의 극도로 신중한 투자 태도 견지
+- [18:45](https://www.youtube.com/watch?v=RE2vCVCe86k&t=1125) 일본 5대 상사 지분 확대 등 특정 자산 집중 → 엔저를 활용한 전략적 투자가 현재 버크셔의 주요 성과로 평가
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=RE2vCVCe86k)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/RE2vCVCe86k_속보-미국-이스라엘-이란-전격)

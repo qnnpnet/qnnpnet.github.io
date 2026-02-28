@@ -1,0 +1,29 @@
+---
+title: "40% 날아간 일자리..실업 도미노의 시작일까 | 월가백브리핑"
+video_id: "f_-LccJFqkY"
+tags: "월가백브리핑"
+published_at: "2026-02-28T04:00:28Z"
+---
+
+# 40% 날아간 일자리..실업 도미노의 시작일까 | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> AI로 인한 대규모 실업 공포와 블록(Block)의 감원 소식이 시장을 흔들고 있으나, 이는 결국 연준의 금리 인하와 유동성 공급으로 이어질 것이라는 기대가 공존하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:10](https://www.youtube.com/watch?v=f_-LccJFqkY&t=10) 블록(Block)의 대규모 감원과 AI 활용 선언 → 비용 절감을 AI 덕분이라 포장하는 'AI 워싱' 가능성 제기
+- [00:40](https://www.youtube.com/watch?v=f_-LccJFqkY&t=40) 시트린 리서치의 2028년 글로벌 지능 위기 경고 → 화이트칼라 대체로 인한 실업률 10% 급등 시나리오가 시장 공포 자극
+- [06:41](https://www.youtube.com/watch?v=f_-LccJFqkY&t=401) 미국 내 AI 규제 및 세금 도입 움직임 → 대량 실업 방지를 위한 정치적 대응과 법안 마련 시작
+- [09:29](https://www.youtube.com/watch?v=f_-LccJFqkY&t=569) AI 확산의 S커브와 물리적 제약 요소 → 전력과 메모리 공급 부족이 AI의 급격한 확산을 늦추는 유일한 제동 장치
+- [14:31](https://www.youtube.com/watch?v=f_-LccJFqkY&t=871) AI 패권 전쟁과 대만(TSMC) 지정학적 리스크 → 기술 격차를 줄이기 위한 중국의 대만 침공 가능성 등 극단적 변수 존재
+- [18:21](https://www.youtube.com/watch?v=f_-LccJFqkY&t=1101) AI발 디플레이션에 대한 연준(Fed)의 대응 기대 → 고용 흔들림은 결국 금리 인하와 양적 완화 재개 명분이 될 것
+- [23:12](https://www.youtube.com/watch?v=f_-LccJFqkY&t=1392) 골드만삭스의 AI 채택 현황 및 고용 분석 → 현재는 인프라 투자로 고용이 유지되나 장기적 임금 격차 심화 우려
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=f_-LccJFqkY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/f_-LccJFqkY_40-날아간-일자리실업-도미노의)

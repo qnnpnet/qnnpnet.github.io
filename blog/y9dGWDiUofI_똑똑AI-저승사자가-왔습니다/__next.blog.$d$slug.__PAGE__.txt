@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=y9dGWDiUofI)0:{"buildId":"-uD64vfuvuuwKVs_jeIeh","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"똑똑...AI 저승사자가 왔습니다 | 월가백브리핑","videoId":"y9dGWDiUofI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=y9dGWDiUofI)0:{"buildId":"UFyAXwR1cz8q9uKLm-6NW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"똑똑...AI 저승사자가 왔습니다 | 월가백브리핑","videoId":"y9dGWDiUofI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

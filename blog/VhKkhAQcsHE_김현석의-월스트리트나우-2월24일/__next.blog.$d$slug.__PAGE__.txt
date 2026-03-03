@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=VhKkhAQcsHE)0:{"buildId":"UFyAXwR1cz8q9uKLm-6NW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월24일] \"2028년 AI로 망한다\"..보고서 하나에 무너진 뉴욕 증시","videoId":"VhKkhAQcsHE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=VhKkhAQcsHE)0:{"buildId":"8pwagatP0gYx-7ZbAGsv5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월24일] \"2028년 AI로 망한다\"..보고서 하나에 무너진 뉴욕 증시","videoId":"VhKkhAQcsHE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8d0,
+# 트럼프가 끝낸 37년 철권통치..폭죽 터뜨리며 환호한 테헤란 | 이상은의 워싱턴나우
+
+## 📋 한 줄 요약
+
+> 미국과 이스라엘의 이란 수뇌부 제거로 중동 정세가 급변하는 가운데, 미국은 에너지 패권 강화와 우방 중심의 새로운 무역 블록 구축을 가속화하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:33](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=33) 이란 최고 지도자 하메네이 및 수뇌부 대거 제거 → 중동 지역의 권력 공백과 정세 변화의 신호탄
+- [03:29](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=209) 미국의 압도적 정보력과 군사적 정밀 타격 능력 과시 → 적대국 지도부에 대한 강력한 심리적 압박 효과
+- [05:32](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=332) 기존 핵협상은 타격 시점을 벌기 위한 기만책으로 분석 → 트럼프 행정부의 철저한 실리 위주 대외 전략 노출
+- [07:12](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=432) 이란 내부의 친정부-반정부 세력 간 극심한 분열 → 단순 공습만으로는 안정적인 체제 전환이 어려울 수 있음
+- [14:11](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=851) 이란 군부의 상징적 보복과 주변국 경제 리스크 발생 → 두바이 등 중동 경제 허브에 대한 단기적 불안감 고조
+- [17:53](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=1073) 호르무즈 해협 봉쇄 위협과 글로벌 물류 영향 → 장기 봉쇄는 어렵겠으나 단기적 유가 및 물류비 변동성 확대
+- [21:59](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=1319) 미국의 에너지 통제력 강화 및 중국의 경제적 타격 → 에너지 패권을 활용한 대중국 압박 전략의 일환
+- [25:34](https://www.youtube.com/watch?v=4RNSt5x2D9w&t=1534) 미국 중심의 이중 시장(Dual Market) 및 무역 블록 구축 → 가치 동맹 중심의 공급망 재편으로 한국 등 제조국에 비용 부담 가중
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=4RNSt5x2D9w)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/4RNSt5x2D9w_트럼프가-끝낸-37년-철권통치폭죽)0:{"buildId":"8pwagatP0gYx-7ZbAGsv5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"트럼프가 끝낸 37년 철권통치..폭죽 터뜨리며 환호한 테헤란 | 이상은의 워싱턴나우","videoId":"4RNSt5x2D9w","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

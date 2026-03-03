@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8c9,
+# [김종학의 뉴욕, 지금-3월3일] 트럼프 “더 큰 것 곧 온다" | 국제유가 4년 만에 최고..천연가스 급등 | 종목(델타항공, 셰니어 에너지, JP모건, 스트래티지, 루멘텀)
+
+## 📋 한 줄 요약
+
+> 중동 전쟁 확산 우려로 유가와 국채 금리가 급등하며 시장 불안이 커졌으나, 엔비디아의 기술 투자 소식과 반도체 강세가 지수 하락을 방어했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:26](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=26) 전쟁 확산 우려 속 엔비디아가 시장 지지 → 지정학적 리스크를 기술주가 상쇄 중
+- [01:07](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=67) 금값 사상 최고치 경신 및 국제 유가 급등 → 안전 자산 선호와 에너지 비용 상승 압박
+- [01:48](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=108) 10년물 국채 금리 4.04%로 상승 → 공급망 마비에 따른 인플레이션 재발 우려
+- [03:46](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=226) 이란의 호르무즈 해협 봉쇄 및 선박 공격 위협 → 글로벌 에너지 공급망의 심각한 위기 고조
+- [04:31](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=271) 트럼프의 대이란 강경 발언과 군사 작전 지속 → 중동 긴장의 장기화 및 불확실성 증대
+- [08:40](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=520) 해상 운임 연초 대비 5배 폭등 → 물류비용 상승이 물가 상승의 기폭제 우려
+- [09:10](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=550) 중동 연공 폐쇄로 인한 항공주 폭락 → 관광 및 항공 산업의 직접적인 타격 가시화
+- [11:39](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=699) 엔비디아, 광학 반도체 기업에 40억 달러 투자 → AI 하드웨어의 물리적 한계 돌파 시도
+- [12:42](https://www.youtube.com/watch?v=tFYV6_Q4dHc&t=762) 버크셔 해서웨이 실적 부진으로 5% 하락 → 보험 사업 순이익 급감이 주가에 악재로 작용
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=tFYV6_Q4dHc)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/tFYV6_Q4dHc_김종학의-뉴욕-지금-3월3일-트)0:{"buildId":"8pwagatP0gYx-7ZbAGsv5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월3일] 트럼프 “더 큰 것 곧 온다\" | 국제유가 4년 만에 최고..천연가스 급등 | 종목(델타항공, 셰니어 에너지, JP모건, 스트래티지, 루멘텀)","videoId":"tFYV6_Q4dHc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

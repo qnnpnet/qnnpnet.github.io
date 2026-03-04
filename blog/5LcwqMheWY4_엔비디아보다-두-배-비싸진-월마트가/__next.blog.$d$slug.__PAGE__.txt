@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=5LcwqMheWY4)0:{"buildId":"8pwagatP0gYx-7ZbAGsv5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"엔비디아보다 두 배 비싸진 월마트가 죽어야 산다? | 월가백브리핑","videoId":"5LcwqMheWY4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=5LcwqMheWY4)0:{"buildId":"5iG_Fd6F2gLXaEV02hXgW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"엔비디아보다 두 배 비싸진 월마트가 죽어야 산다? | 월가백브리핑","videoId":"5LcwqMheWY4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

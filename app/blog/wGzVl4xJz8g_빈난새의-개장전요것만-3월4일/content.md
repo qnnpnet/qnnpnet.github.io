@@ -1,0 +1,31 @@
+---
+title: "[빈난새의 개장전요것만-3월4일] \"이란, 협상 타진\" | \"호르무즈 호위 비현실적\" | 베센트 \"15% 관세 곧\" | 샌디스크 마이크론 코인베이스 서클 CRWD 모더나 네비우스"
+video_id: "wGzVl4xJz8g"
+tags: "빈난새의 개장전요것만-3월4일, 빈난새, 개장전요것만"
+published_at: "2026-03-04T15:12:26Z"
+---
+
+# [빈난새의 개장전요것만-3월4일] "이란, 협상 타진" | "호르무즈 호위 비현실적" | 베센트 "15% 관세 곧" | 샌디스크 마이크론 코인베이스 서클 CRWD 모더나 네비우스
+
+## 📋 한 줄 요약
+
+> 중동 지정학적 리스크와 관세 우려에도 불구하고, 견조한 고용 지표와 반도체 및 암호화폐 시장의 모멘텀이 이어지며 미국 증시가 반등세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:29](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=29) 미국 주요 지수 선물 상승 출발 → 전쟁 리스크에도 시장의 하방 경직성 확인
+- [01:24](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=84) 유가 전망치 상향에도 100달러 돌파 가능성은 낮음 → 인플레이션 우려가 극단적으로 치닫지는 않을 전망
+- [05:26](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=326) 비트코인 7만 달러 돌파 및 트럼프의 암호화폐 지지 → 정치적 발언이 크립토 시장의 강력한 촉매제로 작용
+- [07:25](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=445) 월가의 코스피 폭락 분석 및 긍정적 리포트 → 단기 과열 해소 과정이며 펀더멘탈은 견조하다는 평가
+- [11:02](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=662) 2월 ADP 민간 고용 예상치 상회 → 고용 시장이 급격히 무너지지 않고 완만하게 둔화 중
+- [13:30](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=810) 이란의 협상 가능성 보도와 중동 긴장 지속 → 단기 협상 타결은 미지수이나 시장 우려는 일부 완화
+- [26:06](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=1566) 베센트 재무장관의 전 세계 15% 관세 시행 예고 → 트럼프 행정부의 보호무역주의 리스크 재부각
+- [31:30](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=1890) 반도체 섹터 반등 및 메모리 가격 인상 소식 → AI 수요에 기반한 반도체 업황의 구조적 상승세 확인
+- [46:18](https://www.youtube.com/watch?v=wGzVl4xJz8g&t=2778) 테슬라에 대한 BofA의 긍정적 전망 (목표가 460달러) → 자율주행 및 에너지 사업의 가치가 재평가되는 시점
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=wGzVl4xJz8g)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/wGzVl4xJz8g_빈난새의-개장전요것만-3월4일)

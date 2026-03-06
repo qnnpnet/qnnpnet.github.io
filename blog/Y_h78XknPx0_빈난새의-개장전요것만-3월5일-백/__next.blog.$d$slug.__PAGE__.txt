@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T950,
+# [빈난새의 개장전요것만-3월5일] 백악관 "호르무즈 안전통과 시점 불확실" | 브로드컴 광 섹터 저격 | 버크셔 트레이드데스크 시에나 루멘텀 옥타 리게티 엔비디아 메타 아이렌
+
+## 📋 한 줄 요약
+
+> 브로드컴의 강력한 AI 실적 가이던스와 버크셔의 자사주 매입 재개 소식에도 불구하고, 지정학적 리스크에 따른 유가 상승과 고용 지표의 변동성이 시장의 혼조세를 이끌었습니다.
+
+## 🧠 핵심 포인트
+
+- [00:26](https://www.youtube.com/watch?v=Y_h78XknPx0&t=26) 뉴욕 증시 하락 출발 및 유가·달러 강세 → 전쟁 리스크 지속으로 인한 안전 자산 선호와 인플레이션 우려가 시장을 압박함
+- [10:10](https://www.youtube.com/watch?v=Y_h78XknPx0&t=610) 미국 고용 지표 발표 및 노동 생산성 향상 → 저고용·저해고 상태가 유지되며 임금 상승으로 인한 인플레이션 우려는 낮아짐
+- [15:44](https://www.youtube.com/watch?v=Y_h78XknPx0&t=944) 이란 전쟁 6일차, 에너지 공급 차질 심화 → 호르무즈 해협 불안과 카타르 LNG 시설 폐쇄 등이 유가 상승의 주요 원인으로 작용
+- [25:22](https://www.youtube.com/watch?v=Y_h78XknPx0&t=1522) 브로드컴, AI 칩 수요 폭발로 강력한 가이던스 제시 → 수익성 우려를 불식시키며 AI 하드웨어 시장의 장기적 성장 가시성을 증명함
+- [31:06](https://www.youtube.com/watch?v=Y_h78XknPx0&t=1866) 광통신 섹터 급락 및 네트워크 기술 방식 논쟁 → 브로드컴의 구리 케이블 선호 발언이 그간 급등했던 광통신 종목들의 조정을 유발함
+- [40:38](https://www.youtube.com/watch?v=Y_h78XknPx0&t=2438) 버크셔 해서웨이, 2년 만에 자사주 매입 재개 → 신임 CEO 그렉 에이블의 책임 경영 의지와 함께 주가 저평가 신호를 시장에 전달
+- [46:04](https://www.youtube.com/watch?v=Y_h78XknPx0&t=2764) 중국, 1991년 이후 최저 수준의 성장 목표치 발표 → 수출 의존 한계를 인정하고 내수 부양 및 인프라 투자를 강화할 것으로 예상됨
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Y_h78XknPx0)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Y_h78XknPx0_빈난새의-개장전요것만-3월5일-백)0:{"buildId":"3UtrDG9OGRhVHDmoRR_-M","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월5일] 백악관 \"호르무즈 안전통과 시점 불확실\" | 브로드컴 광 섹터 저격 | 버크셔 트레이드데스크 시에나 루멘텀 옥타 리게티 엔비디아 메타 아이렌","videoId":"Y_h78XknPx0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

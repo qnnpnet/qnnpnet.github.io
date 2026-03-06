@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T6b9,
+# 스태그플레이션 비상 걸린 일본 | 김일규의 도쿄나우
+
+## 📋 한 줄 요약
+
+> 중동 분쟁에 따른 유가 급등이 일본의 '트리플 약세'와 스태그플레이션 우려를 촉발하며, 일본은 대미 투자 확대를 통해 경제적 돌파구를 모색하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:08](https://www.youtube.com/watch?v=Sc3kUk0Lcsc&t=8) 일본의 높은 중동 원유 의존도와 해운 중단 → 에너지 안보 취약성 노출
+- [01:52](https://www.youtube.com/watch?v=Sc3kUk0Lcsc&t=112) 유가 급등에 따른 소비자 물가 상승 압박 → 정부 보조금 효과 상쇄 우려
+- [03:15](https://www.youtube.com/watch?v=Sc3kUk0Lcsc&t=195) 실질 임금 마이너스 지속 및 소비 위축 가능성 → 내수 경기 회복의 걸림돌
+- [03:51](https://www.youtube.com/watch?v=Sc3kUk0Lcsc&t=231) 주가·엔화·채권 가격 동반 하락하는 '트리플 약세' → 리스크 회피 심리 극대화
+- [05:05](https://www.youtube.com/watch?v=Sc3kUk0Lcsc&t=305) 일본은행의 기준 금리 인상 기조 유지 방침 → 엔저 대응을 위한 불가피한 선택
+- [06:33](https://www.youtube.com/watch?v=Sc3kUk0Lcsc&t=393) 아시아 국가들의 에너지 수입 의존도 리스크 → 지역 전반의 성장률 둔화 우려
+- [08:19](https://www.youtube.com/watch?v=Sc3kUk0Lcsc&t=499) 일본의 대규모 대미 투자 및 2차 사업 논의 → 미일 동맹 강화를 통한 경제 활로 모색
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Sc3kUk0Lcsc)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Sc3kUk0Lcsc_스태그플레이션-비상-걸린-일본--김)0:{"buildId":"3UtrDG9OGRhVHDmoRR_-M","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스태그플레이션 비상 걸린 일본 | 김일규의 도쿄나우","videoId":"Sc3kUk0Lcsc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

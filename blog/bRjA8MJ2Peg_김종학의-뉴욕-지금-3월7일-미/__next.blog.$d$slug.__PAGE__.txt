@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T844,
+# [김종학의 뉴욕, 지금-3월7일] 미 원유 가격 12% 폭등..배럴당 90달러 돌파 | 고개드는 스태그 우려 | 꼬여버린 연준 금리 정책 | 종목(오라클, 구글, UAL, 마벨)
+
+## 📋 한 줄 요약
+
+> 미국 증시는 고용 지표 악화에 따른 스테그플레이션 우려와 중동 전쟁 리스크로 인한 유가 폭등으로 일제히 하락했으며, 방산주와 일부 실적 호조 반도체주를 제외한 대부분의 종목이 약세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:23](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=23) 뉴욕 증시 3대 지수 일제히 하락 및 유가 폭등 → 위험 자산 회피 심리 강화
+- [02:11](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=131) 트럼프와 방위산업체 회의 영향으로 방산주 급등 → 지정학적 위기 속 수혜주 부각
+- [02:33](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=153) 엔비디아, 마이크론 등 주요 반도체주 급락 → 기술주 중심의 강한 매도세 발생
+- [04:35](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=275) 고용 지표 쇼크로 인한 스테그플레이션 우려 확산 → 경기 둔화와 물가 상승의 이중고 우려
+- [07:10](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=430) 금리 인하 기대감 후퇴 및 7월 이후 가능성 대두 → 연준의 금리 결정 진퇴양난 상황
+- [08:03](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=483) 호르무즈 해협 마비 위기로 유가 150달러 경고 → 글로벌 에너지 공급망 위기 고조
+- [11:05](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=665) 트럼프, 주요 방산 업체와 무기 증산 합의 → 군비 확장 및 장기전 대비 태세
+- [14:30](https://www.youtube.com/watch?v=bRjA8MJ2Peg&t=870) 마벨 테크놀로지, 데이터 센터 매출 성장에 폭등 → AI 인프라 수요의 견고함 증명
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=bRjA8MJ2Peg)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/bRjA8MJ2Peg_김종학의-뉴욕-지금-3월7일-미)0:{"buildId":"3UtrDG9OGRhVHDmoRR_-M","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월7일] 미 원유 가격 12% 폭등..배럴당 90달러 돌파 | 고개드는 스태그 우려 | 꼬여버린 연준 금리 정책 | 종목(오라클, 구글, UAL, 마벨)","videoId":"bRjA8MJ2Peg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

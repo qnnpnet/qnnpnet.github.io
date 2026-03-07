@@ -1,0 +1,31 @@
+---
+title: "[김현석의 월스트리트나우-3월7일] 트럼프 \"항복 or 노딜\"..오일 쇼크+고용 감소, 스태그플레이션 온다"
+video_id: "TTjMQJMyoNw"
+tags: "김현석의 월스트리트나우-3월7일, 김현석, 월스트리트나우"
+published_at: "2026-03-06T22:50:21Z"
+---
+
+# [김현석의 월스트리트나우-3월7일] 트럼프 "항복 or 노딜"..오일 쇼크+고용 감소, 스태그플레이션 온다
+
+## 📋 한 줄 요약
+
+> 미국 증시는 2월 고용 지표 쇼크와 중동 전쟁으로 인한 유가 급등이 겹치며 스테그플레이션 우려와 사모 대출 불안 속에 일제히 하락했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:46](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=46) 유가 90달러 돌파 및 인플레이션 우려 확산 → 중동 긴장 고조로 인한 에너지 가격 상승이 시장을 압박함
+- [02:51](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=171) 2월 고용 보고서 쇼크, 일자리 9만 2천 개 감소 → 예상을 뒤엎는 고용 감소로 경기 침체 우려가 급격히 부상함
+- [07:52](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=472) 연준의 금리 인하 딜레마 심화 → 고용 악화는 인하 요인이지만 유가 급등은 인플레이션을 자극해 정책 결정이 어려워짐
+- [12:30](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=750) 유가 배럴당 150달러 돌파 가능성 경고 → 호르무즈 해협 봉쇄 시나리오가 현실화될 경우 극심한 에너지 쇼크 예상
+- [16:11](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=971) 미군 지상군 투입 가능성 및 전쟁 장기화 우려 → 트럼프의 강경 발언과 군 움직임으로 지정학적 리스크가 최고조에 달함
+- [19:31](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=1171) 비료 및 헬륨 등 공급망 차질 우려 → 에너지 외에도 농산물과 반도체 제조 필수 자원까지 영향권에 들어감
+- [21:21](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=1281) 블랙록 사모 대출 펀드 환매 제한 조치 → 사모 대출 시장의 부실 우려가 실제 유동성 위기로 번지는 신호
+- [23:53](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=1433) 반도체 및 금융주 중심의 증시 급락 → 경기 우려와 시스템 리스크가 반영되며 위험 자산 회피 심리 강화
+- [26:33](https://www.youtube.com/watch?v=TTjMQJMyoNw&t=1593) 다음 주 CPI 및 PCE 물가 지표 발표 대기 → 인플레이션 수치에 따라 연준의 향후 행보가 결정될 중요한 분수령
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=TTjMQJMyoNw)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/TTjMQJMyoNw_김현석의-월스트리트나우-3월7일)

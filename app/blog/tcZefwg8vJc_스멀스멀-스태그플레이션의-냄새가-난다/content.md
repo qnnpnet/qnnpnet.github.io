@@ -1,0 +1,32 @@
+---
+title: "스멀스멀 스태그플레이션의 냄새가 난다? | 월가백브리핑"
+video_id: "tcZefwg8vJc"
+tags: "월가백브리핑"
+published_at: "2026-03-07T04:00:47Z"
+---
+
+# 스멀스멀 스태그플레이션의 냄새가 난다? | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 미국 고용 지표 부진과 중동 전쟁으로 인한 유가 폭등이 맞물리며 스테그플레이션 공포가 확산되고, 시장의 관심이 금리 인하에서 에너지 안보와 장기전 가능성으로 이동하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:34](https://www.youtube.com/watch?v=tcZefwg8vJc&t=34) 미국 2월 고용 지표 예상 밖 마이너스 기록 → 고용 악화와 물가 상승이 겹치는 스테그플레이션 우려의 시작점
+- [01:43](https://www.youtube.com/watch?v=tcZefwg8vJc&t=103) 파업 및 악천후 등 일시적 요인이 고용에 영향 → 지표 부진의 원인은 복합적이나 전반적인 고용 체력 저하는 분명해 보임
+- [03:04](https://www.youtube.com/watch?v=tcZefwg8vJc&t=184) IT 업계 AI 도입 및 비용 절감으로 인한 해고 지속 → 기술 혁신이 오히려 단기적으로는 고용 시장에 하방 압력으로 작용
+- [05:40](https://www.youtube.com/watch?v=tcZefwg8vJc&t=340) 고용 감소와 유가 폭등이 결합된 전형적 스테그플레이션 → 전쟁 지연으로 인한 에너지 가격 상승이 연준의 금리 정책을 꼬이게 만듦
+- [07:10](https://www.youtube.com/watch?v=tcZefwg8vJc&t=430) 미국이 이스라엘에 끌려다니며 전쟁이 장기화될 우려 → 단기전을 예상했던 시장의 낙관론이 불확실성의 영역으로 진입
+- [10:44](https://www.youtube.com/watch?v=tcZefwg8vJc&t=644) 이라크 전쟁 사례를 통한 지상군 투입 및 늪지대 가능성 경고 → 이란의 지형과 저항력을 고려할 때 전쟁 종료 시점을 예측하기 어려움
+- [15:32](https://www.youtube.com/watch?v=tcZefwg8vJc&t=932) 에너지 자급이 가능한 미국 달러의 독주 체제 강화 → 글로벌 공급망 교란 상황에서 미국 경제의 상대적 우위가 강달러를 유발
+- [18:59](https://www.youtube.com/watch?v=tcZefwg8vJc&t=1139) 이란의 호르무즈 해협 기뢰 살포 위협과 유가 영향 → 해군력 격차와 상관없이 물류 마비만으로도 유가에 치명적 타격 가능
+- [21:07](https://www.youtube.com/watch?v=tcZefwg8vJc&t=1267) 고유가와 공급망 차질이 AI 투자 수요에도 악영향 가능성 → 에너지 비용 상승과 원자재 수급 불안은 빅테크의 성장성도 저해할 수 있음
+- [23:01](https://www.youtube.com/watch?v=tcZefwg8vJc&t=1381) 에너지 가격의 구조적 하방 경직성 확보 및 리스크 프리미엄 발생 → 저유가 시대가 끝나고 에너지 안보가 투자 결정의 핵심 변수가 된 시대
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=tcZefwg8vJc)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/tcZefwg8vJc_스멀스멀-스태그플레이션의-냄새가-난다)

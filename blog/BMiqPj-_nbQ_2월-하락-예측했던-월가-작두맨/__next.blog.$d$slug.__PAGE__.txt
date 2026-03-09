@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8ad,
+# "2월 하락" 예측했던 월가 작두맨, 이제 "약세 전망 철회"...반등 나올 조건들은 | 빈난새의 빈틈없이월가
+
+## 📋 한 줄 요약
+
+> 시타델의 스콧 럽너는 3월 20일 옵션 만기 이후 수급 제약 완화와 세금 환급에 따른 개인 유동성 유입으로 4월 증시의 본격적인 반등을 전망하며, 지정학적 리스크 속에서도 펀더멘털에 기반한 강세장 유지를 강조했습니다.
+
+## 🧠 핵심 포인트
+
+- [01:17](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=77) 스콧 럽너의 전술적 약세 전망 철회 → 투자 심리 위축이 정점에 달했다는 판단
+- [02:33](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=153) 3월 20일 사상 최대 규모의 옵션 만기 도래 → 지수 상단을 누르던 기계적 매도 압력 해소 기대
+- [07:13](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=433) 개인 투자자의 강력한 매수세와 세금 환급 유동성 → 4월까지 유입될 환급금이 증시 하방 지지력 강화
+- [09:16](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=556) 기관의 과도한 풋옵션 해지 물량 되돌림 가능성 → 리스크 완화 시 기계적인 숏커버링 매수 유입 트리거
+- [10:42](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=642) 의미 있는 지수 반등을 위한 기술주 회복의 필요성 → IT 섹터 비중 고려 시 대형 기술주 참여가 랠리의 핵심
+- [13:25](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=805) 4월 증시의 긍정적인 역사적 계절성 → 통계적으로 연중 두 번째로 수익률이 높은 달
+- [18:45](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=1125) 지정학적 리스크의 일회성 충격 판단 → 과거 사례상 유가 폭등 없는 전쟁은 단기 조정에 그침
+- [21:32](https://www.youtube.com/watch?v=BMiqPj-_nbQ&t=1292) 유가 향방에 따른 시나리오 점검 필요 → 인플레이션 자극 시 강세장 논리가 훼손될 유일한 변수
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=BMiqPj-_nbQ)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/BMiqPj-_nbQ_2월-하락-예측했던-월가-작두)0:{"buildId":"bfLhw0hBAqAze4s10UIDK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"2월 하락\" 예측했던 월가 작두맨, 이제 \"약세 전망 철회\"...반등 나올 조건들은 | 빈난새의 빈틈없이월가","videoId":"BMiqPj-_nbQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

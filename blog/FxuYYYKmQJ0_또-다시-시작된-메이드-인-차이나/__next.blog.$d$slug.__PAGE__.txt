@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=FxuYYYKmQJ0)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/FxuYYYKmQJ0_또-다시-시작된-메이드-인-차이나)0:{"buildId":"3UtrDG9OGRhVHDmoRR_-M","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"또 다시 시작된 '메이드 인 차이나'의 공습…한국도 '흔들'","videoId":"FxuYYYKmQJ0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/FxuYYYKmQJ0_또-다시-시작된-메이드-인-차이나)0:{"buildId":"bfLhw0hBAqAze4s10UIDK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"또 다시 시작된 '메이드 인 차이나'의 공습…한국도 '흔들'","videoId":"FxuYYYKmQJ0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

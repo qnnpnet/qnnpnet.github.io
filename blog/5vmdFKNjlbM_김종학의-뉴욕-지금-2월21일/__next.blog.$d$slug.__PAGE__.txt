@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=5vmdFKNjlbM)0:{"buildId":"3UtrDG9OGRhVHDmoRR_-M","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월21일] 미 대법원, ‘해방의 날 관세’ 무효화 | 트럼프, 새 관세 10% 즉각 서명 | 종목(코어위브, 블루아울, 알파벳, 테슬라, 뉴몬트)","videoId":"5vmdFKNjlbM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=5vmdFKNjlbM)0:{"buildId":"bfLhw0hBAqAze4s10UIDK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월21일] 미 대법원, ‘해방의 날 관세’ 무효화 | 트럼프, 새 관세 10% 즉각 서명 | 종목(코어위브, 블루아울, 알파벳, 테슬라, 뉴몬트)","videoId":"5vmdFKNjlbM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

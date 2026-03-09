@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=tVgjh_pHm_0)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/tVgjh_pHm_0_빈난새의-개장전요것만-3월3일-너)0:{"buildId":"3UtrDG9OGRhVHDmoRR_-M","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월3일] 너무 강한 달러, 환율 1500원 | 트럼프 \"이란, 대화 원하지만 늦었다\" | 엔비디아 중국수출 제약 | 블랙스톤 몽고DB 크레도 아처 AVAV","videoId":"tVgjh_pHm_0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/tVgjh_pHm_0_빈난새의-개장전요것만-3월3일-너)0:{"buildId":"bfLhw0hBAqAze4s10UIDK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월3일] 너무 강한 달러, 환율 1500원 | 트럼프 \"이란, 대화 원하지만 늦었다\" | 엔비디아 중국수출 제약 | 블랙스톤 몽고DB 크레도 아처 AVAV","videoId":"tVgjh_pHm_0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

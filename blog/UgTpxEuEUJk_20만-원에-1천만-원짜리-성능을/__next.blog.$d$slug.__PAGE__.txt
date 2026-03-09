@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T739,
+# 20만 원에 1천만 원짜리 성능을?..가격 파괴로 시장 잠식 중인 샤크닌자 | 바이아메리카 in 뉴욕
+
+## 📋 한 줄 요약
+
+> 샤크닌자는 북미의 설계 기술과 중국의 자본 및 생산 인프라를 결합해 다이슨과 아이로봇을 위협하며 소형 가전 시장의 판도를 바꾸고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:32](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=32) 샤크닌자의 정체성과 시장 장악 → 북미 설계와 중국 자본의 결합 모델
+- [01:55](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=115) 닌자 크리미의 성공 비결 → 만료 특허 활용과 가성비 전략의 승리
+- [03:02](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=182) 로봇 청소기 시장의 지각변동 → 기술 혁신과 반값 전략으로 아이로봇 압도
+- [04:03](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=243) 압도적인 신제품 출시 속도 → 타사 대비 3배 빠른 6~9개월의 개발 주기
+- [06:31](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=391) 중국 자본 기반의 지배구조 → JS 글로벌 왕신닝 회장이 실질적 주인
+- [08:05](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=485) 지정학적 리스크 관리 전략 → 뉴욕 증시 상장을 통한 리스크 분산
+- [09:34](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=574) 미국 가전 브랜드의 위기와 변화 → 순수 미국 브랜드 월풀의 쇠퇴와 중국화
+- [10:03](https://www.youtube.com/watch?v=UgTpxEuEUJk&t=603) 한국 가전 기업에 닥친 위협 → 프리미엄과 가성비 사이의 샌드위치 압박
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=UgTpxEuEUJk)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/UgTpxEuEUJk_20만-원에-1천만-원짜리-성능을)0:{"buildId":"bfLhw0hBAqAze4s10UIDK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"20만 원에 1천만 원짜리 성능을?..가격 파괴로 시장 잠식 중인 샤크닌자 | 바이아메리카 in 뉴욕","videoId":"UgTpxEuEUJk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

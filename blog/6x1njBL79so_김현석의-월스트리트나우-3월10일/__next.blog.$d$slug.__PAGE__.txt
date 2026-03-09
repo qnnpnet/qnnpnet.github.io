@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7cc,
+# [김현석의 월스트리트나우-3월10일] 유가 120달러가 한계? 열흘 만에 '타코'..트럼프 "전쟁 거의 끝"
+
+## 📋 한 줄 요약
+
+> 트럼프 대통령의 전쟁 종료 시사 발언과 G7의 전략비축유 방출 논의로 유가가 급락하며 뉴욕 증시가 극적으로 반등했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:45](https://www.youtube.com/watch?v=6x1njBL79so&t=45) 유가 폭등 후 뉴욕 증시의 극적인 반전 → 트럼프의 발언이 시장의 공포를 되돌림
+- [03:13](https://www.youtube.com/watch?v=6x1njBL79so&t=193) 호르무즈 해협 봉쇄로 인한 유가 급등 원인 → 공급망 차단이 에너지 인플레이션 자극
+- [06:18](https://www.youtube.com/watch?v=6x1njBL79so&t=378) G7 및 IEA의 전략비축유 공동 방출 논의 → 에너지 가격 안정을 위한 국제적 공조
+- [08:43](https://www.youtube.com/watch?v=6x1njBL79so&t=523) 트럼프의 '전쟁 종료' 선언과 이란 전력 약화 주장 → 심리적 변곡점을 만든 결정적 발언
+- [10:40](https://www.youtube.com/watch?v=6x1njBL79so&t=640) 유가 하락 유도의 정치적 배경 (중간 선거) → 선거 승리를 위해 유가 안정이 필수적
+- [14:01](https://www.youtube.com/watch?v=6x1njBL79so&t=841) 엔비디아 등 반도체주 중심의 증시 상승 주도 → AI 기대감이 시장 반등의 핵심 동력
+- [18:05](https://www.youtube.com/watch?v=6x1njBL79so&t=1085) 랠리를 놓치지 않으려는 투자자들의 포모(FOMO) 심리 → 불확실성 속에서도 상승장에 베팅하는 경향
+- [19:32](https://www.youtube.com/watch?v=6x1njBL79so&t=1172) 이란 정권의 강경 대응 가능성에 대한 전문가 경고 → 단기 낙관론 속 잠재적 리스크 상존
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=6x1njBL79so)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/6x1njBL79so_김현석의-월스트리트나우-3월10일)0:{"buildId":"bfLhw0hBAqAze4s10UIDK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월10일] 유가 120달러가 한계? 열흘 만에 '타코'..트럼프 \"전쟁 거의 끝\"","videoId":"6x1njBL79so","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

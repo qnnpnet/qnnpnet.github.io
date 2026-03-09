@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T9b5,
+# [김종학의 뉴욕, 지금-3월10일] 트럼프 “전쟁 끝난 셈”..국제유가 급락 | 2월 뉴욕연은 기대 인플레 | 종목(오라클, 엔비디아, 퀄컴, HIMS, 스트래티지, 보잉, 조비)
+
+## 📋 한 줄 요약
+
+> 트럼프 전 대통령의 종전 시사 발언으로 국제 유가가 폭락하고 뉴욕 증시가 일제히 반등하며 기술주와 반도체주가 강세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:24](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=24) 트럼프 발언으로 뉴욕 증시 막판 급반등 → 정치적 발언이 시장 심리를 순식간에 반전시킴
+- [01:01](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=61) 국제 유가 119달러 찍고 80달러대로 폭락 → 공급 우려 완화로 인플레이션 압력 감소 기대
+- [01:33](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=93) 엔비디아 등 반도체 및 기술주 강세 회복 → GTC 컨퍼런스 기대감과 저가 매수세 유입
+- [06:11](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=371) 뉴욕연은 기대 인플레이션 하락 및 고용 둔화 신호 → 물가는 잡히나 스태그플레이션 우려는 잔존
+- [07:02](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=422) 앤스로픽, 미 정부 상대 블랙리스트 지정 소송 → AI 기업과 정부 간의 규제 갈등 본격화
+- [07:51](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=471) 오라클-오픈AI 데이터 센터 확장 관련 잡음 → AI 인프라 구축 과정의 병목 현상 노출
+- [09:21](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=561) 엔비디아 GTC 컨퍼런스 및 추론용 반도체 주목 → 학습을 넘어 추론 시장으로의 생태계 확장
+- [10:34](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=634) 힘스앤허스, 노보노디스크와 합의 후 40% 폭등 → 특허 분쟁 해소로 인한 강력한 성장 모멘텀 확보
+- [11:25](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=685) 전쟁 종식 기대감에 방산주 일제히 하락 → 지정학적 리스크 감소가 방산 섹터엔 악재로 작용
+- [13:00](https://www.youtube.com/watch?v=9oi3BTY2Db4&t=780) S&P 500 지수 종목 교체 및 신규 편입주 급등 → 지수 편입에 따른 패시브 자금 유입 효과
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=9oi3BTY2Db4)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/9oi3BTY2Db4_김종학의-뉴욕-지금-3월10일)0:{"buildId":"bfLhw0hBAqAze4s10UIDK","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월10일] 트럼프 “전쟁 끝난 셈”..국제유가 급락 | 2월 뉴욕연은 기대 인플레 | 종목(오라클, 엔비디아, 퀄컴, HIMS, 스트래티지, 보잉, 조비)","videoId":"9oi3BTY2Db4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

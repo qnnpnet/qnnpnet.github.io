@@ -1,0 +1,29 @@
+---
+title: "[김종학의 뉴욕, 지금-3월11일] 에너지장관 ‘호위 완료' 대형 오보..유가 한때 77달러 | 내일 소비자물가지수 | 종목(오라클, HPE, 세일즈포스, AT&T)"
+video_id: "vJngHXx0xRs"
+tags: "김종학의 뉴욕 지금-3월11일, 김종학, 뉴욕 지금"
+published_at: "2026-03-10T21:16:18Z"
+---
+
+# [김종학의 뉴욕, 지금-3월11일] 에너지장관 ‘호위 완료' 대형 오보..유가 한때 77달러 | 내일 소비자물가지수 | 종목(오라클, HPE, 세일즈포스, AT&T)
+
+## 📋 한 줄 요약
+
+> 뉴욕 증시는 CPI 발표를 앞두고 혼조세로 마감한 가운데, 오라클의 어닝 서프라이즈와 유가 급락, 그리고 중동 지정학적 리스크에 따른 변동성이 지속되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:29](https://www.youtube.com/watch?v=vJngHXx0xRs&t=29) CPI 발표 대기하며 뉴욕 증시 혼조세 마감 → 물가 지표 확인 전 관망 심리 우세
+- [01:16](https://www.youtube.com/watch?v=vJngHXx0xRs&t=76) 국제 유가 장중 8%대 급락 및 변동성 확대 → 호르무즈 해협 통제 관련 소식에 민감하게 반응
+- [02:02](https://www.youtube.com/watch?v=vJngHXx0xRs&t=122) 엔비디아 및 반도체 섹터 강세 → GTC 컨퍼런스 기대감이 기술주 하방 지지
+- [04:27](https://www.youtube.com/watch?v=vJngHXx0xRs&t=267) 백악관, 유조선 호위 보도 정격 부인 → 에너지부 장관 발언과의 혼선으로 시장 혼란 가중
+- [06:43](https://www.youtube.com/watch?v=vJngHXx0xRs&t=403) 2월 소비자물가지수(CPI) 예상치 및 관전 포인트 → 주거비 하락 여부가 금리 인하 기대감의 핵심
+- [08:14](https://www.youtube.com/watch?v=vJngHXx0xRs&t=494) 오라클, AI 인프라 수주 폭발로 시간외 급등 → 클라우드 및 AI 수요가 실적으로 증명됨
+- [10:09](https://www.youtube.com/watch?v=vJngHXx0xRs&t=609) 세일즈포스·아마존 등 대규모 채권 발행 → 자사주 매입 및 미래 투자를 위한 자금 조달 활발
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=vJngHXx0xRs)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/vJngHXx0xRs_김종학의-뉴욕-지금-3월11일)

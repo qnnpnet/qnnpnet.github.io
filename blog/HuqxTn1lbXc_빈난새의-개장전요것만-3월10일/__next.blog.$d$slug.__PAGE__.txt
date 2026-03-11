@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T9be,
+# [빈난새의 개장전요것만-3월10일] 원유 감산 지속 | 아마존, 최장 50년 회사채 발행 | 엔비디아 AI 에이전트 플랫폼 준비 | 퀄컴 HPE 버텍스 조비 리비안 마이크로소프트
+
+## 📋 한 줄 요약
+
+> 트럼프의 조기 종전 낙관론에도 불구하고 지정학적 불확실성과 고유가에 따른 경제적 부담 우려로 시장은 신중한 관망세를 유지하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:52](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=52) VIX 지수 20 상회 및 3대 지수 소폭 하락 → 변동성 지수가 높은 수준을 유지하며 시장의 경계심이 지속됨
+- [01:24](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=84) 유가 90달러 안팎 유지 및 지정학적 리스크 잔존 → 트럼프의 종전 언급에도 실제 유가는 하락폭이 제한적이며 리스크가 완전히 해소되지 않음
+- [03:10](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=190) 달러 및 금리 하락에 따른 금·은 자산 반등 → 매크로 지표 진정에 따라 위험 자산과 귀금속이 일시적 회복세를 보임
+- [12:28](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=748) 트럼프의 '조만간 종전' 발언과 국방부의 강경 입장 대립 → 정치적 수사와 실제 군사적 상황 사이의 괴리로 시장의 방향성 설정이 어려움
+- [23:12](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=1392) 고유가 지속 시 트럼프 세금 감면 효과 상쇄 우려 → 에너지 비용 상승이 경기 부양책의 효과를 무력화할 수 있다는 월가의 경고
+- [28:43](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=1723) 아마존의 대규모 회사채 발행 및 AI 인프라 투자 → 빅테크 기업들의 AI 주도권 확보를 위한 막대한 자금 조달 경쟁 지속
+- [35:04](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=2104) 엔비디아의 AI 에이전트 플랫폼 '니모클로' 출시 준비 → 하드웨어를 넘어 소프트웨어 생태계까지 장악하려는 엔비디아의 차세대 전략
+- [45:25](https://www.youtube.com/watch?v=HuqxTn1lbXc&t=2725) 힌스(Hims)의 비만약 모멘텀 및 숏스퀴즈 발생 → 개별 기업의 호재와 수급 상황에 따른 변동성 확대
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=HuqxTn1lbXc)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/HuqxTn1lbXc_빈난새의-개장전요것만-3월10일)0:{"buildId":"MEv3XdnTjE6jDTfl9sYoY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월10일] 원유 감산 지속 | 아마존, 최장 50년 회사채 발행 | 엔비디아 AI 에이전트 플랫폼 준비 | 퀄컴 HPE 버텍스 조비 리비안 마이크로소프트","videoId":"HuqxTn1lbXc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T9a1,
+# [김현석의 월스트리트나우-3월11일] "전쟁 끝" 희망 랠리, 이란 '기뢰'에 막혔다..장외 8%↑…오라클 부활?
+
+## 📋 한 줄 요약
+
+> 트럼프의 종전 발언과 이란의 호르무즈 해협 기뢰 설치 위협이 충돌하며 유가 변동성이 극심해졌고, 증시는 혼조세 속에 오라클 실적 호조와 반도체 강세가 나타났습니다.
+
+## 🧠 핵심 포인트
+
+- [00:49](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=49) 트럼프의 종전 발언과 이란의 기뢰 설치 위협 → 정치적 발언과 지정학적 리스크가 유가 변동성을 주도함
+- [01:21](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=81) 오라클 실적 호조 및 CPI 발표 대기 → 기업 실적은 긍정적이나 물가 지표에 대한 경계감은 여전함
+- [06:29](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=389) 트럼프 참모들의 전쟁 조기 종료 설득 → 중간선거를 앞두고 유가 상승과 전쟁 장기화에 대한 정치적 부담 가중
+- [07:59](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=479) 투자자들의 포모(FOMO) 심리 지속 → 지정학적 위험보다 랠리 소외에 대한 두려움이 시장을 지탱
+- [10:54](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=654) 이란의 호르무즈 해협 기뢰 배치 징후 포착 → 물류 병목 현상을 유발하여 유가에 재앙적인 영향을 줄 수 있는 요인
+- [15:53](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=953) 2월 CPI 전망과 3월 물가 상승 우려 → 최근 유가 급등분이 반영될 3월 지표가 향후 금리 향방의 관건
+- [20:15](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=1215) 반도체 강세와 소프트웨어 업종의 약세 → TSMC 매출 호조로 하드웨어는 웃었으나 소프트웨어는 차익 실현 매물 출현
+- [22:59](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=1379) 오라클 클라우드 인프라 매출 폭발적 성장 → AI 인프라에 대한 강력한 수요가 기업 실적으로 증명됨
+- [24:51](https://www.youtube.com/watch?v=lp1rvNeiwC4&t=1491) 미국의 에너지 자립과 경제 복원력 강조 → 유가 충격에도 미국 증시가 타 지역 대비 유리하다는 낙관론
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=lp1rvNeiwC4)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/lp1rvNeiwC4_김현석의-월스트리트나우-3월11일)0:{"buildId":"MEv3XdnTjE6jDTfl9sYoY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월11일] \"전쟁 끝\" 희망 랠리, 이란 '기뢰'에 막혔다..장외 8%↑…오라클 부활?","videoId":"lp1rvNeiwC4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T78f,
+# [김현석의 브레이킹 뉴스] 2월 소비자물가지수(CPI) 발표! 3월 11일 오후 9시 30분 L.I.V.E
+
+## 📋 한 줄 요약
+
+> 2월 CPI가 예상치에 부합하며 물가 둔화 추세를 보였으나, 유가 상승과 중동 전쟁 리스크가 향후 금리 및 인플레이션의 핵심 변수로 떠올랐습니다.
+
+## 🧠 핵심 포인트
+
+- [00:26](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=26) 2월 소비자 물가(CPI) 발표 및 시장 전망 → 인플레이션 둔화 기대감 반영
+- [01:24](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=84) 골드만삭스의 낮은 물가 전망 근거 제시 → 중고차 및 주거비 하락 요인 주목
+- [02:34](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=154) 유가 급등과 중동 전쟁의 영향력 확대 → 향후 물가 경로의 최대 불확실성
+- [04:00](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=240) 실제 CPI 발표 결과가 예상치에 정확히 부합 → 추세적 둔화는 확인되었으나 안심은 금물
+- [04:46](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=286) 유가 지속 상승 시 5월 CPI 반등 가능성 경고 → 재인플레이션에 대한 경계심 필요
+- [05:32](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=332) 발표 후 시장 반응: 금리 상승 및 주가 혼조세 → CPI보다 유가와 전쟁 이슈에 민감하게 반응
+- [07:18](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=438) 주거비(Shelter)의 안정적인 추세 확인 → 핵심 물가 지표의 긍정적 신호
+- [08:34](https://www.youtube.com/watch?v=rLEGoZsc-wE&t=514) 금리 하락 시 경기 침체 우려 가능성 언급 → 금리 하락이 반드시 호재가 아닐 수 있음
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=rLEGoZsc-wE)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/rLEGoZsc-wE_김현석의-브레이킹-뉴스-2월-소비)0:{"buildId":"MEv3XdnTjE6jDTfl9sYoY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 브레이킹 뉴스] 2월 소비자물가지수(CPI) 발표! 3월 11일 오후 9시 30분 L.I.V.E","videoId":"rLEGoZsc-wE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

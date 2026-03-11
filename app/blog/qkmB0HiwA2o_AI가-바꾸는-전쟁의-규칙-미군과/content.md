@@ -1,0 +1,30 @@
+---
+title: "AI가 바꾸는 전쟁의 규칙, 미군과 손잡은 실리콘밸리 | 김인엽의 실리콘밸리나우"
+video_id: "qkmB0HiwA2o"
+tags: "미국주식"
+published_at: "2026-03-11T10:01:31Z"
+---
+
+# AI가 바꾸는 전쟁의 규칙, 미군과 손잡은 실리콘밸리 | 김인엽의 실리콘밸리나우
+
+## 📋 한 줄 요약
+
+> AI와 빅테크 기업들이 현대전의 '킬체인' 속도를 혁신하며 국방 패러다임을 바꾸고 있으며, 이는 새로운 디펜스 테크 투자 기회로 이어지고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:31](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=31) 실리콘밸리 테크 기업 및 벤처 투자자들의 방산 분야 진출 가속화 → 민간 기술과 군사 비즈니스의 경계 붕괴
+- [01:25](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=85) AI를 통한 '킬체인(Kill Chain)' 과정의 비약적인 속도 향상 → 현대전 승패의 핵심은 의사결정 속도
+- [01:50](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=110) 팔란티어의 위성 데이터 분석 및 '고담' OS를 통한 전황 파악 → 데이터 통합 분석이 전장의 디지털화 주도
+- [03:58](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=238) AI 목표 식별 시스템 도입으로 타격 목표 확보 효율 극대화 → 인간 정보 장교 수백 명의 업무를 AI가 대체
+- [04:43](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=283) MS, AWS, 구글, 오라클 등 빅테크의 군 전용 클라우드 구축 → 안정적인 데이터 인프라가 현대전의 신경망 역할
+- [05:11](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=311) 스타링크와 스카이키스를 활용한 험지 통신 및 AI 접속 지원 → 위성 통신망이 전장의 물리적 제약 극복
+- [06:17](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=377) 미-중 AI 패권 경쟁으로 인한 테크 기업들의 군 협력 분위기 반전 → 기술 주권 확보를 위한 안보 협력 불가피
+- [08:08](https://www.youtube.com/watch?v=qkmB0HiwA2o&t=488) 오픈AI 등 주요 기업들의 자율 군집 드론 및 임무 통제 기술 개발 참여 → AI 무기화 논란 속에서도 기술 개발은 지속
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=qkmB0HiwA2o)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/qkmB0HiwA2o_AI가-바꾸는-전쟁의-규칙-미군과)

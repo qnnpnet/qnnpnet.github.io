@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8e4,
+# [김종학의 뉴욕, 지금-3월12일] 유가, IEA 역대 최대 방출에도 상승 | 은행권 대출 단속 시작되나 | 종목(오라클, 스트라이커, 처브, 테슬라, 네비우스, 엔비디아, 메타)
+
+## 📋 한 줄 요약
+
+> 지정학적 위기와 유가 불안 속에 소비자물가지수(CPI)는 예상치에 부합했으나, 사모펀드 환매 압력과 금리 인하 지연 우려가 시장의 혼조세를 이끌었습니다.
+
+## 🧠 핵심 포인트
+
+- [00:52](https://www.youtube.com/watch?v=J_SdF62LdGU&t=52) 뉴욕 증시 혼조세 및 국채 금리 급등 → CPI 안도감보다 유가 상승에 따른 인플레이션 재점화 우려가 시장을 압박함
+- [04:02](https://www.youtube.com/watch?v=J_SdF62LdGU&t=242) IEA 32개국 비축유 4억 배럴 방출 합의 → 공급 물량 확대에도 불구하고 시장은 전쟁 장기화 우려에 더 민감하게 반응
+- [07:28](https://www.youtube.com/watch?v=J_SdF62LdGU&t=448) 5월 CPI 예상치 부합 및 근원 물가 안정세 → 주거비 하락으로 지표 자체는 긍정적이나 향후 에너지 및 식품 가격 변동이 관건
+- [09:08](https://www.youtube.com/watch?v=J_SdF62LdGU&t=548) JP모건의 사모신용 담보 하향 및 환매 중단 우려 → 그림자 금융권의 신용 위기 관리 부실과 자금 유출 속도가 심상치 않음
+- [11:49](https://www.youtube.com/watch?v=J_SdF62LdGU&t=709) 금리 인하 기대감 후퇴 및 9월 인하설 대두 → 에너지 가격 충격으로 인해 연준이 선제적으로 움직이기 어려운 환경 조성
+- [12:21](https://www.youtube.com/watch?v=J_SdF62LdGU&t=741) 오라클, AI 및 클라우드 성장에 힘입어 9% 급등 → AI 인프라 수요가 소프트웨어 섹터의 실적 우려를 불식시키며 강력한 성장 증명
+- [14:36](https://www.youtube.com/watch?v=J_SdF62LdGU&t=876) 엔비디아의 파트너십 확장과 메타의 자체 AI 칩 공개 → 빅테크 기업들이 AI 주도권을 잡기 위해 하드웨어와 생태계 투자를 가속화 중
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=J_SdF62LdGU)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/J_SdF62LdGU_김종학의-뉴욕-지금-3월12일)0:{"buildId":"1d7SxbimHsfDBcl7c9ly5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월12일] 유가, IEA 역대 최대 방출에도 상승 | 은행권 대출 단속 시작되나 | 종목(오라클, 스트라이커, 처브, 테슬라, 네비우스, 엔비디아, 메타)","videoId":"J_SdF62LdGU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"1d7SxbimHsfDBcl7c9ly5","c":["","blog","UujGGh-CJUY_%EC%84%B1%EC%9E%A5-%ED%95%9C%EA%B3%84-%EC%9D%B8%EC%A0%95%ED%95%9C-%EC%A4%91%EA%B5%AD%EB%96%A8%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%95%9C"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","UujGGh-CJUY_%EC%84%B1%EC%9E%A5-%ED%95%9C%EA%B3%84-%EC%9D%B8%EC%A0%95%ED%95%9C-%EC%A4%91%EA%B5%AD%EB%96%A8%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%95%9C","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T702,
+# 성장 한계 인정한 중국…떨고 있는 한국, 왜? | 김은정의 베이징나우
+
+## 📋 한 줄 요약
+
+> 중국이 올해 양회에서 경제 성장률 목표를 4.5~5%로 하향 조정하며, 양적 성장보다는 AI와 첨단 기술 중심의 내실 경영과 체질 개선에 집중할 것임을 선언했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:45](https://www.youtube.com/watch?v=UujGGh-CJUY&t=45) 경제 성장률 목표치 4.5~5% 제시 → 35년 만의 최저치로 중속 성장 국면 공식 인정
+- [01:56](https://www.youtube.com/watch?v=UujGGh-CJUY&t=116) 부동산 둔화 및 대외 불확실성 고려 → 무리한 부양보다 산업 구조 조정과 내실 선택
+- [03:18](https://www.youtube.com/watch?v=UujGGh-CJUY&t=198) GDP 대비 4% 수준의 확장적 재정 정책 → 초장기 특별 국채 발행으로 경기 하방 압력 방어
+- [04:40](https://www.youtube.com/watch?v=UujGGh-CJUY&t=280) 과학 기술 R&D 예산 10% 증액 → 미국과의 패권 경쟁에 대비한 기술 자립 가속화
+- [05:26](https://www.youtube.com/watch?v=UujGGh-CJUY&t=326) 사상 첫 '스마트 경제' 용어 등장 → AI를 전 산업의 핵심 엔진으로 삼아 경제 재구성
+- [06:45](https://www.youtube.com/watch?v=UujGGh-CJUY&t=405) 2030년까지 경제 90%에 AI 적용 목표 → 지정학적 위기 돌파를 위한 AI 기술 확보 의지
+- [07:56](https://www.youtube.com/watch?v=UujGGh-CJUY&t=476) 시진핑 1인 체제 및 군사력 강화 → 정치적 기반 공고화 및 국방 현대화 기반 마련
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=UujGGh-CJUY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/UujGGh-CJUY_성장-한계-인정한-중국떨고-있는-한)4:["$","$Ld",null,{"title":"성장 한계 인정한 중국…떨고 있는 한국, 왜? | 김은정의 베이징나우","videoId":"UujGGh-CJUY","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"성장 한계 인정한 중국…떨고 있는 한국, 왜? | 김은정의 베이징나우"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

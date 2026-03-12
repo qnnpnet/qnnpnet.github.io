@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=FeFoZ25-t-k)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/FeFoZ25-t-k_김종학의-뉴욕-지금-3월5일)0:{"buildId":"MEv3XdnTjE6jDTfl9sYoY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월5일] “생각보더 더 투입\"..미-이란 전쟁 상황 | 스테이블 코인 법안 지지 표명 | 종목(브로드컴, 코인베이스, 로빈후드, 애플, 엔비디아)","videoId":"FeFoZ25-t-k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/FeFoZ25-t-k_김종학의-뉴욕-지금-3월5일)0:{"buildId":"1d7SxbimHsfDBcl7c9ly5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월5일] “생각보더 더 투입\"..미-이란 전쟁 상황 | 스테이블 코인 법안 지지 표명 | 종목(브로드컴, 코인베이스, 로빈후드, 애플, 엔비디아)","videoId":"FeFoZ25-t-k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

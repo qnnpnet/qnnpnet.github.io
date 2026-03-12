@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=tgUu8de2rNI)0:{"buildId":"MEv3XdnTjE6jDTfl9sYoY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월24일] 미국 역대급 눈폭풍..뉴욕 시장 비상사태 선포 | 트럼프 “더 강한 권한 확인..꼼수 부리지 마!” | 종목(보잉, 우버, 노보노, 머크)","videoId":"tgUu8de2rNI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=tgUu8de2rNI)0:{"buildId":"1d7SxbimHsfDBcl7c9ly5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월24일] 미국 역대급 눈폭풍..뉴욕 시장 비상사태 선포 | 트럼프 “더 강한 권한 확인..꼼수 부리지 마!” | 종목(보잉, 우버, 노보노, 머크)","videoId":"tgUu8de2rNI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

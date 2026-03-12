@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=693QGZO52M0)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/693QGZO52M0_김현석의-월스트리트나우-3월6일)0:{"buildId":"MEv3XdnTjE6jDTfl9sYoY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월6일] 6월까지 전쟁? 66% 확률..\"유가 90달러 넘으면 주가 하락 본격화\"","videoId":"693QGZO52M0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/693QGZO52M0_김현석의-월스트리트나우-3월6일)0:{"buildId":"1d7SxbimHsfDBcl7c9ly5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월6일] 6월까지 전쟁? 66% 확률..\"유가 90달러 넘으면 주가 하락 본격화\"","videoId":"693QGZO52M0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

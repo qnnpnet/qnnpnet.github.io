@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T702,
+# 성장 한계 인정한 중국…떨고 있는 한국, 왜? | 김은정의 베이징나우
+
+## 📋 한 줄 요약
+
+> 중국이 올해 양회에서 경제 성장률 목표를 4.5~5%로 하향 조정하며, 양적 성장보다는 AI와 첨단 기술 중심의 내실 경영과 체질 개선에 집중할 것임을 선언했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:45](https://www.youtube.com/watch?v=UujGGh-CJUY&t=45) 경제 성장률 목표치 4.5~5% 제시 → 35년 만의 최저치로 중속 성장 국면 공식 인정
+- [01:56](https://www.youtube.com/watch?v=UujGGh-CJUY&t=116) 부동산 둔화 및 대외 불확실성 고려 → 무리한 부양보다 산업 구조 조정과 내실 선택
+- [03:18](https://www.youtube.com/watch?v=UujGGh-CJUY&t=198) GDP 대비 4% 수준의 확장적 재정 정책 → 초장기 특별 국채 발행으로 경기 하방 압력 방어
+- [04:40](https://www.youtube.com/watch?v=UujGGh-CJUY&t=280) 과학 기술 R&D 예산 10% 증액 → 미국과의 패권 경쟁에 대비한 기술 자립 가속화
+- [05:26](https://www.youtube.com/watch?v=UujGGh-CJUY&t=326) 사상 첫 '스마트 경제' 용어 등장 → AI를 전 산업의 핵심 엔진으로 삼아 경제 재구성
+- [06:45](https://www.youtube.com/watch?v=UujGGh-CJUY&t=405) 2030년까지 경제 90%에 AI 적용 목표 → 지정학적 위기 돌파를 위한 AI 기술 확보 의지
+- [07:56](https://www.youtube.com/watch?v=UujGGh-CJUY&t=476) 시진핑 1인 체제 및 군사력 강화 → 정치적 기반 공고화 및 국방 현대화 기반 마련
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=UujGGh-CJUY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/UujGGh-CJUY_성장-한계-인정한-중국떨고-있는-한)0:{"buildId":"1d7SxbimHsfDBcl7c9ly5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"성장 한계 인정한 중국…떨고 있는 한국, 왜? | 김은정의 베이징나우","videoId":"UujGGh-CJUY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

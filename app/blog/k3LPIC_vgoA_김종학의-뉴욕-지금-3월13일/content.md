@@ -1,0 +1,31 @@
+---
+title: "[김종학의 뉴욕, 지금-3월13일] 브렌트유 배럴당 100달러 재돌파 | 미 국채금리 급등 | 종목(어도비, 딕스스포팅굿즈, 달러제너럴, 애플, 테슬라, 유아이패스, 코스트코)"
+video_id: "k3LPIC_vgoA"
+tags: "김종학의 뉴욕 지금-3월13일, 김종학, 뉴욕 지금, 금리"
+published_at: "2026-03-12T21:19:57Z"
+---
+
+# [김종학의 뉴욕, 지금-3월13일] 브렌트유 배럴당 100달러 재돌파 | 미 국채금리 급등 | 종목(어도비, 딕스스포팅굿즈, 달러제너럴, 애플, 테슬라, 유아이패스, 코스트코)
+
+## 📋 한 줄 요약
+
+> 이란의 민간 선박 공격에 따른 유가 급등과 국채 금리 상승으로 뉴욕 증시가 일제히 하락하며 시장의 공포 심리가 극대화되었습니다.
+
+## 🧠 핵심 포인트
+
+- [00:33](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=33) 이란의 민간 선박 공격으로 뉴욕 3대 지수 1% 이상 하락 → 지정학적 리스크가 시장을 압도
+- [01:22](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=82) 국제 유가 폭등 및 VIX 지수 27선 돌파 → 에너지발 인플레이션 공포 확산
+- [01:44](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=104) 미국 10년물 국채 금리 4.265%로 급등 → 안전자산 선호와 금리 상승 압박 동시 발생
+- [02:11](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=131) 엔비디아, 인텔 등 반도체 및 기술주 동반 폭락 → 고금리와 경기 위축 우려에 기술주 직격탄
+- [04:30](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=270) 호르무즈 해협 인근 선박 피격으로 공급망 마비 우려 → 역사상 최대 규모의 원유 공급 차질 가능성
+- [08:25](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=505) 미국 전쟁 비용 일주일간 113억 달러 지출 → 재정 적자 심화로 인한 경제적 부담 가중
+- [10:34](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=634) 기관의 단독 주택 매입을 제한하는 주택 구매력 법안 통과 → 부동산 시장 내 기관 영향력 축소 시도
+- [12:43](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=763) 어도비(Adobe) CEO 사임 발표로 시간외 주가 6%대 급락 → 실적 호조에도 경영진 공백 리스크에 민감하게 반응
+- [14:43](https://www.youtube.com/watch?v=k3LPIC_vgoA&t=883) 비료 관련주(CF 인더스트리즈 등) 공급망 위기에 급등 → 원자재 가격 상승에 따른 반사이익 기대
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=k3LPIC_vgoA)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/k3LPIC_vgoA_김종학의-뉴욕-지금-3월13일)

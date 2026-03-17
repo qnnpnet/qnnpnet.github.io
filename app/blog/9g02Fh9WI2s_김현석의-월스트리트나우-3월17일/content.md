@@ -1,0 +1,30 @@
+---
+title: "[김현석의 월스트리트나우-3월17일] \"이란 석유 지나가라\"..유가 하락, 주가 반등 | 젠슨 \"밀린 주문 $1조\""
+video_id: "9g02Fh9WI2s"
+tags: "김현석의 월스트리트나우-3월17일, 김현석, 월스트리트나우"
+published_at: "2026-03-16T22:27:59Z"
+---
+
+# [김현석의 월스트리트나우-3월17일] "이란 석유 지나가라"..유가 하락, 주가 반등 | 젠슨 "밀린 주문 $1조"
+
+## 📋 한 줄 요약
+
+> 유가 하락과 엔비디아 GTC 컨퍼런스 기대감으로 미 증시가 상승했으나, 호르무즈 해협 긴장과 FOMC 회의를 앞두고 시장의 신중론이 교차하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:58](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=58) 엔비디아 GTC 컨퍼런스 개최 및 기술주 상승 → AI 산업 성장 기대감 지속
+- [01:56](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=116) 유가 하락에 따른 국채 금리 하락 → 인플레이션 우려 완화로 시장 안도
+- [03:05](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=185) 트럼프의 호르무즈 해협 군함 파견 요구 → 지정학적 리스크 해결을 위한 압박
+- [04:38](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=278) 미국의 이란 카르그섬 공격과 에너지 시설 보존 → 원유 공급 차질 최소화 의지
+- [09:14](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=554) 모건스탠리의 유가 전망치 상향 조정 → 공급 부족에 따른 유가 급등 경고
+- [12:32](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=752) 골드만삭스의 지정학적 충격에 대한 낙관론 → 일시적 조정을 매수 기회로 판단
+- [19:13](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=1153) 3월 FOMC 회의 시작 및 금리 동결 예상 → 점도표 변화 여부가 핵심 변수
+- [24:02](https://www.youtube.com/watch?v=9g02Fh9WI2s&t=1442) 젠슨 황, AI 관련 1조 달러 매출 전망 발표 → 엔비디아의 압도적 시장 지배력 확인
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=9g02Fh9WI2s)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/9g02Fh9WI2s_김현석의-월스트리트나우-3월17일)

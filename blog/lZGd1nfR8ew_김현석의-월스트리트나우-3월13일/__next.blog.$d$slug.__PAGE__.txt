@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T88c,
+# [김현석의 월스트리트나우-3월13일] "끝이 보이지 않는다" 참을성 잃어가는 월가..결국 지상군 투입?
+
+## 📋 한 줄 요약
+
+> 중동 긴장 고조에 따른 국제유가 폭등과 인플레이션 우려, 사모 대출 시장의 불안정성이 겹치며 뉴욕 증시가 급락하고 금리 인하 기대감이 크게 후퇴했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:53](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=53) 브렌트유 배럴당 100달러 돌파 및 이란의 추가 도발 예고 → 에너지 공급망 위기 현실화
+- [01:30](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=90) 인플레이션 불안으로 인한 국채 금리 상승 및 증시 급락 → 시장 심리 급격한 위축
+- [03:42](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=222) 이란의 호르무즈 해협 봉쇄 지렛대 활용 및 홍해 전선 확대 경고 → 지정학적 리스크의 최고조
+- [07:46](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=466) 해협 봉쇄 장기화 시 유가 150달러 돌파 가능성 제기 → 스태그플레이션 공포 확산
+- [09:38](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=578) 미국의 해협 재개방을 위한 지상군 투입 가능성 대두 → 전쟁의 전면전 확대 우려
+- [13:11](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=791) 골드만삭스, 금리 인하 시점을 6월에서 9월로 연기 → 고금리 유지 기간 장기화
+- [18:04](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=1084) 사모 대출 시장의 환매 중단 및 부실 우려 확산 → 새로운 금융 시스템 리스크 부상
+- [22:07](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=1327) 빅테크 및 반도체 업종 중심의 강력한 매도세 발생 → 성장주 밸류에이션 부담 가중
+- [25:16](https://www.youtube.com/watch?v=lZGd1nfR8ew&t=1516) S&P 500 지수 주요 지지선 붕괴 시 6,000선 하락 경고 → 기술적 하락 추세 전환 기로
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=lZGd1nfR8ew)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/lZGd1nfR8ew_김현석의-월스트리트나우-3월13일)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월13일] \"끝이 보이지 않는다\" 참을성 잃어가는 월가..결국 지상군 투입?","videoId":"lZGd1nfR8ew","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T933,
+# 사모대출이 도대체 뭐길래 이 난리인 걸까 | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 사모 대출 시장의 유동성 위축과 2008년 금융위기 재현 우려가 커지는 가운데, 다가오는 FOMC와 AI 투자 환경의 변화가 향후 시장의 핵심 변수가 될 전망입니다.
+
+## 🧠 핵심 포인트
+
+- [00:55](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=55) JP모건의 사모 대출 담보 기준 강화 및 유동성 경색 시그널 → 대형 은행의 보수적 태도 전환이 시장 전반의 환매 압력을 자극함
+- [02:23](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=143) 2008년 금융위기와의 유사성 및 차이점 논란 → 실물 경제 연결 고리는 낮으나 사모 시장의 불투명성이 공포를 키우는 상황
+- [05:38](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=338) 과거 CDO 사태와 현재 사모 대출 구조의 비교 → 복잡한 구조화 상품의 가치 하락이 위기의 시발점이 될 수 있다는 경고
+- [11:51](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=711) 사모 대출 시장 위축이 AI 투자에 미칠 영향 → 비상장 자금 조달이 어려워질 경우 AI 버블 붕괴의 트리거가 될 가능성
+- [15:44](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=944) GTC 컨퍼런스와 반도체 섹터의 차익 실현 가능성 → 기술적 기대감은 높으나 매크로 불확실성으로 인한 단기 조정 우려
+- [19:12](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=1152) 3월 20일 대규모 옵션 만기 및 시장 리셋 기대 → 상하방이 막힌 박스권에서 옵션 만기 이후 새로운 방향성 설정 전망
+- [21:13](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=1273) 차주 FOMC의 비둘기파적 전환 가능성 → 이미 시장이 과도하게 매파적으로 반응해 있어 중립적 발언도 호재로 작용 가능
+- [24:30](https://www.youtube.com/watch?v=itfIR2g6RXQ&t=1470) 유가 상승과 연준의 금리 결정 메커니즘 → 공급측 요인인 유가보다 노동 시장 약화에 집중해 금리 인하 명분을 찾을 가능성
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=itfIR2g6RXQ)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/itfIR2g6RXQ_사모대출이-도대체-뭐길래-이-난리인)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"사모대출이 도대체 뭐길래 이 난리인 걸까 | 월가백브리핑","videoId":"itfIR2g6RXQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

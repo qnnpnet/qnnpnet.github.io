@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8a1,
+# 전쟁에도 '수익자부담 원칙'.. 안보동맹 청구서 날린 트럼프 | 이상은의 워싱턴나우
+
+## 📋 한 줄 요약
+
+> 이란발 호르무즈 해협 봉쇄 리스크가 과소평가된 가운데, 유가 급등과 미국의 관세 압박이 세계 경제와 한국에 전대미문의 도전을 예고하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:05](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=5) 호르무즈 해협 봉쇄 리스크에 대한 월가의 과소평가 반성 → 전대미문의 경제적 파장 우려
+- [01:22](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=82) 이란의 비대칭 전력을 활용한 저비용 고효율 괴롭히기 전략 → 드론 등을 활용한 에너지 시설 타격의 위력 확인
+- [03:52](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=232) 트럼프의 '수익자 부담 원칙'에 따른 한국 등 우방국 군함 파견 요구 → 안보 동맹에 대한 경제적 청구서 본격화
+- [08:32](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=512) 상선 호위 작전의 한계와 좁은 해협 내 '킬박스' 노출 위험 → 단순 호위는 미봉책에 불과할 가능성
+- [11:01](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=661) 과거 사례 대비 현재 유가($100 수준)의 리스크 미반영 지적 → 추가적인 유가 폭등 시나리오 대비 필요
+- [13:52](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=832) 미국 재무부의 원유 선물 시장 개입 의혹과 정치적 유인 → 시장 가격 결정에 대한 정부 개입 가능성 대두
+- [15:31](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=931) 이란의 위안화 결제 허용을 통한 페트로 달러 체제 도전 → 미중 갈등이 에너지 결제 통화 패권으로 확산
+- [18:29](https://www.youtube.com/watch?v=oNd9ktDuDA8&t=1109) 미국 무역법 301조 조사 개시와 공급 과잉 논리를 통한 관세 정당화 → 한국 수출 기업에 대한 보호무역주의 압박 심화
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=oNd9ktDuDA8)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/oNd9ktDuDA8_전쟁에도-수익자부담-원칙-안보)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"전쟁에도 '수익자부담 원칙'.. 안보동맹 청구서 날린 트럼프 | 이상은의 워싱턴나우","videoId":"oNd9ktDuDA8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

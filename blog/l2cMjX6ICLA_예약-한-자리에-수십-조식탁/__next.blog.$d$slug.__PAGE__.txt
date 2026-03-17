@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7c9,
+# "예약 한 자리에 수십 조"..식탁 위 전쟁에 뛰어든 특급 카드회사 | 바이아메리카 in 뉴욕
+
+## 📋 한 줄 요약
+
+> 아메리칸 익스프레스는 프리미엄 식당 예약 플랫폼을 장악해 고소득층 데이터를 독점하며 성장해왔으나, 플랫폼 경쟁 심화와 AI 기술의 발전으로 중대한 변화의 기로에 서 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:45](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=45) 미국 인맥 사회와 독특한 레스토랑 문화 → 식사는 단순한 끼니 이상의 비즈니스 무대
+- [02:33](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=153) Amex의 예약 플랫폼 Resy와 Tock 인수 → 프리미엄 식당 예약권 독점으로 시장 장악
+- [03:12](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=192) 고액 자산가 타겟팅 전략 → 할인보다 경험과 소속감을 중시하는 마케팅
+- [05:48](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=348) 결제 데이터를 활용한 정교한 소비 분석 → 단순 중계를 넘어 소비 패턴을 추적하는 Amex
+- [06:35](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=395) 데이터 기반 광고 사업 확장 → 명품 및 호텔 체인에 고효율 타겟 광고 제공
+- [07:28](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=448) 프리미엄 회원을 위한 독점 테이블 운영 → 연회비 이상의 가치를 제공하는 폐쇄적 혜택
+- [08:04](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=484) 플랫폼 간 경쟁과 식당들의 반발 → 독점적 지위에 대한 균열과 경쟁사의 반격
+- [10:45](https://www.youtube.com/watch?v=l2cMjX6ICLA&t=645) AI 에이전트라는 거대한 변수 등장 → 사람 대신 AI가 예약하는 시대의 도래와 위협
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=l2cMjX6ICLA)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/l2cMjX6ICLA_예약-한-자리에-수십-조식)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"예약 한 자리에 수십 조\"..식탁 위 전쟁에 뛰어든 특급 카드회사 | 바이아메리카 in 뉴욕","videoId":"l2cMjX6ICLA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

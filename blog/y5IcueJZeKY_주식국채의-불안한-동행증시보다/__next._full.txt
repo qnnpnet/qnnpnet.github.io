@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"0Gfj8HnyjsgmugO1_Yokf","c":["","blog","y5IcueJZeKY_%EC%A3%BC%EC%8B%9D%EA%B5%AD%EC%B1%84%EC%9D%98-%EB%B6%88%EC%95%88%ED%95%9C-%EB%8F%99%ED%96%89%EC%A6%9D%EC%8B%9C%EB%B3%B4%EB%8B%A4"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","y5IcueJZeKY_%EC%A3%BC%EC%8B%9D%EA%B5%AD%EC%B1%84%EC%9D%98-%EB%B6%88%EC%95%88%ED%95%9C-%EB%8F%99%ED%96%89%EC%A6%9D%EC%8B%9C%EB%B3%B4%EB%8B%A4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T88f,
+# 주식·국채의 불안한 동행..증시보다 무서운 금리시장 공포지수 | 지금 주가보다 중요한 지표는 | 빈난새의 빈틈없이월가
+
+## 📋 한 줄 요약
+
+> 유가 변동으로 인한 금리 불확실성이 커지는 가운데, 시장의 관심이 인플레이션에서 경기 둔화 우려로 이동하며 채권 변동성과 신용 스프레드가 핵심 지표로 부상하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [02:51](https://www.youtube.com/watch?v=y5IcueJZeKY&t=171) 채권 시장의 공포지수인 '무브(MOVE) 인덱스' 급등 → 금리 경로에 대한 시장의 극심한 불확실성 반영
+- [04:23](https://www.youtube.com/watch?v=y5IcueJZeKY&t=263) 채권 금리 변동성이 주식 시장 밸류에이션에 미치는 영향 → 금리는 모든 자산의 할인율이기에 증시 불안의 근본 원인
+- [06:28](https://www.youtube.com/watch?v=y5IcueJZeKY&t=388) 유가 상승으로 인한 연준의 금리 인하 기대감 후퇴 → 인하 시점이 6월에서 9월 이후로 밀리며 투자 심리 위축
+- [09:34](https://www.youtube.com/watch?v=y5IcueJZeKY&t=574) 인플레이션 우려에서 '성장 둔화 및 수요 파괴' 우려로의 전환 → 고유가가 물가를 넘어 경기 침체를 유발할 수 있다는 공포 확산
+- [14:12](https://www.youtube.com/watch?v=y5IcueJZeKY&t=852) 주식과 채권의 양의 상관관계(동반 하락/상승) 지속 → 전통적인 자산 배분 전략이 작동하지 않는 불안정한 장세
+- [17:49](https://www.youtube.com/watch?v=y5IcueJZeKY&t=1069) 골드만삭스가 주목하는 '신용 스프레드' 확대 위험 → 기업 조달 비용 상승은 증시 반등의 신뢰도를 낮추는 요소
+- [21:03](https://www.youtube.com/watch?v=y5IcueJZeKY&t=1263) 2022년 인플레이션 쇼크와 현재 경기 둔화 리스크의 차이 → 소비 여력 감소로 인해 현재는 긴축보다 경기 방어가 절실한 시점
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=y5IcueJZeKY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/y5IcueJZeKY_주식국채의-불안한-동행증시보다)4:["$","$Ld",null,{"title":"주식·국채의 불안한 동행..증시보다 무서운 금리시장 공포지수 | 지금 주가보다 중요한 지표는 | 빈난새의 빈틈없이월가","videoId":"y5IcueJZeKY","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"주식·국채의 불안한 동행..증시보다 무서운 금리시장 공포지수 | 지금 주가보다 중요한 지표는 | 빈난새의 빈틈없이월가"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

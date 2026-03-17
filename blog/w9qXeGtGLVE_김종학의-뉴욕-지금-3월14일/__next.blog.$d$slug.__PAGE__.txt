@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Ta32,
+# [김종학의 뉴욕, 지금-3월14일] NYT “미 해병 추가 파병” | 미 연방판사, 파월 소환장 기각 | 종목(마이크론, 엔비디아, 우버, 아마존, 어도비, 리비안)
+
+## 📋 한 줄 요약
+
+> 중동 전쟁 장기화와 유가 상승 우려로 미 증시는 하락했으나, 비트코인의 디커플링과 마이크론의 실적 기대감이 교차하며 다음 주 FOMC를 앞두고 시장의 긴장감이 고조되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:30](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=30) 미국 3대 지수 하락 및 국제 유가 상승 지속 → 에너지 가격 상승이 인플레이션 우려를 자극함
+- [02:06](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=126) 메타(Meta)의 신규 AI 모델 실망감에 주가 급락 → AI 기술에 대한 시장의 눈높이가 매우 높아진 상태
+- [03:21](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=201) 공포 탐욕 지수 '극단적 공포(20)' 구간 진입 → 전쟁 리스크가 시장 심리를 완전히 장악함
+- [03:59](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=239) 비트코인 7만 달러 돌파하며 증시와 디커플링 → 전통 자산 하락 속 대안 자산으로서의 매력 부각
+- [06:18](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=378) 미 해병대 2,500명 중동 추가 파병 소식 → 지정학적 리스크가 해소될 기미가 보이지 않음
+- [07:15](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=435) 미 재무부, 러시아산 원유 한시적 구매 허용 → 유가 폭등을 막기 위한 미국의 이례적인 조치
+- [09:16](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=556) 법원, 파월 의장에 대한 정치적 소환장 기각 → FOMC를 앞두고 연준의 독립성에 힘이 실림
+- [12:02](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=722) 달러 강세 및 2008년 금융위기 유사성 경고 → 고유가와 금리 정책 실수가 겹칠 가능성에 대한 우려
+- [13:47](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=827) 마이크론 목표주가 500달러로 대폭 상향 조정 → 메모리 반도체 가격 상승에 따른 실적 기대감 반영
+- [15:31](https://www.youtube.com/watch?v=w9qXeGtGLVE&t=931) 어도비, AI 도구의 기존 매출 잠식(Cannibalization) 우려 → AI 도입이 반드시 매출 증대로 이어지지 않을 수 있다는 경고
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=w9qXeGtGLVE)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/w9qXeGtGLVE_김종학의-뉴욕-지금-3월14일)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월14일] NYT “미 해병 추가 파병” | 미 연방판사, 파월 소환장 기각 | 종목(마이크론, 엔비디아, 우버, 아마존, 어도비, 리비안)","videoId":"w9qXeGtGLVE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

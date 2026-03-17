@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T88f,
+# 주식·국채의 불안한 동행..증시보다 무서운 금리시장 공포지수 | 지금 주가보다 중요한 지표는 | 빈난새의 빈틈없이월가
+
+## 📋 한 줄 요약
+
+> 유가 변동으로 인한 금리 불확실성이 커지는 가운데, 시장의 관심이 인플레이션에서 경기 둔화 우려로 이동하며 채권 변동성과 신용 스프레드가 핵심 지표로 부상하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [02:51](https://www.youtube.com/watch?v=y5IcueJZeKY&t=171) 채권 시장의 공포지수인 '무브(MOVE) 인덱스' 급등 → 금리 경로에 대한 시장의 극심한 불확실성 반영
+- [04:23](https://www.youtube.com/watch?v=y5IcueJZeKY&t=263) 채권 금리 변동성이 주식 시장 밸류에이션에 미치는 영향 → 금리는 모든 자산의 할인율이기에 증시 불안의 근본 원인
+- [06:28](https://www.youtube.com/watch?v=y5IcueJZeKY&t=388) 유가 상승으로 인한 연준의 금리 인하 기대감 후퇴 → 인하 시점이 6월에서 9월 이후로 밀리며 투자 심리 위축
+- [09:34](https://www.youtube.com/watch?v=y5IcueJZeKY&t=574) 인플레이션 우려에서 '성장 둔화 및 수요 파괴' 우려로의 전환 → 고유가가 물가를 넘어 경기 침체를 유발할 수 있다는 공포 확산
+- [14:12](https://www.youtube.com/watch?v=y5IcueJZeKY&t=852) 주식과 채권의 양의 상관관계(동반 하락/상승) 지속 → 전통적인 자산 배분 전략이 작동하지 않는 불안정한 장세
+- [17:49](https://www.youtube.com/watch?v=y5IcueJZeKY&t=1069) 골드만삭스가 주목하는 '신용 스프레드' 확대 위험 → 기업 조달 비용 상승은 증시 반등의 신뢰도를 낮추는 요소
+- [21:03](https://www.youtube.com/watch?v=y5IcueJZeKY&t=1263) 2022년 인플레이션 쇼크와 현재 경기 둔화 리스크의 차이 → 소비 여력 감소로 인해 현재는 긴축보다 경기 방어가 절실한 시점
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=y5IcueJZeKY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/y5IcueJZeKY_주식국채의-불안한-동행증시보다)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"주식·국채의 불안한 동행..증시보다 무서운 금리시장 공포지수 | 지금 주가보다 중요한 지표는 | 빈난새의 빈틈없이월가","videoId":"y5IcueJZeKY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

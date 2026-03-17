@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8e1,
+# 일본, 존립 위기 사태 검토하나 | 김일규의 도쿄나우
+
+## 📋 한 줄 요약
+
+> 중동 정세 불안에 따른 호르무즈 해협 봉쇄 위기로 일본이 46년 만에 단독 비축유 방출을 결정하고, 글로벌 LNG 확보 경쟁이 심화되며 에너지 안보 위기가 고조되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:03](https://www.youtube.com/watch?v=31XMe1pOyxk&t=3) IEA 및 일본의 전략 비축유 방출 결정 → 중동 전쟁으로 인한 에너지 위기 선제적 대응
+- [01:01](https://www.youtube.com/watch?v=31XMe1pOyxk&t=61) 일본 정부의 1978년 이후 첫 단독 비축유 방출 → 호르무즈 해협 봉쇄 가능성을 매우 심각하게 인식
+- [01:34](https://www.youtube.com/watch?v=31XMe1pOyxk&t=94) 일본의 높은 중동 원유 의존도(90% 이상) 노출 → 공급망 다변화 실패 시 경제 치명타 우려
+- [02:34](https://www.youtube.com/watch?v=31XMe1pOyxk&t=154) 원유 공급 불안으로 인한 엔달러 환율 159엔대 상승 → 에너지 리스크가 통화 가치 하락으로 직결
+- [02:55](https://www.youtube.com/watch?v=31XMe1pOyxk&t=175) 나프타 조달 차질로 인한 에틸렌 생산 감산 → 에너지 위기가 제조업 전반의 생산 차질로 확산
+- [04:11](https://www.youtube.com/watch?v=31XMe1pOyxk&t=251) 에너지를 국가 '존립 위기 사태' 안보 문제로 규정 → 자위대 파견 검토 등 군사적 대응 가능성까지 시사
+- [06:59](https://www.youtube.com/watch?v=31XMe1pOyxk&t=419) LNG 선박들의 행선지 변경(유럽에서 아시아로) → 가격 급등에 따른 글로벌 에너지 쟁탈전 본격화
+- [08:57](https://www.youtube.com/watch?v=31XMe1pOyxk&t=537) 한국과 대만의 높은 중동 LNG 의존도 지적 → 동북아시아 국가들의 공통된 에너지 안보 취약성
+- [09:37](https://www.youtube.com/watch?v=31XMe1pOyxk&t=577) 유럽의 LNG 재고 수준 2022년 이후 최저치 기록 → 글로벌 수급 불균형으로 인한 가격 상승 압력 지속
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=31XMe1pOyxk)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/31XMe1pOyxk_일본-존립-위기-사태-검토하나)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"일본, 존립 위기 사태 검토하나 | 김일규의 도쿄나우","videoId":"31XMe1pOyxk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

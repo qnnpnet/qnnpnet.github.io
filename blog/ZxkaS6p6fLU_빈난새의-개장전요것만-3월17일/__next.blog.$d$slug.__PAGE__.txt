@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Taa4,
+# [빈난새의 개장전요것만-3월17일] 미중 정상회담 연기 전망 | 엔비디아 강세론v약세론 | 아직 신중한 월가 현금비중 증가 | 우버 오클로 네비우스 델타항공 일라이릴리 써클 루멘텀
+
+## 📋 한 줄 요약
+
+> 중동 긴장과 유가 상승에도 불구하고 미 증시는 소폭 상승했으나, 월가는 스태그플레이션 우려와 지정학적 불확실성으로 인해 저가 매수에 신중한 입장을 보이고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:32](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=32) 미국 3대 지수 소폭 상승 및 유가 반등 → 유가 상승에도 불구하고 시장은 일단 낙관론을 유지하며 반등 시도 중
+- [03:20](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=200) 호주 금리 인상 및 일본 은행의 점진적 스탠스 → 글로벌 중앙은행들의 매파적 움직임이 채권 시장에 하방 압력으로 작용
+- [05:54](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=354) 미국 국채 금리 하락과 시장의 혼란 → 인플레이션 우려보다 성장 둔화 우려가 커지며 금리가 하락하는 복합적 상황
+- [13:12](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=792) 이스라엘의 이란 안보 수장 사살 주장 및 확전 우려 → 지정학적 리스크가 고조되며 호르무즈 해협 봉쇄 가능성이 유가 불안 자극
+- [20:57](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=1257) 미·중 정상회담 연기 요청 → 이란 전쟁 변수로 인해 양국 간 외교 일정에도 차질이 발생하며 불확실성 증대
+- [25:59](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=1559) 엔비디아의 AI 플랫폼 전략과 1조 달러 매출 전망 → 단순 칩 제조를 넘어 AI 생태계 전반을 장악하려는 야심을 확인
+- [37:54](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=2274) 뱅크오브아메리카 펀드매니저 설문: 현금 비중 확대 → 전문가들이 스태그플레이션을 경계하며 방어적인 포트폴리오로 전환 중
+- [40:58](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=2458) 월가 전문가들의 저가 매수 신중론 → 지정학적 안개가 걷히기 전까지는 성급한 진입보다 관망이 유리하다는 시각
+- [50:55](https://www.youtube.com/watch?v=ZxkaS6p6fLU&t=3055) 델타 항공의 긍정적인 가이던스 발표 → 고유가 상황에서도 여행 및 기업 수요가 견조함을 증명하며 항공주 반등 견인
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=ZxkaS6p6fLU)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZxkaS6p6fLU_빈난새의-개장전요것만-3월17일)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월17일] 미중 정상회담 연기 전망 | 엔비디아 강세론v약세론 | 아직 신중한 월가 현금비중 증가 | 우버 오클로 네비우스 델타항공 일라이릴리 써클 루멘텀","videoId":"ZxkaS6p6fLU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

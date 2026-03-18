@@ -1,0 +1,30 @@
+---
+title: "[김현석의 월스트리트나우-3월18일] 월가도 의아한 강세'..헤지 청산'이 원인? 엔비디아 이래서 내렸다"
+video_id: "oThKJFXehdY"
+tags: "김현석의 월스트리트나우-3월18일, 김현석, 월스트리트나우"
+published_at: "2026-03-17T22:24:13Z"
+---
+
+# [김현석의 월스트리트나우-3월18일] 월가도 의아한 강세'..헤지 청산'이 원인? 엔비디아 이래서 내렸다
+
+## 📋 한 줄 요약
+
+> 중동 긴장으로 인한 유가 상승 압박에도 불구하고, 미 증시는 엔비디아 GTC 여파와 금리 동결 기대감 속에 견조한 반등세를 이어갔습니다.
+
+## 🧠 핵심 포인트
+
+- [01:40](https://www.youtube.com/watch?v=oThKJFXehdY&t=100) 뉴욕 증시 4대 지수 일제히 상승 마감 → 유가 급등에도 불구하고 시장의 기초 체력 확인
+- [02:53](https://www.youtube.com/watch?v=oThKJFXehdY&t=173) 브렌트유 배럴당 103달러 돌파, 2022년 이후 최고치 → 중동 지정학적 리스크가 에너지 가격을 직접 타격
+- [06:54](https://www.youtube.com/watch?v=oThKJFXehdY&t=414) 트럼프 및 백악관, 중동 전쟁 5월 이전 종식 낙관 → 단기 사태 종결 기대감이 시장의 공포를 상쇄
+- [10:51](https://www.youtube.com/watch?v=oThKJFXehdY&t=651) 투자자들의 헤지 포지션 청산이 증시 하방 지지 → 패닉 셀링 대신 풋옵션 매도로 완충 역할 수행
+- [13:55](https://www.youtube.com/watch?v=oThKJFXehdY&t=835) 엔비디아, GTC 호재에도 불구하고 주가 0.7% 하락 → 뉴스에 파는 심리와 시가총액 비대화에 따른 부담감
+- [17:51](https://www.youtube.com/watch?v=oThKJFXehdY&t=1071) 마이크론 등 엔비디아 파트너사 및 소프트웨어주 급등 → AI 수혜가 하드웨어에서 생태계 전반으로 확산
+- [21:18](https://www.youtube.com/watch?v=oThKJFXehdY&t=1278) FMC 금리 동결 확실시 및 점도표 변화에 주목 → 유가 상승이 금리 인하 시점을 늦출 가능성 경계
+- [26:48](https://www.youtube.com/watch?v=oThKJFXehdY&t=1608) BofA 서베이, 펀드매니저들 현금 비중 4.3%로 확대 → 지정학적 리스크를 대비한 전문가들의 방어적 포지션
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=oThKJFXehdY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/oThKJFXehdY_김현석의-월스트리트나우-3월18일)

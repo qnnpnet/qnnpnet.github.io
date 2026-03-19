@@ -1,0 +1,30 @@
+---
+title: "AI가 덮친 노동 시장…중국이 찾은 해법은 | 김은정의 베이징나우"
+video_id: "f4i0gYcl4CY"
+tags: "김은정, 베이징나우"
+published_at: "2026-03-19T10:01:09Z"
+---
+
+# AI가 덮친 노동 시장…중국이 찾은 해법은 | 김은정의 베이징나우
+
+## 📋 한 줄 요약
+
+> 중국 정부는 사상 최악의 청년 실업 문제를 해결하기 위해 AI를 단순한 기술 혁신을 넘어 새로운 일자리 창출과 고용 구조 고도화의 핵심 동력으로 활용하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:02](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=2) 청년 실업 문제의 대안으로 부상한 AI → 국가적 위기 돌파구 모색
+- [00:34](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=34) 양회(兩會)의 핵심 키워드로 등극한 AI → 정책적 우선순위 확인
+- [01:16](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=76) AI와 인간의 협업을 통한 고용 질 향상 → 단순 반복은 로봇, 의사결정은 인간이 담당
+- [02:31](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=151) 교육 현장의 변화: AI 전공 및 직업 교육 확대 → 산업 수요에 맞춘 실무 인재 양성 가속화
+- [03:15](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=195) AI 관련 신규 직종 20여 개 공식 인정 → 새로운 노동 시장 생태계 조성
+- [04:14](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=254) 첨단 기술 특화 신흥 연구형 대학 설립 붐 → 기술 자립을 위한 교육 인프라 구축
+- [05:39](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=339) 국가 발전 계획의 법제화 추진 → 정책 실행력과 일관성 강화 의지
+- [07:06](https://www.youtube.com/watch?v=f4i0gYcl4CY&t=426) AI 산업의 자본 집약성과 고용 효과의 딜레마 → 실질적 실업 해소 여부에 대한 불확실성 상존
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=f4i0gYcl4CY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/f4i0gYcl4CY_AI가-덮친-노동-시장중국이-찾은)

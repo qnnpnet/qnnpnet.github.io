@@ -1,0 +1,31 @@
+---
+title: "[김현석의 월스트리트나우-3월19일] 현실 깨닫는 시장? 이란은 석유시설 폭격..파월 '풋'은 사라졌다"
+video_id: "P3lXv6yh6As"
+tags: "김현석의 월스트리트나우-3월19일, 김현석, 월스트리트나우"
+published_at: "2026-03-18T22:22:50Z"
+---
+
+# [김현석의 월스트리트나우-3월19일] 현실 깨닫는 시장? 이란은 석유시설 폭격..파월 '풋'은 사라졌다
+
+## 📋 한 줄 요약
+
+> 중동 분쟁 격화에 따른 유가 급등과 예상치를 웃돈 물가 지표 속에 제롬 파월 의장이 매파적 발언을 쏟아내며 금리 인하 기대감이 후퇴하고 미 증시가 일제히 하락했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:46](https://www.youtube.com/watch?v=P3lXv6yh6As&t=46) 중동 에너지 시설 폭격으로 인한 유가 급등 → 브렌트유 110달러 돌파로 인플레이션 압력 가중
+- [01:15](https://www.youtube.com/watch?v=P3lXv6yh6As&t=75) 제롬 파월 의장의 매파적 발언 → 물가 둔화 없이는 금리 인하가 없음을 분명히 함
+- [03:34](https://www.youtube.com/watch?v=P3lXv6yh6As&t=214) 이스라엘의 이란 에너지 생산 시설 첫 폭격 → 양측의 보복전으로 인한 공급망 차질 우려 심화
+- [08:01](https://www.youtube.com/watch?v=P3lXv6yh6As&t=481) 2월 생산자물가(PPI) 예상치 대폭 상회 → 향후 소비자물가(CPI) 상승을 자극할 선행 지표의 악화
+- [13:20](https://www.youtube.com/watch?v=P3lXv6yh6As&t=800) FOMC 점도표의 매파적 변화 → 올해 1회 인하 전망은 유지했으나 인하 반대 의견 강화
+- [16:30](https://www.youtube.com/watch?v=P3lXv6yh6As&t=990) 파월 의장의 인플레이션 트라우마 언급 → 과거 '일시적' 판단 오류로 인해 에너지 충격에 더욱 신중한 입장
+- [19:07](https://www.youtube.com/watch?v=P3lXv6yh6As&t=1147) 파월 의장의 임기 연장 및 의장직 수행 의지 → 매파적 성향의 리더십이 당분간 지속될 가능성 시사
+- [24:10](https://www.youtube.com/watch?v=P3lXv6yh6As&t=1450) 미 주요 지수 급락 및 기술적 지지선 위협 → S&P 500이 200일 이동평균선에 근접하며 추가 하락 위험 노출
+- [28:10](https://www.youtube.com/watch?v=P3lXv6yh6As&t=1690) 마이크론의 역대급 실적 발표와 시장 반응 → 강력한 펀더멘탈에도 불구하고 거시 경제 불안에 주가는 약세
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=P3lXv6yh6As)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/P3lXv6yh6As_김현석의-월스트리트나우-3월19일)

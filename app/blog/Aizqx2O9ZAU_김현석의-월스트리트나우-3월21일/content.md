@@ -1,0 +1,30 @@
+---
+title: "[김현석의 월스트리트나우-3월21일] 금리까지 미친 폭등..트럼프 \"휴전 안 해\", 주말에 지상군 투입?"
+video_id: "Aizqx2O9ZAU"
+tags: "김현석의 월스트리트나우-3월21일, 김현석, 월스트리트나우, 금리"
+published_at: "2026-03-20T22:12:46Z"
+---
+
+# [김현석의 월스트리트나우-3월21일] 금리까지 미친 폭등..트럼프 "휴전 안 해", 주말에 지상군 투입?
+
+## 📋 한 줄 요약
+
+> 이란 전쟁 확전 우려와 유가 급등에 따른 인플레이션 공포로 뉴욕 증시가 4주 연속 하락하며 S&P 500 지수 200일선이 붕괴되었습니다.
+
+## 🧠 핵심 포인트
+
+- [01:01](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=61) 유가 상승 및 금리 폭등으로 인한 뉴욕 증시 하락 → 인플레이션 우려가 시장을 압박함
+- [02:40](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=160) 미국의 이란 하르그섬 점령 검토 및 지상군 투입 징후 → 전쟁의 본격적인 확전 가능성 고조
+- [07:05](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=425) 호르무즈 해협 봉쇄 시 유가 배럴당 180달러 돌파 전망 → 에너지 공급망 마비에 따른 극단적 시나리오
+- [08:55](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=535) 글로벌 중앙은행들의 매파적 전환과 국채 금리 급등 → 금리 인하 기대가 인상 우려로 급변
+- [13:17](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=797) S&P 500 지수, 200일 이동평균선 아래로 하락 → 기술적 지지선 붕괴로 투자 심리 악화
+- [15:51](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=951) 과거 사례 분석을 통한 시장 바닥 가능성 제기 → 지정학적 위기 3주 후 반등했던 통계적 기대
+- [21:52](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=1312) 슈퍼 마이크로 컴퓨터(SMCI) 33% 폭락 → 수출 규제 위반 혐의 등 개별 종목 리스크 발생
+- [24:07](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=1447) 기관 투자자 설문 결과 최대 리스크는 '지정학적 충돌' → 인플레이션보다 전쟁 향방이 시장의 핵심 변수
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Aizqx2O9ZAU)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Aizqx2O9ZAU_김현석의-월스트리트나우-3월21일)

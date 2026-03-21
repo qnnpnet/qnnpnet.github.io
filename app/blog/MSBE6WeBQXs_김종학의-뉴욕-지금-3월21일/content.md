@@ -1,0 +1,30 @@
+---
+title: "[김종학의 뉴욕, 지금-3월21일] 미군, 중동에 수천 명 추가 파병 | 월가, 연준 인상 베팅 50%로 확대 | 종목(슈마컴, 델, 테슬라, 유니트리로보틱스, 페덱스, JP모건)"
+video_id: "MSBE6WeBQXs"
+tags: "김종학의 뉴욕 지금-3월21일, 김종학, 뉴욕 지금, 연준"
+published_at: "2026-03-20T21:20:04Z"
+---
+
+# [김종학의 뉴욕, 지금-3월21일] 미군, 중동에 수천 명 추가 파병 | 월가, 연준 인상 베팅 50%로 확대 | 종목(슈마컴, 델, 테슬라, 유니트리로보틱스, 페덱스, JP모건)
+
+## 📋 한 줄 요약
+
+> 중동 긴장 고조와 유가 급등, 연준의 금리 인상 가능성 대두로 뉴욕 증시가 일제히 하락하며 시장의 공포 심리가 확산되었습니다.
+
+## 🧠 핵심 포인트
+
+- [00:52](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=52) 뉴욕 증시 3대 지수 일제히 급락 및 변동성 확대 → 지정학적 리스크와 옵션 만기가 겹치며 투심 악화
+- [02:06](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=126) 미 국채 금리 급등 및 금리 인하 기대감 소멸 → 인플레이션 우려에 금리 동결을 넘어 인상 가능성까지 거론
+- [04:22](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=262) 트럼프의 이란 강경 대응 및 중동 내 미군 전력 증강 → 지상군 투입 가능성 등 전쟁 확전 우려가 시장 압박
+- [06:42](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=402) 호르무즈 및 홍해 해협 봉쇄 우려에 따른 유가 상승 → 에너지 공급망 차질이 글로벌 물가 불안의 핵심 변수
+- [08:12](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=492) 연준의 금리 인상 가능성 제기 및 월가 비관론 확산 → 유가 충격 지속 시 연준의 긴축 기조 강화 불가피
+- [10:06](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=606) 슈퍼마이크로컴퓨터(SMCI)의 대중국 반도체 밀수 의혹 수사 → 엔비디아 협력사의 도덕적 해이가 AI 섹터 전반에 악재
+- [12:30](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=750) 테슬라 세미트럭 양산 계획 및 중국산 태양광 설비 도입 → 신규 성장 동력 확보 노력에도 시장 하락세는 방어 못함
+- [14:33](https://www.youtube.com/watch?v=MSBE6WeBQXs&t=873) 미 규제 당국의 은행 자본 요건 완화 발표 → 금융권의 투자 여력을 키워주려는 정책적 지원 시도
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=MSBE6WeBQXs)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/MSBE6WeBQXs_김종학의-뉴욕-지금-3월21일)

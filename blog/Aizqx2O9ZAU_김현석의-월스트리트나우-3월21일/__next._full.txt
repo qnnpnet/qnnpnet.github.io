@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"9xaAR1ZNcUUgrkj5K2RJL","c":["","blog","Aizqx2O9ZAU_%EA%B9%80%ED%98%84%EC%84%9D%EC%9D%98-%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%82%98%EC%9A%B0-3%EC%9B%9421%EC%9D%BC"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","Aizqx2O9ZAU_%EA%B9%80%ED%98%84%EC%84%9D%EC%9D%98-%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%82%98%EC%9A%B0-3%EC%9B%9421%EC%9D%BC","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T815,
+# [김현석의 월스트리트나우-3월21일] 금리까지 미친 폭등..트럼프 "휴전 안 해", 주말에 지상군 투입?
+
+## 📋 한 줄 요약
+
+> 이란 전쟁 확전 우려와 유가 급등에 따른 인플레이션 공포로 뉴욕 증시가 4주 연속 하락하며 S&P 500 지수 200일선이 붕괴되었습니다.
+
+## 🧠 핵심 포인트
+
+- [01:01](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=61) 유가 상승 및 금리 폭등으로 인한 뉴욕 증시 하락 → 인플레이션 우려가 시장을 압박함
+- [02:40](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=160) 미국의 이란 하르그섬 점령 검토 및 지상군 투입 징후 → 전쟁의 본격적인 확전 가능성 고조
+- [07:05](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=425) 호르무즈 해협 봉쇄 시 유가 배럴당 180달러 돌파 전망 → 에너지 공급망 마비에 따른 극단적 시나리오
+- [08:55](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=535) 글로벌 중앙은행들의 매파적 전환과 국채 금리 급등 → 금리 인하 기대가 인상 우려로 급변
+- [13:17](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=797) S&P 500 지수, 200일 이동평균선 아래로 하락 → 기술적 지지선 붕괴로 투자 심리 악화
+- [15:51](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=951) 과거 사례 분석을 통한 시장 바닥 가능성 제기 → 지정학적 위기 3주 후 반등했던 통계적 기대
+- [21:52](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=1312) 슈퍼 마이크로 컴퓨터(SMCI) 33% 폭락 → 수출 규제 위반 혐의 등 개별 종목 리스크 발생
+- [24:07](https://www.youtube.com/watch?v=Aizqx2O9ZAU&t=1447) 기관 투자자 설문 결과 최대 리스크는 '지정학적 충돌' → 인플레이션보다 전쟁 향방이 시장의 핵심 변수
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Aizqx2O9ZAU)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Aizqx2O9ZAU_김현석의-월스트리트나우-3월21일)4:["$","$Ld",null,{"title":"[김현석의 월스트리트나우-3월21일] 금리까지 미친 폭등..트럼프 \"휴전 안 해\", 주말에 지상군 투입?","videoId":"Aizqx2O9ZAU","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"[김현석의 월스트리트나우-3월21일] 금리까지 미친 폭등..트럼프 \"휴전 안 해\", 주말에 지상군 투입?"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

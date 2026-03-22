@@ -21,5 +21,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=8m4vEnQZ_Ac)0:{"buildId":"0Gfj8HnyjsgmugO1_Yokf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월19일] '금리 인상' 매파의 반란..AI 공포 완화됐지만 빅테크 투자 줄인다?","videoId":"8m4vEnQZ_Ac","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=8m4vEnQZ_Ac)0:{"buildId":"9xaAR1ZNcUUgrkj5K2RJL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월19일] '금리 인상' 매파의 반란..AI 공포 완화됐지만 빅테크 투자 줄인다?","videoId":"8m4vEnQZ_Ac","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

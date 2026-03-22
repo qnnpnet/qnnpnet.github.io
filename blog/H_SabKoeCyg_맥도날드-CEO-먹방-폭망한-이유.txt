@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"9xaAR1ZNcUUgrkj5K2RJL","c":["","blog","H_SabKoeCyg_%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C-CEO-%EB%A8%B9%EB%B0%A9-%ED%8F%AD%EB%A7%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","H_SabKoeCyg_%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C-CEO-%EB%A8%B9%EB%B0%A9-%ED%8F%AD%EB%A7%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T857,
+# 맥도날드 CEO 먹방 폭망한 이유...무너지는 미국 버거 산업 | 바이아메리카 in 뉴욕
+
+## 📋 한 줄 요약
+
+> 미국 햄버거 산업이 소고기 공급난과 고물가로 인해 가격은 오르고 품질은 낮아지는 위기에 처하며, 원가 경쟁력이 높은 타코나 치킨 업체들이 시장의 주도권을 가져가고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:09](https://www.youtube.com/watch?v=H_SabKoeCyg&t=9) 맥도날드 CEO의 어색한 신제품 홍보와 QSR 산업의 부진 → 브랜드 이미지 하락과 업계 위기 노출
+- [01:54](https://www.youtube.com/watch?v=H_SabKoeCyg&t=114) 맥도날드의 표준화된 시스템과 부동산 임대업적 성격 → 효율성 극대화가 만든 글로벌 성공 방정식
+- [03:40](https://www.youtube.com/watch?v=H_SabKoeCyg&t=220) 웬디스의 생고기 전략과 차별화된 메뉴 구성 → 품질 강조 전략이 인플레이션에 취약점으로 작용
+- [05:57](https://www.youtube.com/watch?v=H_SabKoeCyg&t=357) 물가 상승률을 훨씬 상회하는 패스트푸드 가격 폭등 → 서민 음식이 사치품이 된 현실
+- [06:19](https://www.youtube.com/watch?v=H_SabKoeCyg&t=379) 75년 만에 최악인 미국 소 사육 환경과 공급망 위기 → 가뭄과 질병이 초래한 구조적 원가 상승
+- [07:25](https://www.youtube.com/watch?v=H_SabKoeCyg&t=445) 감자 공급업체의 실적 악화와 산업 인프라 붕괴 신호 → 햄버거 생태계 전반으로 퍼진 위기
+- [08:39](https://www.youtube.com/watch?v=H_SabKoeCyg&t=519) 품질을 몰래 낮춰 마진을 지키는 '스킨플레이션' 확산 → 소비자 기만과 브랜드 신뢰도 하락 우려
+- [08:50](https://www.youtube.com/watch?v=H_SabKoeCyg&t=530) 소고기 의존도 낮은 타코와 치킨 업체의 반사이익 → 맛의 전쟁에서 원가 전쟁으로의 패러다임 전환
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=H_SabKoeCyg)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/H_SabKoeCyg_맥도날드-CEO-먹방-폭망한-이유)4:["$","$Ld",null,{"title":"맥도날드 CEO 먹방 폭망한 이유...무너지는 미국 버거 산업 | 바이아메리카 in 뉴욕","videoId":"H_SabKoeCyg","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"맥도날드 CEO 먹방 폭망한 이유...무너지는 미국 버거 산업 | 바이아메리카 in 뉴욕"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

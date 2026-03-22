@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T854,
+# 종전을 가로막는 이 사람..이 전쟁의 끝은 대체 어디일까 | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 이스라엘-이란 전쟁이 네타냐후의 정권 교체 야욕과 에너지 패권 전략으로 장기화되는 가운데, 미국 내부 갈등과 시장 폭락만이 유일한 종전 변수로 부각되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [01:21](https://www.youtube.com/watch?v=7cxyctNfbaY&t=81) 이스라엘의 목표 확대와 정권 교체 시사 → 단순 보복을 넘어선 전쟁 장기화의 명확한 신호
+- [02:39](https://www.youtube.com/watch?v=7cxyctNfbaY&t=159) 네타냐후의 최종 목표로 의심되는 에너지 파이프라인 구축 → 이스라엘의 영구적 에너지 자립을 위한 경제적 동기 가능성
+- [04:43](https://www.youtube.com/watch?v=7cxyctNfbaY&t=283) 미 안보 책임자 사임과 MAGA 진영 내 '이스라엘 퍼스트' 비판 → 트럼프 지지 기반 내에서도 전쟁 지속에 대한 반발 확산
+- [07:12](https://www.youtube.com/watch?v=7cxyctNfbaY&t=432) 유가 상승을 통한 중국 견제 및 미국의 에너지 패권 강화 전략 → 전쟁을 지정학적 우위 점유의 도구로 활용하려는 셈법
+- [10:00](https://www.youtube.com/watch?v=7cxyctNfbaY&t=600) 아시아 동맹국들에 대한 미국 에너지 의존도 강요 가능성 → 한국, 일본 등의 제조 시설을 미국으로 유인하려는 압박 카드
+- [12:58](https://www.youtube.com/watch?v=7cxyctNfbaY&t=778) 하르그섬 점령 등 지상군 투입 본격화 시 유가 폭등 우려 → 배럴당 180달러 이상의 극단적 인플레이션 시나리오 대두
+- [16:34](https://www.youtube.com/watch?v=7cxyctNfbaY&t=994) 증시가 견조해 트럼프가 개입하지 않는 '트럼프 풋'의 부재 → 역설적으로 시장이 폭락해야만 종전 압박이 시작될 것이라는 관측
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=7cxyctNfbaY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/7cxyctNfbaY_종전을-가로막는-이-사람이-전쟁의)0:{"buildId":"9xaAR1ZNcUUgrkj5K2RJL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"종전을 가로막는 이 사람..이 전쟁의 끝은 대체 어디일까 | 월가백브리핑","videoId":"7cxyctNfbaY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,30 @@
+---
+title: "[빈난새의 개장전요것만-3월24일] 아슬아슬 휴전 기대 | 아폴로 또 사모대출 환매 제한 | 럽너 \"숏스퀴즈 가능성\" | 넷기어 루멘텀 테슬라 제프리스 랄프로렌 에스티로더 써클"
+video_id: "ulENBpdnl_E"
+tags: "빈난새의 개장전요것만-3월24일, 빈난새, 개장전요것만"
+published_at: "2026-03-24T14:11:27Z"
+---
+
+# [빈난새의 개장전요것만-3월24일] 아슬아슬 휴전 기대 | 아폴로 또 사모대출 환매 제한 | 럽너 "숏스퀴즈 가능성" | 넷기어 루멘텀 테슬라 제프리스 랄프로렌 에스티로더 써클
+
+## 📋 한 줄 요약
+
+> 중동 지정학적 리스크와 경제 지표 부진으로 유가와 금리가 상승하며 시장 변동성이 커진 가운데, 사모 대출 시장의 유동성 우려와 역대급 공매도 포지션에 따른 반등 가능성이 공존하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:26](https://www.youtube.com/watch?v=ulENBpdnl_E&t=26) 미국 3대 지수 하락 및 유가 급등 → 지정학적 불안에 따른 위험자산 회피
+- [02:50](https://www.youtube.com/watch?v=ulENBpdnl_E&t=170) 국채 금리 급등 및 대규모 경매 예정 → 금리 인하 기대감 후퇴 및 공급 부담
+- [06:18](https://www.youtube.com/watch?v=ulENBpdnl_E&t=378) 사모 대출 시장의 환매 제한 및 리스크 부각 → 비은행 금융권의 유동성 미스매치 우려
+- [12:15](https://www.youtube.com/watch?v=ulENBpdnl_E&t=735) 필라델피아 연는 서비스 PMI 마이너스 전환 → 경기 둔화 속 물가 압력이 남은 스태그플레이션 조짐
+- [15:01](https://www.youtube.com/watch?v=ulENBpdnl_E&t=901) 중동 휴전 불확실성 및 사우디 확전 가능성 → 유가 변동성을 키우는 핵심 변수
+- [38:16](https://www.youtube.com/watch?v=ulENBpdnl_E&t=2296) 시타델 스캇 루브너의 숏스퀴즈 가능성 제기 → 역대급 공매도 포지션이 반등의 트리거가 될 가능성
+- [43:19](https://www.youtube.com/watch?v=ulENBpdnl_E&t=2599) 미국 당국의 해외 라우터 수입 금지 조치 → 공급망 안보 강화 및 미국 내 제조업 수혜
+- [49:21](https://www.youtube.com/watch?v=ulENBpdnl_E&t=2961) 에스티로더의 합병 협상 및 주가 급락 → 실적 부진 타개를 위한 구조조정 노력
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=ulENBpdnl_E)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ulENBpdnl_E_빈난새의-개장전요것만-3월24일)

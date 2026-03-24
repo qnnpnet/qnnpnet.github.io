@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=e2l8iPJMvvM)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/e2l8iPJMvvM_빈난새의-개장전요것만-3월12일)0:{"buildId":"LUcp0h_iHJz0C3SDV8eWT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월12일] 하메네이 \"호르무즈 봉쇄 계속\" | 골드만 유가/금리 전망 | 모건스탠리 사모대출 환매제한 | 넷플릭스 CF 옥시덴탈 라이트웨이브 파이어플라이","videoId":"e2l8iPJMvvM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/e2l8iPJMvvM_빈난새의-개장전요것만-3월12일)0:{"buildId":"-ZX_gGk0ig3-S9lfKknuZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월12일] 하메네이 \"호르무즈 봉쇄 계속\" | 골드만 유가/금리 전망 | 모건스탠리 사모대출 환매제한 | 넷플릭스 CF 옥시덴탈 라이트웨이브 파이어플라이","videoId":"e2l8iPJMvvM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

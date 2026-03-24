@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=kFDqXS1mQig)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/kFDqXS1mQig_이란의-목표는-장기전그런데-미국의)0:{"buildId":"-ZX_gGk0ig3-S9lfKknuZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"이란의 목표는 장기전..그런데 미국의 목표는 이란이 아니다? | 월가백브리핑","videoId":"kFDqXS1mQig","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/kFDqXS1mQig_이란의-목표는-장기전그런데-미국의)0:{"buildId":"E37jnIia32AG74WSSnnR6","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"이란의 목표는 장기전..그런데 미국의 목표는 이란이 아니다? | 월가백브리핑","videoId":"kFDqXS1mQig","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

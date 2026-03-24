@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8b9,
+# [김현석의 월스트리트나우-3월24일] 도이치가 예고한 '타코'..트럼프 "대화"한다는데 이란 부인하는 이유
+
+## 📋 한 줄 요약
+
+> 트럼프 대통령의 이란 공격 5일 연기 발표로 지정학적 긴장이 완화되며 유가가 급락하고 미 증시가 반등했으나, 에너지 인프라 피해와 인플레이션 우려로 인한 시장 불확실성은 여전합니다.
+
+## 🧠 핵심 포인트
+
+- [00:42](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=42) 트럼프, 이란 공격 5일 연기 및 대화 진행 발표 → 지정학적 긴장 완화의 결정적 계기 마련
+- [01:04](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=64) 유가 10% 급락 및 미 주요 증시 일제히 반등 → 리스크 오프 심리 완화로 인한 자산 가격 회복
+- [05:50](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=350) 이란 외무부, 미국과의 직접 협상 사실 공식 부인 → 양측의 온도 차로 인한 진실 공방 및 불확실성 잔존
+- [07:42](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=462) 미 해병대 중동 도착 및 군사적 압박 지속 → 5일의 유예 기간 이후 확전 가능성에 대한 경계감
+- [09:20](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=560) 전쟁 여파로 인한 스테그플레이션 우려 확산 → 에너지 가격 상승이 실물 경제에 미치는 타격 가시화
+- [13:39](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=819) 골드만삭스, 유가 전망 상향 및 침체 확률 조정 → 에너지 공급망 복구 지연에 따른 장기적 경제 부담
+- [15:08](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=908) 연준 위원들의 인플레이션 우려 및 금리 인상 가능성 언급 → 유가 급등이 금리 인하 경로를 방해하는 핵심 변수로 부상
+- [20:28](https://www.youtube.com/watch?v=LDX31Nf_tjc&t=1228) 탐 리, 악재 속 시장 바닥 형성 가능성 제시 → 지정학적 위기 속 역발상 투자 관점의 필요성 강조
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=LDX31Nf_tjc)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/LDX31Nf_tjc_김현석의-월스트리트나우-3월24일)0:{"buildId":"E37jnIia32AG74WSSnnR6","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월24일] 도이치가 예고한 '타코'..트럼프 \"대화\"한다는데 이란 부인하는 이유","videoId":"LDX31Nf_tjc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

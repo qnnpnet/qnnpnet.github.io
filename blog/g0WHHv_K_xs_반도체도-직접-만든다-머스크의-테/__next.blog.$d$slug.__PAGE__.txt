@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8cb,
+# "반도체도 직접 만든다" 머스크의 테라팹, 제조혁신 VS 생산지옥 | 최후의 승자는 | 빈난새의 빈틈없이월가
+
+## 📋 한 줄 요약
+
+> 일론 머스크가 테슬라·SpaceX·xAI의 협력을 통해 사상 최대 규모의 반도체 공장 '테라팹' 건설 계획을 발표하며 AI 및 반도체 산업의 거대한 미래 비전을 제시했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:17](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=17) 일론 머스크의 '테라팹(Terafab)' 프로젝트 발표 → 역사상 최대 규모 파운드리 구상
+- [02:35](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=155) 테슬라·SpaceX·xAI 3사 협력 체계 구축 → 컴퓨팅 파워 내재화 및 시너지 극대화
+- [03:45](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=225) 반도체 전 공정의 '엔드 투 엔드' 통합 시스템 → 제조 속도 10배 향상을 위한 파격적 시도
+- [05:48](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=348) 글로벌 컴퓨팅 파워 부족 해결을 위한 직접 제조 → 현재 공급량은 미래 필요량의 2%에 불과하다는 판단
+- [08:12](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=492) 비용 절감 및 지정학적 리스크 해소 전략 → TSMC 의존도 탈피 및 칩 성능 최적화 목표
+- [11:30](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=690) 천문학적 투자비와 현실적 실행 장벽 존재 → 조 단위 투자 및 ASML 장비 확보가 관건
+- [14:26](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=866) 로직·메모리·패키징 통합의 기술적 난제 → 산업 표준을 거스르는 헤라클레스적 과업
+- [27:21](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=1641) 삼성전자·인텔 등 기존 업체와의 협업 가능성 → 독자 건설보다 파트너십 형태가 더 현실적
+- [29:40](https://www.youtube.com/watch?v=g0WHHv_K_xs&t=1780) 반도체 장비 및 메모리 시장의 강력한 호재 → AI 수요 폭발로 인한 반도체 장기 강세 전망
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=g0WHHv_K_xs)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/g0WHHv_K_xs_반도체도-직접-만든다-머스크의)0:{"buildId":"E37jnIia32AG74WSSnnR6","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"반도체도 직접 만든다\" 머스크의 테라팹, 제조혁신 VS 생산지옥 | 최후의 승자는 | 빈난새의 빈틈없이월가","videoId":"g0WHHv_K_xs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

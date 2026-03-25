@@ -1,0 +1,29 @@
+---
+title: "[김종학의 뉴욕, 지금-3월25일] 트럼프 “이번 전쟁은 이겼다\" | \"15개 조항 곧 휴전 합의 발표\" | 종목(ARM, 아마존, 써클, MSFT, NYSE, 인튜이티브머신즈)"
+video_id: "CHFoKotPo7M"
+tags: "김종학의 뉴욕 지금-3월25일, 김종학, 뉴욕 지금"
+published_at: "2026-03-24T21:19:57Z"
+---
+
+# [김종학의 뉴욕, 지금-3월25일] 트럼프 “이번 전쟁은 이겼다" | "15개 조항 곧 휴전 합의 발표" | 종목(ARM, 아마존, 써클, MSFT, NYSE, 인튜이티브머신즈)
+
+## 📋 한 줄 요약
+
+> 이란과의 15개 항 휴전 협상 소식에 시장이 요동치는 가운데, 국채 금리 급등과 스테이블코인 규제 우려로 기술주와 관련 종목들이 하락세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:33](https://www.youtube.com/watch?v=CHFoKotPo7M&t=33) 뉴욕 증시 하락 마감 및 장외 시장 반등 → 중동 휴전 협상 소식에 지수가 장외에서 변동성을 보임
+- [01:47](https://www.youtube.com/watch?v=CHFoKotPo7M&t=107) 미국 10년물 국채 금리 4.4%로 급등 → 금리 상승 압박이 기술주 중심의 하락을 부추김
+- [04:33](https://www.youtube.com/watch?v=CHFoKotPo7M&t=273) 트럼프 측, 이란에 15개 항의 협상안 전달 → 핵 해체 등 강력한 조건을 담은 사실상의 항복 권고
+- [08:13](https://www.youtube.com/watch?v=CHFoKotPo7M&t=493) 암 홀딩스(ARM), 자체 AI 반도체 진출 선언 → 엔비디아의 영역을 위협하며 반도체 시장 경쟁 심화
+- [09:19](https://www.youtube.com/watch?v=CHFoKotPo7M&t=559) 아마존 AWS, 인력 대체 가능한 AI 에이전트 개발 → 소프트웨어 서비스 시장의 점유율 지각변동 예고
+- [09:39](https://www.youtube.com/watch?v=CHFoKotPo7M&t=579) 서클 인터넷(USDC), 규제 초안 여파로 20% 폭락 → 스테이블코인 이자 불인정 가능성에 따른 사업성 우려
+- [10:31](https://www.youtube.com/watch?v=CHFoKotPo7M&t=631) NYSE, 블록체인 기반 24시간 디지털 거래 추진 → 전통 금융 거래 환경의 근본적인 변화 시작
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=CHFoKotPo7M)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/CHFoKotPo7M_김종학의-뉴욕-지금-3월25일)

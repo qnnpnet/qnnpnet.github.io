@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=7ZJV44LVgk4)0:{"buildId":"E37jnIia32AG74WSSnnR6","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월20일] 트럼프 \"핵무기 있다면 평화 없다\" | 사모 신용, 유동성 리스크 현실화 | 종목(블루아울, 월마트, 디어앤코, 도어대시, 카바나, 클라르나)","videoId":"7ZJV44LVgk4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=7ZJV44LVgk4)0:{"buildId":"nG2KgYLAUllAFEYIwkhDQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월20일] 트럼프 \"핵무기 있다면 평화 없다\" | 사모 신용, 유동성 리스크 현실화 | 종목(블루아울, 월마트, 디어앤코, 도어대시, 카바나, 클라르나)","videoId":"7ZJV44LVgk4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

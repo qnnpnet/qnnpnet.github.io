@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=9g02Fh9WI2s)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/9g02Fh9WI2s_김현석의-월스트리트나우-3월17일)0:{"buildId":"E37jnIia32AG74WSSnnR6","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월17일] \"이란 석유 지나가라\"..유가 하락, 주가 반등 | 젠슨 \"밀린 주문 $1조\"","videoId":"9g02Fh9WI2s","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/9g02Fh9WI2s_김현석의-월스트리트나우-3월17일)0:{"buildId":"nG2KgYLAUllAFEYIwkhDQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월17일] \"이란 석유 지나가라\"..유가 하락, 주가 반등 | 젠슨 \"밀린 주문 $1조\"","videoId":"9g02Fh9WI2s","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

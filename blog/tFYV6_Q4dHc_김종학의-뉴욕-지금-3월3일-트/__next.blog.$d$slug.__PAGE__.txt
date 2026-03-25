@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=tFYV6_Q4dHc)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/tFYV6_Q4dHc_김종학의-뉴욕-지금-3월3일-트)0:{"buildId":"E37jnIia32AG74WSSnnR6","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월3일] 트럼프 “더 큰 것 곧 온다\" | 국제유가 4년 만에 최고..천연가스 급등 | 종목(델타항공, 셰니어 에너지, JP모건, 스트래티지, 루멘텀)","videoId":"tFYV6_Q4dHc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/tFYV6_Q4dHc_김종학의-뉴욕-지금-3월3일-트)0:{"buildId":"nG2KgYLAUllAFEYIwkhDQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월3일] 트럼프 “더 큰 것 곧 온다\" | 국제유가 4년 만에 최고..천연가스 급등 | 종목(델타항공, 셰니어 에너지, JP모건, 스트래티지, 루멘텀)","videoId":"tFYV6_Q4dHc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

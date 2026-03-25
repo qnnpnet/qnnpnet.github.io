@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=f_-LccJFqkY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/f_-LccJFqkY_40-날아간-일자리실업-도미노의)0:{"buildId":"nG2KgYLAUllAFEYIwkhDQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"40% 날아간 일자리..실업 도미노의 시작일까 | 월가백브리핑","videoId":"f_-LccJFqkY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/f_-LccJFqkY_40-날아간-일자리실업-도미노의)0:{"buildId":"SFFy5sd0yB4pu12pGDFnr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"40% 날아간 일자리..실업 도미노의 시작일까 | 월가백브리핑","videoId":"f_-LccJFqkY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

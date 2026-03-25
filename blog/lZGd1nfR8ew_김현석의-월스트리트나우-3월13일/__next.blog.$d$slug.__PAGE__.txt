@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=lZGd1nfR8ew)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/lZGd1nfR8ew_김현석의-월스트리트나우-3월13일)0:{"buildId":"nG2KgYLAUllAFEYIwkhDQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월13일] \"끝이 보이지 않는다\" 참을성 잃어가는 월가..결국 지상군 투입?","videoId":"lZGd1nfR8ew","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/lZGd1nfR8ew_김현석의-월스트리트나우-3월13일)0:{"buildId":"SFFy5sd0yB4pu12pGDFnr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월13일] \"끝이 보이지 않는다\" 참을성 잃어가는 월가..결국 지상군 투입?","videoId":"lZGd1nfR8ew","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

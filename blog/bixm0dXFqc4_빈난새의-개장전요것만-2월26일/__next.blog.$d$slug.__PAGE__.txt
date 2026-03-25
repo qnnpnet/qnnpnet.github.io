@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=bixm0dXFqc4)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/bixm0dXFqc4_빈난새의-개장전요것만-2월26일)0:{"buildId":"nG2KgYLAUllAFEYIwkhDQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-2월26일] AI 공포 정점? \"HALO 트레이드\" | 샌디스크 숏 반박 | 엔비디아 프리뷰 | UBS \"사모대출 15% 부도 가능\" | 액손 퍼스트솔라","videoId":"bixm0dXFqc4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/bixm0dXFqc4_빈난새의-개장전요것만-2월26일)0:{"buildId":"SFFy5sd0yB4pu12pGDFnr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-2월26일] AI 공포 정점? \"HALO 트레이드\" | 샌디스크 숏 반박 | 엔비디아 프리뷰 | UBS \"사모대출 15% 부도 가능\" | 액손 퍼스트솔라","videoId":"bixm0dXFqc4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

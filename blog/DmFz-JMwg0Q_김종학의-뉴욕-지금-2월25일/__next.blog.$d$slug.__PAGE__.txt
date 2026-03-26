@@ -23,5 +23,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=DmFz-JMwg0Q)0:{"buildId":"ZJaBoxRIK_66DieB6lFwS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월25일] 미 소비자심리지수 예상 밖 강세 | 종목(샌디스크, 세일즈포스, 팩트셋, 인튜이트, 메라크도리브레, 워크데이, 노보노, 애플, 홈디포, 유니티)","videoId":"DmFz-JMwg0Q","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=DmFz-JMwg0Q)0:{"buildId":"tj7jFM2YAzV6nARmhut0u","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월25일] 미 소비자심리지수 예상 밖 강세 | 종목(샌디스크, 세일즈포스, 팩트셋, 인튜이트, 메라크도리브레, 워크데이, 노보노, 애플, 홈디포, 유니티)","videoId":"DmFz-JMwg0Q","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

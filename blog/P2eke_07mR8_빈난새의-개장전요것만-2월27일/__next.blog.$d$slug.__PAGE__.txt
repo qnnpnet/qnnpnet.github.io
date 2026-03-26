@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=P2eke_07mR8)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/P2eke_07mR8_빈난새의-개장전요것만-2월27일)0:{"buildId":"ZJaBoxRIK_66DieB6lFwS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-2월27일] 위험회피 시장, PPI 상회에도 금리 급락 | 사모대출 또 부실 | 다시 AI 순환투자 우려 | 코어위브 AAOI 델 로켓랩 듀오링고 팔란티어","videoId":"P2eke_07mR8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/P2eke_07mR8_빈난새의-개장전요것만-2월27일)0:{"buildId":"tj7jFM2YAzV6nARmhut0u","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-2월27일] 위험회피 시장, PPI 상회에도 금리 급락 | 사모대출 또 부실 | 다시 AI 순환투자 우려 | 코어위브 AAOI 델 로켓랩 듀오링고 팔란티어","videoId":"P2eke_07mR8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

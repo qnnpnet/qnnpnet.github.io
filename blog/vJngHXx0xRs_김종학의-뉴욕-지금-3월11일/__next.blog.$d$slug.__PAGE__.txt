@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=vJngHXx0xRs)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/vJngHXx0xRs_김종학의-뉴욕-지금-3월11일)0:{"buildId":"SFFy5sd0yB4pu12pGDFnr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월11일] 에너지장관 ‘호위 완료' 대형 오보..유가 한때 77달러 | 내일 소비자물가지수 | 종목(오라클, HPE, 세일즈포스, AT&T)","videoId":"vJngHXx0xRs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/vJngHXx0xRs_김종학의-뉴욕-지금-3월11일)0:{"buildId":"ZJaBoxRIK_66DieB6lFwS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월11일] 에너지장관 ‘호위 완료' 대형 오보..유가 한때 77달러 | 내일 소비자물가지수 | 종목(오라클, HPE, 세일즈포스, AT&T)","videoId":"vJngHXx0xRs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

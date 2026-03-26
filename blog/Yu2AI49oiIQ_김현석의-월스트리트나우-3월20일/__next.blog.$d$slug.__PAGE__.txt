@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Yu2AI49oiIQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Yu2AI49oiIQ_김현석의-월스트리트나우-3월20일)0:{"buildId":"SFFy5sd0yB4pu12pGDFnr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월20일] 트럼프가 혼냈나..네타냐후 \"빨리 끝날 것\", 다 믿지는 못한 시장","videoId":"Yu2AI49oiIQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Yu2AI49oiIQ_김현석의-월스트리트나우-3월20일)0:{"buildId":"ZJaBoxRIK_66DieB6lFwS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월20일] 트럼프가 혼냈나..네타냐후 \"빨리 끝날 것\", 다 믿지는 못한 시장","videoId":"Yu2AI49oiIQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

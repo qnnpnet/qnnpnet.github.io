@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=HYOWI1VDVOs)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/HYOWI1VDVOs_안전자산-아닌-현금인출기-된-금-근황)0:{"buildId":"SFFy5sd0yB4pu12pGDFnr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"안전자산 아닌 현금인출기 된 금 근황 | 갑자기 강제 매파 된 중앙은행들 | 빈난새의 빈틈없이월가","videoId":"HYOWI1VDVOs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/HYOWI1VDVOs_안전자산-아닌-현금인출기-된-금-근황)0:{"buildId":"ZJaBoxRIK_66DieB6lFwS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"안전자산 아닌 현금인출기 된 금 근황 | 갑자기 강제 매파 된 중앙은행들 | 빈난새의 빈틈없이월가","videoId":"HYOWI1VDVOs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

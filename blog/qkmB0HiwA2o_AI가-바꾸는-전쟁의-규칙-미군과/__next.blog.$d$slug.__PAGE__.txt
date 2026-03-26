@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=qkmB0HiwA2o)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/qkmB0HiwA2o_AI가-바꾸는-전쟁의-규칙-미군과)0:{"buildId":"SFFy5sd0yB4pu12pGDFnr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI가 바꾸는 전쟁의 규칙, 미군과 손잡은 실리콘밸리 | 김인엽의 실리콘밸리나우","videoId":"qkmB0HiwA2o","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/qkmB0HiwA2o_AI가-바꾸는-전쟁의-규칙-미군과)0:{"buildId":"ZJaBoxRIK_66DieB6lFwS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI가 바꾸는 전쟁의 규칙, 미군과 손잡은 실리콘밸리 | 김인엽의 실리콘밸리나우","videoId":"qkmB0HiwA2o","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

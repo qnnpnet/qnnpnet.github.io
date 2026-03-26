@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T7b3,
+# [김종학의 뉴욕, 지금-3월26일] 미중 정상 회담 5월 14~15일..전쟁 6주내 종결? | 월가 경기침체 확률 상향 | 종목(메타, 구글, 젯블루, 디즈니, AST, 스타벅스)
+
+## 📋 한 줄 요약
+
+> 이란과의 전쟁 완화 기대감에 미 증시가 상승 마감했으나, 트럼프-시진핑 회담 일정과 내부자 거래 의혹, 경기 침체 우려가 복합적으로 작용하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:30](https://www.youtube.com/watch?v=xKtipStb6AM&t=30) 전쟁 완화 가능성에 따른 미 3대 지수 상승 마감 → 지정학적 리스크 해소 기대감 반영
+- [01:47](https://www.youtube.com/watch?v=xKtipStb6AM&t=107) 반도체 섹터 내 마이크론 하락 및 인텔·AMD 급등 → 종목별 점유율 전망에 따른 차별화 심화
+- [04:10](https://www.youtube.com/watch?v=xKtipStb6AM&t=250) 트럼프-시진핑 5월 중순 베이징 회담 확정 → 전쟁 종료 및 관세 협상의 분수령 전망
+- [05:14](https://www.youtube.com/watch?v=xKtipStb6AM&t=314) 백악관, 이란과의 '생산적 대화' 및 호르무즈 해협 안전 집중 → 실질적인 출구 전략 모색 단계 진입
+- [09:16](https://www.youtube.com/watch?v=xKtipStb6AM&t=556) 트럼프 발표 직전 대규모 선물 거래 등 내부자 거래 의혹 제기 → 시장 투명성 논란 및 규제 한계 노출
+- [13:43](https://www.youtube.com/watch?v=xKtipStb6AM&t=823) 골드만삭스·무디스 등 주요 기관의 경기 침체 가능성 상향 → 유가 충격과 고금리 지속에 따른 경고음
+- [15:22](https://www.youtube.com/watch?v=xKtipStb6AM&t=922) 젯블루, 매각 검토 소식에 주가 13% 급등 → 항공 업계 구조조정 및 M&A 기대감
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=xKtipStb6AM)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/xKtipStb6AM_김종학의-뉴욕-지금-3월26일)0:{"buildId":"ZJaBoxRIK_66DieB6lFwS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월26일] 미중 정상 회담 5월 14~15일..전쟁 6주내 종결? | 월가 경기침체 확률 상향 | 종목(메타, 구글, 젯블루, 디즈니, AST, 스타벅스)","videoId":"xKtipStb6AM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

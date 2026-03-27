@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ZxkaS6p6fLU)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZxkaS6p6fLU_빈난새의-개장전요것만-3월17일)0:{"buildId":"tj7jFM2YAzV6nARmhut0u","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월17일] 미중 정상회담 연기 전망 | 엔비디아 강세론v약세론 | 아직 신중한 월가 현금비중 증가 | 우버 오클로 네비우스 델타항공 일라이릴리 써클 루멘텀","videoId":"ZxkaS6p6fLU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZxkaS6p6fLU_빈난새의-개장전요것만-3월17일)0:{"buildId":"QOeML_g53gmCScHVO5Frc","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월17일] 미중 정상회담 연기 전망 | 엔비디아 강세론v약세론 | 아직 신중한 월가 현금비중 증가 | 우버 오클로 네비우스 델타항공 일라이릴리 써클 루멘텀","videoId":"ZxkaS6p6fLU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

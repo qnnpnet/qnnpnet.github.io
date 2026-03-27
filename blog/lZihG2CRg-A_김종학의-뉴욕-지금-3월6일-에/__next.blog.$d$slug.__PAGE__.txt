@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=lZihG2CRg-A)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/lZihG2CRg-A_김종학의-뉴욕-지금-3월6일-에)0:{"buildId":"tj7jFM2YAzV6nARmhut0u","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월6일] 에너지 우회 경로 타격 | 미 전쟁부, 앤스로픽 공급망 위험 기업 통보 | 종목(브로드컴, 엔비디아, 루멘텀, 버크셔, ICE, 웰스파고)","videoId":"lZihG2CRg-A","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/lZihG2CRg-A_김종학의-뉴욕-지금-3월6일-에)0:{"buildId":"QOeML_g53gmCScHVO5Frc","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월6일] 에너지 우회 경로 타격 | 미 전쟁부, 앤스로픽 공급망 위험 기업 통보 | 종목(브로드컴, 엔비디아, 루멘텀, 버크셔, ICE, 웰스파고)","videoId":"lZihG2CRg-A","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

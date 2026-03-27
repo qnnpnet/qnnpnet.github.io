@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=bRjA8MJ2Peg)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/bRjA8MJ2Peg_김종학의-뉴욕-지금-3월7일-미)0:{"buildId":"tj7jFM2YAzV6nARmhut0u","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월7일] 미 원유 가격 12% 폭등..배럴당 90달러 돌파 | 고개드는 스태그 우려 | 꼬여버린 연준 금리 정책 | 종목(오라클, 구글, UAL, 마벨)","videoId":"bRjA8MJ2Peg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/bRjA8MJ2Peg_김종학의-뉴욕-지금-3월7일-미)0:{"buildId":"QOeML_g53gmCScHVO5Frc","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월7일] 미 원유 가격 12% 폭등..배럴당 90달러 돌파 | 고개드는 스태그 우려 | 꼬여버린 연준 금리 정책 | 종목(오라클, 구글, UAL, 마벨)","videoId":"bRjA8MJ2Peg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

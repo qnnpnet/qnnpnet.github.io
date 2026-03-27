@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=HuqxTn1lbXc)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/HuqxTn1lbXc_빈난새의-개장전요것만-3월10일)0:{"buildId":"QOeML_g53gmCScHVO5Frc","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월10일] 원유 감산 지속 | 아마존, 최장 50년 회사채 발행 | 엔비디아 AI 에이전트 플랫폼 준비 | 퀄컴 HPE 버텍스 조비 리비안 마이크로소프트","videoId":"HuqxTn1lbXc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/HuqxTn1lbXc_빈난새의-개장전요것만-3월10일)0:{"buildId":"Ly6ihsW1q5xeP0kWSCVwf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월10일] 원유 감산 지속 | 아마존, 최장 50년 회사채 발행 | 엔비디아 AI 에이전트 플랫폼 준비 | 퀄컴 HPE 버텍스 조비 리비안 마이크로소프트","videoId":"HuqxTn1lbXc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

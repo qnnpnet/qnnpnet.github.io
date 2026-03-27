@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=MZ1K53GKqS8)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/MZ1K53GKqS8_김현석의-월스트리트나우-3월25일)0:{"buildId":"QOeML_g53gmCScHVO5Frc","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월25일] 트럼프 \"이란이 큰 선물\"..휴전? 해협 통과? 아직 못 믿는 월가","videoId":"MZ1K53GKqS8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/MZ1K53GKqS8_김현석의-월스트리트나우-3월25일)0:{"buildId":"Ly6ihsW1q5xeP0kWSCVwf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월25일] 트럼프 \"이란이 큰 선물\"..휴전? 해협 통과? 아직 못 믿는 월가","videoId":"MZ1K53GKqS8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

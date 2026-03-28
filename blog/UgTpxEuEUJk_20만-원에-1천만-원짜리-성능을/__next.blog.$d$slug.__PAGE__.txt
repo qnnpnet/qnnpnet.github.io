@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=UgTpxEuEUJk)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/UgTpxEuEUJk_20만-원에-1천만-원짜리-성능을)0:{"buildId":"wx51Vh-2QvFf47Jm787As","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"20만 원에 1천만 원짜리 성능을?..가격 파괴로 시장 잠식 중인 샤크닌자 | 바이아메리카 in 뉴욕","videoId":"UgTpxEuEUJk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/UgTpxEuEUJk_20만-원에-1천만-원짜리-성능을)0:{"buildId":"mLXC9qPLTq5hW9OAtuxtI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"20만 원에 1천만 원짜리 성능을?..가격 파괴로 시장 잠식 중인 샤크닌자 | 바이아메리카 in 뉴욕","videoId":"UgTpxEuEUJk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

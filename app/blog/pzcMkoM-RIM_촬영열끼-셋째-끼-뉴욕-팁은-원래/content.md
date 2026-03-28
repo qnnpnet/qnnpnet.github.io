@@ -1,0 +1,30 @@
+---
+title: "[촬영열끼-셋째 끼] 뉴욕 팁은 원래 다 이런가요? | NYPD"
+video_id: "pzcMkoM-RIM"
+tags: "촬영열끼-셋째 끼"
+published_at: "2026-03-28T08:00:00Z"
+---
+
+# [촬영열끼-셋째 끼] 뉴욕 팁은 원래 다 이런가요? | NYPD
+
+## 📋 한 줄 요약
+
+> 뉴욕 맨해튼 스테이크 하우스 방문을 통해 미국의 높은 외식 물가와 복잡한 팁 계산법 등 실질적인 미국 경제의 단면을 보여줍니다.
+
+## 🧠 핵심 포인트
+
+- [00:55](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=55) 맨해튼의 높은 물가 체감 → 비싼 가격만큼의 가치를 기대하는 소비 심리
+- [01:34](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=94) 위스키 창시자와 제조 방식의 차이 → 전통적인 미국 주류 문화에 대한 배경 지식 공유
+- [03:10](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=190) 미국 음식의 특징인 강한 염도 → 한국과 다른 미국 식문화의 특징적 차이
+- [04:02](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=242) 미국의 독자적인 단위 체계의 불편함 → 온스, 파운드 등 글로벌 표준과 다른 미국식 단위의 폐쇄성
+- [04:20](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=260) 스테이크 가격이 비싼 경제적 이유 → 높은 인건비와 임대료가 외식 물가에 직접 반영됨
+- [04:37](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=277) 미국 팁 문화에 대한 고찰 → 노동의 대가라는 긍정적 측면과 소비자 부담의 공존
+- [05:24](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=324) 합리적인 팁 계산 방법 안내 → 세금 제외 금액(Subtotal) 기준으로 계산하는 실속형 팁 계산법
+- [05:54](https://www.youtube.com/watch?v=pzcMkoM-RIM&t=354) 최종 결제 금액과 심리적 보상 → 2인 기준 약 23만 원의 높은 비용을 수용하는 여행객의 심리
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=pzcMkoM-RIM)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/pzcMkoM-RIM_촬영열끼-셋째-끼-뉴욕-팁은-원래)

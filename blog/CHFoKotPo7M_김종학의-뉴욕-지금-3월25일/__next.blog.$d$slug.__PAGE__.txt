@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=CHFoKotPo7M)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/CHFoKotPo7M_김종학의-뉴욕-지금-3월25일)0:{"buildId":"Ly6ihsW1q5xeP0kWSCVwf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월25일] 트럼프 “이번 전쟁은 이겼다\" | \"15개 조항 곧 휴전 합의 발표\" | 종목(ARM, 아마존, 써클, MSFT, NYSE, 인튜이티브머신즈)","videoId":"CHFoKotPo7M","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/CHFoKotPo7M_김종학의-뉴욕-지금-3월25일)0:{"buildId":"wx51Vh-2QvFf47Jm787As","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월25일] 트럼프 “이번 전쟁은 이겼다\" | \"15개 조항 곧 휴전 합의 발표\" | 종목(ARM, 아마존, 써클, MSFT, NYSE, 인튜이티브머신즈)","videoId":"CHFoKotPo7M","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

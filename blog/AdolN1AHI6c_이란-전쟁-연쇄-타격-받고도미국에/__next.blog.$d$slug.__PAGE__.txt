@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=AdolN1AHI6c)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/AdolN1AHI6c_이란-전쟁-연쇄-타격-받고도미국에)0:{"buildId":"mLXC9qPLTq5hW9OAtuxtI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"이란 전쟁 연쇄 타격 받고도…미국에 선물 보따리 푸는 일본 | 김일규의 도쿄나우","videoId":"AdolN1AHI6c","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/AdolN1AHI6c_이란-전쟁-연쇄-타격-받고도미국에)0:{"buildId":"Gh0PXzwKQgIpGHqWhh84x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"이란 전쟁 연쇄 타격 받고도…미국에 선물 보따리 푸는 일본 | 김일규의 도쿄나우","videoId":"AdolN1AHI6c","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

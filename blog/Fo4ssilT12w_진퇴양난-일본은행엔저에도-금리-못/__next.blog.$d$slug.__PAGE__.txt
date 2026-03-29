@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Fo4ssilT12w)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Fo4ssilT12w_진퇴양난-일본은행엔저에도-금리-못)0:{"buildId":"mLXC9qPLTq5hW9OAtuxtI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"진퇴양난 일본은행…엔저에도 금리 못 올리나 | 김일규의 도쿄나우","videoId":"Fo4ssilT12w","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Fo4ssilT12w_진퇴양난-일본은행엔저에도-금리-못)0:{"buildId":"Gh0PXzwKQgIpGHqWhh84x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"진퇴양난 일본은행…엔저에도 금리 못 올리나 | 김일규의 도쿄나우","videoId":"Fo4ssilT12w","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

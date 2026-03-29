@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T996,
+# 내리막길 탄 메모리 주식..이게 다 머스크 때문이다? | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 대형 IPO에 따른 유동성 흡수와 AI 투자 효율화 기술 등장으로 기술주 변동성이 커졌으나, AI 산업의 핵심 병목이 전력으로 이동하며 투자 테마가 확장되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:35](https://www.youtube.com/watch?v=6-NUshdsl5M&t=35) SpaceX 등 초대형 IPO 대기로 인한 기술주 유동성 흡수 → 기존 주식을 팔아 신규 대어급 IPO에 참여하려는 움직임이 기술주 약세 요인으로 작용
+- [01:43](https://www.youtube.com/watch?v=6-NUshdsl5M&t=103) 비상장 대형 기술주 ETF(VCX)에 대한 폭발적 관심 → 오픈AI, 스페이스X 등 상장 전 기업들에 대한 투자자들의 높은 기대감 반영
+- [04:15](https://www.youtube.com/watch?v=6-NUshdsl5M&t=255) 경기 침체 우려보다는 시장의 관망세와 중립 스탠스 유지 → 하락 배팅보다는 리스크를 줄이며 저가 매수 기회를 노리는 분위기
+- [05:44](https://www.youtube.com/watch?v=6-NUshdsl5M&t=344) 모멘텀 주식에서 저변동성(Low Volatility) 주식으로 자금 이동 → 전쟁 등 불확실성 속에 투자자들이 변동성이 큰 종목을 기피하기 시작함
+- [07:38](https://www.youtube.com/watch?v=6-NUshdsl5M&t=458) 구글의 메모리 압축 기술 '터보퀀트'가 반도체주에 미친 영향 → 메모리 수요 감소 우려를 낳으며 반도체주 차익 실현의 빌미가 됨
+- [11:03](https://www.youtube.com/watch?v=6-NUshdsl5M&t=663) 마이크론의 역대급 실적 발표 이후 '피크 아웃' 논란 → 최고의 실적이 오히려 고점이라는 인식이 확산되며 주가 하락 유발
+- [14:59](https://www.youtube.com/watch?v=6-NUshdsl5M&t=899) AI 투자 테마의 범위 확장 (메모리에서 전력, 광통신으로) → HBM에 집중됐던 AI 투자 논리가 인프라 전반으로 넓어지는 과정
+- [17:22](https://www.youtube.com/watch?v=6-NUshdsl5M&t=1042) AI 인프라 투자의 실질적 제약 요인은 '전력 부족' → 수요 위축보다는 전력 공급 한계가 데이터 센터 확장의 병목이 될 전망
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=6-NUshdsl5M)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/6-NUshdsl5M_내리막길-탄-메모리-주식이게-다)0:{"buildId":"Gh0PXzwKQgIpGHqWhh84x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"내리막길 탄 메모리 주식..이게 다 머스크 때문이다? | 월가백브리핑","videoId":"6-NUshdsl5M","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

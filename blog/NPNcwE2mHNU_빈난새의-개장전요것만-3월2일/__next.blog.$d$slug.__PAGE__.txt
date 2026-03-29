@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=NPNcwE2mHNU)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/NPNcwE2mHNU_빈난새의-개장전요것만-3월2일)0:{"buildId":"mLXC9qPLTq5hW9OAtuxtI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월2일] \"이란전, 이라크와 달라\" | 신중한 낙관론 이유 | 월가 더 걱정은 | 엔비디아, 코히어런트 루멘텀 투자 | 마이크론 팔란티어 노보노디스크","videoId":"NPNcwE2mHNU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/NPNcwE2mHNU_빈난새의-개장전요것만-3월2일)0:{"buildId":"Gh0PXzwKQgIpGHqWhh84x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월2일] \"이란전, 이라크와 달라\" | 신중한 낙관론 이유 | 월가 더 걱정은 | 엔비디아, 코히어런트 루멘텀 투자 | 마이크론 팔란티어 노보노디스크","videoId":"NPNcwE2mHNU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

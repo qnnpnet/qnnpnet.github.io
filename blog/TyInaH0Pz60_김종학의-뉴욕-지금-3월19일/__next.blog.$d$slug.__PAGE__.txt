@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=TyInaH0Pz60)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/TyInaH0Pz60_김종학의-뉴욕-지금-3월19일)0:{"buildId":"Gh0PXzwKQgIpGHqWhh84x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월19일] 파월 \"(케빈 워시) 인준 안 하면 의장 대행할 것\" | 브렌트유 110달러 근접 | 종목(마이크론, AMD, 보잉, JNJ, 디즈니, 메타)","videoId":"TyInaH0Pz60","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/TyInaH0Pz60_김종학의-뉴욕-지금-3월19일)0:{"buildId":"ECif2QzLY7CKfUBBZyeu_","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월19일] 파월 \"(케빈 워시) 인준 안 하면 의장 대행할 것\" | 브렌트유 110달러 근접 | 종목(마이크론, AMD, 보잉, JNJ, 디즈니, 메타)","videoId":"TyInaH0Pz60","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

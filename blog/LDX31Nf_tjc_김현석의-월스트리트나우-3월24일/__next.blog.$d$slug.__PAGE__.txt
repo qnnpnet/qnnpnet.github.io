@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=LDX31Nf_tjc)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/LDX31Nf_tjc_김현석의-월스트리트나우-3월24일)0:{"buildId":"Gh0PXzwKQgIpGHqWhh84x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월24일] 도이치가 예고한 '타코'..트럼프 \"대화\"한다는데 이란 부인하는 이유","videoId":"LDX31Nf_tjc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/LDX31Nf_tjc_김현석의-월스트리트나우-3월24일)0:{"buildId":"ECif2QzLY7CKfUBBZyeu_","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월24일] 도이치가 예고한 '타코'..트럼프 \"대화\"한다는데 이란 부인하는 이유","videoId":"LDX31Nf_tjc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

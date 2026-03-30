@@ -1,0 +1,30 @@
+---
+title: "[빈난새의 개장전요것만-3월30일] 호르무즈 대체경로 위험 | 이란 \"트럼프 SNS는 역지표\" | 애플, 中 반도체 채택 가능성 | 일라이릴리 마이크론 알코아 메타 팔로알토 로켓랩"
+video_id: "XJeqCqcAd1k"
+tags: "빈난새의 개장전요것만-3월30일, 빈난새, 개장전요것만"
+published_at: "2026-03-30T14:41:28Z"
+---
+
+# [빈난새의 개장전요것만-3월30일] 호르무즈 대체경로 위험 | 이란 "트럼프 SNS는 역지표" | 애플, 中 반도체 채택 가능성 | 일라이릴리 마이크론 알코아 메타 팔로알토 로켓랩
+
+## 📋 한 줄 요약
+
+> 중동 긴장과 금리 변동성 속에서 시장은 인플레이션보다 경기 둔화 가능성에 주목하며 금리 인하 기대를 바탕으로 반등을 시도하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [02:20](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=140) 미 국채 금리 급락과 경기 둔화 내러티브 확산 → 성장 둔화 우려가 역설적으로 금리 인하 기대를 자극함
+- [06:14](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=374) 일본은행 총재의 매파적 발언과 엔화 강세 전환 → 글로벌 환율 시장의 새로운 변동성 요인으로 부상
+- [09:32](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=572) 이번 주 발표될 고용 지표의 중요성 증대 → 연준의 금리 동결 혹은 인하 시점을 결정할 핵심 지표
+- [19:42](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=1182) 호르무즈 해협 봉쇄 리스크와 유가 상승 우려 → 공급망 불안이 인플레이션을 다시 자극할 위험 존재
+- [25:10](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=1510) 헤지펀드 매도세 정점 및 기술적 바닥 신호 포착 → 극도의 비관론 이후 기술적 반등 가능성 시사
+- [32:19](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=1939) 메모리 반도체 슈퍼 사이클 정점 논란 가열 → 단기 급등에 따른 피로감으로 인한 조정 국면 진입
+- [44:05](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=2645) 일라이릴리의 대규모 AI 신약 개발 계약 체결 → AI 수혜가 하드웨어를 넘어 바이오 산업으로 확산
+- [48:43](https://www.youtube.com/watch?v=XJeqCqcAd1k&t=2923) 사모 대출 시장의 소프트웨어 익스포저 리스크 부각 → 금융 시스템 내 잠재적 불안 요소에 대한 규제 당국 주시
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=XJeqCqcAd1k)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/XJeqCqcAd1k_빈난새의-개장전요것만-3월30일)

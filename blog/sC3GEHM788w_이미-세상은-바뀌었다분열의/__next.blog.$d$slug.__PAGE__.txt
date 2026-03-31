@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=sC3GEHM788w)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/sC3GEHM788w_이미-세상은-바뀌었다분열)0:{"buildId":"ECif2QzLY7CKfUBBZyeu_","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"이미 세상은 바뀌었다\"...분열의 시대 투자 프레임 'HALO' | 빈난새의 빈틈없이월가","videoId":"sC3GEHM788w","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/sC3GEHM788w_이미-세상은-바뀌었다분열)0:{"buildId":"atwOE_wqDLMug_5jJ8Qkr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"이미 세상은 바뀌었다\"...분열의 시대 투자 프레임 'HALO' | 빈난새의 빈틈없이월가","videoId":"sC3GEHM788w","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

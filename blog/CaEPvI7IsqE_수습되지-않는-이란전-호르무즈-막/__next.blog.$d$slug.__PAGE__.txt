@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=CaEPvI7IsqE)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/CaEPvI7IsqE_수습되지-않는-이란전-호르무즈-막)0:{"buildId":"ECif2QzLY7CKfUBBZyeu_","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"수습되지 않는 이란전.. 호르무즈 막히자 커지는 'S의 공포'ㅣ이상은의 워싱턴나우","videoId":"CaEPvI7IsqE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/CaEPvI7IsqE_수습되지-않는-이란전-호르무즈-막)0:{"buildId":"atwOE_wqDLMug_5jJ8Qkr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"수습되지 않는 이란전.. 호르무즈 막히자 커지는 'S의 공포'ㅣ이상은의 워싱턴나우","videoId":"CaEPvI7IsqE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -21,5 +21,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=s-iNcadU6Ig)0:{"buildId":"atwOE_wqDLMug_5jJ8Qkr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[촬영열끼-둘째 끼] 미국에서 햄버거 세트 시키면 얼마나 나올까 | NYPD","videoId":"s-iNcadU6Ig","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=s-iNcadU6Ig)0:{"buildId":"KOjJbVe5T2CkYxT7wGxbi","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[촬영열끼-둘째 끼] 미국에서 햄버거 세트 시키면 얼마나 나올까 | NYPD","videoId":"s-iNcadU6Ig","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

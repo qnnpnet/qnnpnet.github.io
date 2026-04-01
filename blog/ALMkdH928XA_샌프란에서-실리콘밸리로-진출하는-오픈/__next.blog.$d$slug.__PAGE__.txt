@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T987,
+# 샌프란에서 실리콘밸리로 진출하는 오픈AI, 수익 전략 있을까 | 김인엽의 실리콘밸리나우
+
+## 📋 한 줄 요약
+
+> 오픈 AI가 실리콘 밸리 확장과 파격적인 보상으로 인재를 흡수하는 동시에, 수익성 확보를 위해 비용이 많이 드는 B2C 사업을 정리하고 기업용(B2B) 시장으로 전략을 선회하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:05](https://www.youtube.com/watch?v=ALMkdH928XA&t=5) 오픈 AI, 실리콘 밸리 마운틴뷰에 첫 사무실 마련 → 빅테크 인재 확보를 위한 지리적 요충지 선점
+- [01:09](https://www.youtube.com/watch?v=ALMkdH928XA&t=69) 올해 말까지 인력을 8,000명으로 두 배 증원 계획 → 공격적인 조직 확장을 통한 기술 격차 유지 전략
+- [02:32](https://www.youtube.com/watch?v=ALMkdH928XA&t=152) 직원 1인당 평균 급여 약 22억 원(150만 달러) 지급 → 파격적인 보상으로 핵심 인재 유출 방지 및 영입
+- [03:02](https://www.youtube.com/watch?v=ALMkdH928XA&t=182) 매출 대비 주식 보상 비율 46%로 재무 부담 가중 → 높은 인건비로 인한 영업 손실 및 지분 희석 우려
+- [03:24](https://www.youtube.com/watch?v=ALMkdH928XA&t=204) 1,100억 달러 규모의 스타트업 역대 최대 투자 유치 → 외부 자본 의존도가 높아 수익 모델 증명이 시급함
+- [04:07](https://www.youtube.com/watch?v=ALMkdH928XA&t=247) 영상 생성 AI '소라' 등 비용 부담 큰 B2C 서비스 종료 → 막대한 컴퓨팅 비용 절감을 위한 사업 효율화
+- [05:10](https://www.youtube.com/watch?v=ALMkdH928XA&t=310) 윤리적 논란과 내부 반대로 '성인용 AI' 개발 무기한 보류 → 기업 이미지 및 안전성 가치를 우선시한 결정
+- [05:58](https://www.youtube.com/watch?v=ALMkdH928XA&t=358) 구글 재미나이와 XAI 그록의 추격으로 시장 점유율 하락 → AI 챗봇 시장의 경쟁 심화로 독점적 지위 흔들림
+- [06:18](https://www.youtube.com/watch?v=ALMkdH928XA&t=378) 수익성 높은 기업용(B2B) 서비스 시장으로 타겟 전환 → 확실한 매출원 확보를 위해 앤스로픽과 정면 승부 예고
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=ALMkdH928XA)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ALMkdH928XA_샌프란에서-실리콘밸리로-진출하는-오픈)0:{"buildId":"_1Pes8_mev1_laEcAM0uL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"샌프란에서 실리콘밸리로 진출하는 오픈AI, 수익 전략 있을까 | 김인엽의 실리콘밸리나우","videoId":"ALMkdH928XA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

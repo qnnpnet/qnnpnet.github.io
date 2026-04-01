@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=uH1Gi-gcwi4)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/uH1Gi-gcwi4_김종학의-뉴욕-지금-3월18일)0:{"buildId":"Apq6i3WjmwpeYAkMsyrUR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월18일] “우린 최강국, 도움 필요없다\"..빈정상한 트럼프 | 5년째 인플레이션 충격..연준의 딜레마 | 종목(엔비디아, 오클로, 마이크론, 우버)","videoId":"uH1Gi-gcwi4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/uH1Gi-gcwi4_김종학의-뉴욕-지금-3월18일)0:{"buildId":"_1Pes8_mev1_laEcAM0uL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월18일] “우린 최강국, 도움 필요없다\"..빈정상한 트럼프 | 5년째 인플레이션 충격..연준의 딜레마 | 종목(엔비디아, 오클로, 마이크론, 우버)","videoId":"uH1Gi-gcwi4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

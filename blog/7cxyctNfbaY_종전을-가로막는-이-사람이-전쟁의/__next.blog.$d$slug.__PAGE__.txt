@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=7cxyctNfbaY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/7cxyctNfbaY_종전을-가로막는-이-사람이-전쟁의)0:{"buildId":"Apq6i3WjmwpeYAkMsyrUR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"종전을 가로막는 이 사람..이 전쟁의 끝은 대체 어디일까 | 월가백브리핑","videoId":"7cxyctNfbaY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/7cxyctNfbaY_종전을-가로막는-이-사람이-전쟁의)0:{"buildId":"_1Pes8_mev1_laEcAM0uL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"종전을 가로막는 이 사람..이 전쟁의 끝은 대체 어디일까 | 월가백브리핑","videoId":"7cxyctNfbaY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

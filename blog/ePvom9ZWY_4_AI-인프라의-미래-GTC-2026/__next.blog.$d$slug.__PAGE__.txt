@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ePvom9ZWY_4)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ePvom9ZWY_4_AI-인프라의-미래-GTC-2026)0:{"buildId":"Apq6i3WjmwpeYAkMsyrUR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI 인프라의 미래, GTC 2026에 다 나왔다 | 김인엽의 실리콘밸리나우","videoId":"ePvom9ZWY_4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ePvom9ZWY_4_AI-인프라의-미래-GTC-2026)0:{"buildId":"_1Pes8_mev1_laEcAM0uL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI 인프라의 미래, GTC 2026에 다 나왔다 | 김인엽의 실리콘밸리나우","videoId":"ePvom9ZWY_4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -1,0 +1,32 @@
+---
+title: "[빈난새의 개장전요것만-3월31일] 트럼프, 호르무즈 봉쇄상태로 종전 검토 | 버크셔 $170억 단기채 매입 | 엔비디아, 마벨 투자 | 마이크론 씨게이트 일라이릴리 로켓랩 메타"
+video_id: "ZpgCA4HMOFs"
+tags: "빈난새의 개장전요것만-3월31일, 빈난새, 개장전요것만"
+published_at: "2026-03-31T15:20:30Z"
+---
+
+# [빈난새의 개장전요것만-3월31일] 트럼프, 호르무즈 봉쇄상태로 종전 검토 | 버크셔 $170억 단기채 매입 | 엔비디아, 마벨 투자 | 마이크론 씨게이트 일라이릴리 로켓랩 메타
+
+## 📋 한 줄 요약
+
+> 시장 내러티브가 인플레이션 공포에서 경기 둔화 우려로 전환되는 가운데, AI 하드웨어와 헬스케어 섹터의 강한 모멘텀이 지속되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [01:04](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=64) 미국 3대 지수 1분기 마지막 날 상승 출발 → 변동성 속에서도 저가 매수세 유입
+- [02:07](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=127) 트럼프의 호르무즈 해협 봉쇄 방관 가능성 보도 → 유가 불안 및 지정학적 리스크 재점화
+- [03:12](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=192) 골드만삭스, 올해 금 가격 전망 유지 및 금리 인하 예상 → 화폐 가치 하락에 대비한 안전 자산 선호
+- [05:18](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=318) 시장 내러티브가 인플레이션에서 경기 침체 우려로 이동 → 금리 하락 압력과 대체 자산 강세의 배경
+- [10:24](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=624) 워런 버핏, 폭락 시 현금 투입 준비 언급 → 현재 시장이 아직 저평가 상태는 아님을 시사
+- [26:32](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=1592) 파월 의장, 공급 충격에 의한 물가 상승은 금리로 대응 불가 언급 → 추가 금리 인상 우려를 잠재우는 비둘기파적 발언
+- [30:48](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=1848) 엔비디아, 마벨에 20억 달러 투자 및 광통신 협력 → AI 병목 현상 해결을 위한 하드웨어 생태계 확장
+- [35:55](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=2155) 2분기 메모리 반도체 계약 가격 대폭 상승 전망 → 현물가 하락에도 불구하고 견고한 서버 수요 확인
+- [42:52](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=2572) 일라이 릴리, 센테사 파마슈티컬스 78억 달러 규모 인수 → 비만 치료제를 넘어선 파이프라인 다각화 전략
+- [51:13](https://www.youtube.com/watch?v=ZpgCA4HMOFs&t=3073) 로켓랩 CEO, 연봉 1달러 선언 및 주주 가치 제고 의지 → 경영진과 주주의 이해관계 일치로 투자 심리 개선
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=ZpgCA4HMOFs)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZpgCA4HMOFs_빈난새의-개장전요것만-3월31일)

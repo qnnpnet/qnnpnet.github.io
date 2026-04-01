@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Y_h78XknPx0)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Y_h78XknPx0_빈난새의-개장전요것만-3월5일-백)0:{"buildId":"KOjJbVe5T2CkYxT7wGxbi","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월5일] 백악관 \"호르무즈 안전통과 시점 불확실\" | 브로드컴 광 섹터 저격 | 버크셔 트레이드데스크 시에나 루멘텀 옥타 리게티 엔비디아 메타 아이렌","videoId":"Y_h78XknPx0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Y_h78XknPx0_빈난새의-개장전요것만-3월5일-백)0:{"buildId":"Apq6i3WjmwpeYAkMsyrUR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월5일] 백악관 \"호르무즈 안전통과 시점 불확실\" | 브로드컴 광 섹터 저격 | 버크셔 트레이드데스크 시에나 루멘텀 옥타 리게티 엔비디아 메타 아이렌","videoId":"Y_h78XknPx0","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

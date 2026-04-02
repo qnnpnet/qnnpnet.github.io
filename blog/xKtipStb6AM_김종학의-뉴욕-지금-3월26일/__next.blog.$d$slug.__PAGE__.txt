@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=xKtipStb6AM)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/xKtipStb6AM_김종학의-뉴욕-지금-3월26일)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월26일] 미중 정상 회담 5월 14~15일..전쟁 6주내 종결? | 월가 경기침체 확률 상향 | 종목(메타, 구글, 젯블루, 디즈니, AST, 스타벅스)","videoId":"xKtipStb6AM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/xKtipStb6AM_김종학의-뉴욕-지금-3월26일)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월26일] 미중 정상 회담 5월 14~15일..전쟁 6주내 종결? | 월가 경기침체 확률 상향 | 종목(메타, 구글, 젯블루, 디즈니, AST, 스타벅스)","videoId":"xKtipStb6AM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=g0WHHv_K_xs)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/g0WHHv_K_xs_반도체도-직접-만든다-머스크의)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"반도체도 직접 만든다\" 머스크의 테라팹, 제조혁신 VS 생산지옥 | 최후의 승자는 | 빈난새의 빈틈없이월가","videoId":"g0WHHv_K_xs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/g0WHHv_K_xs_반도체도-직접-만든다-머스크의)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"반도체도 직접 만든다\" 머스크의 테라팹, 제조혁신 VS 생산지옥 | 최후의 승자는 | 빈난새의 빈틈없이월가","videoId":"g0WHHv_K_xs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

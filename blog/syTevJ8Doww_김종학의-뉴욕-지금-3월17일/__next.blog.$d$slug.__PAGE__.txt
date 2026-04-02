@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=syTevJ8Doww)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/syTevJ8Doww_김종학의-뉴욕-지금-3월17일)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월17일] 석유 공급 부족 해명 나선 베선트 | 미-중 정상회담 미뤄지나 | 종목(엔비디아, 메타, 네비우스, AMD, 포엣, 코어위브, 테슬라, 애플)","videoId":"syTevJ8Doww","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/syTevJ8Doww_김종학의-뉴욕-지금-3월17일)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월17일] 석유 공급 부족 해명 나선 베선트 | 미-중 정상회담 미뤄지나 | 종목(엔비디아, 메타, 네비우스, AMD, 포엣, 코어위브, 테슬라, 애플)","videoId":"syTevJ8Doww","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=TTjMQJMyoNw)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/TTjMQJMyoNw_김현석의-월스트리트나우-3월7일)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월7일] 트럼프 \"항복 or 노딜\"..오일 쇼크+고용 감소, 스태그플레이션 온다","videoId":"TTjMQJMyoNw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/TTjMQJMyoNw_김현석의-월스트리트나우-3월7일)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월7일] 트럼프 \"항복 or 노딜\"..오일 쇼크+고용 감소, 스태그플레이션 온다","videoId":"TTjMQJMyoNw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

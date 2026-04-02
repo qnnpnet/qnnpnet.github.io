@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ZpgCA4HMOFs)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZpgCA4HMOFs_빈난새의-개장전요것만-3월31일)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월31일] 트럼프, 호르무즈 봉쇄상태로 종전 검토 | 버크셔 $170억 단기채 매입 | 엔비디아, 마벨 투자 | 마이크론 씨게이트 일라이릴리 로켓랩 메타","videoId":"ZpgCA4HMOFs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZpgCA4HMOFs_빈난새의-개장전요것만-3월31일)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월31일] 트럼프, 호르무즈 봉쇄상태로 종전 검토 | 버크셔 $170억 단기채 매입 | 엔비디아, 마벨 투자 | 마이크론 씨게이트 일라이릴리 로켓랩 메타","videoId":"ZpgCA4HMOFs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=9NV5pkJyBV4)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월20일] AI 공포 외에 새로 등장한 위협..전쟁, 금융위기","videoId":"9NV5pkJyBV4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=9NV5pkJyBV4)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월20일] AI 공포 외에 새로 등장한 위협..전쟁, 금융위기","videoId":"9NV5pkJyBV4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

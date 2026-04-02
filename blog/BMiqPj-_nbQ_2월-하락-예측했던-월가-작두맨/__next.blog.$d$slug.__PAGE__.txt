@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=BMiqPj-_nbQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/BMiqPj-_nbQ_2월-하락-예측했던-월가-작두)0:{"buildId":"_1Pes8_mev1_laEcAM0uL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"2월 하락\" 예측했던 월가 작두맨, 이제 \"약세 전망 철회\"...반등 나올 조건들은 | 빈난새의 빈틈없이월가","videoId":"BMiqPj-_nbQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/BMiqPj-_nbQ_2월-하락-예측했던-월가-작두)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"2월 하락\" 예측했던 월가 작두맨, 이제 \"약세 전망 철회\"...반등 나올 조건들은 | 빈난새의 빈틈없이월가","videoId":"BMiqPj-_nbQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

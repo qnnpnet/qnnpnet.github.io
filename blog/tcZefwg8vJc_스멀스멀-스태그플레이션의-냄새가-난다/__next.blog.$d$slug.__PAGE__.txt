@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=tcZefwg8vJc)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/tcZefwg8vJc_스멀스멀-스태그플레이션의-냄새가-난다)0:{"buildId":"_1Pes8_mev1_laEcAM0uL","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스멀스멀 스태그플레이션의 냄새가 난다? | 월가백브리핑","videoId":"tcZefwg8vJc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/tcZefwg8vJc_스멀스멀-스태그플레이션의-냄새가-난다)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스멀스멀 스태그플레이션의 냄새가 난다? | 월가백브리핑","videoId":"tcZefwg8vJc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

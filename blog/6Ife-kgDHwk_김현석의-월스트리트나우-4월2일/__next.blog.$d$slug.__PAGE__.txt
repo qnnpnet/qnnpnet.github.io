@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T78b,
+# [김현석의 월스트리트나우-4월2일] 트럼프 "전쟁 종료 단계", 200일선에 막힌 랠리..바닥 vs 일시적 반등
+
+## 📋 한 줄 요약
+
+> 트럼프 대통령의 종전 시사와 오픈AI의 대규모 투자 유치 소식에 뉴욕 증시가 일제히 상승했으나, 제조업 물가 지표 상승으로 인한 인플레이션 우려는 여전합니다.
+
+## 🧠 핵심 포인트
+
+- [00:48](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=48) 트럼프 대통령의 종전 시사 및 유가 하락 → 지정학적 리스크 완화 기대감 반영
+- [01:33](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=93) 뉴욕 증시 주요 지수 일제히 상승 마감 → 종전 희망 랠리 및 기술주 반등
+- [06:41](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=401) 역사적 전쟁 초기 증시 바닥론 분석 → 악재 선반영에 따른 V자 회복 기대
+- [11:44](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=704) 2월 소매 판매 예상치 상회하며 견조 → 미국 경제의 강력한 소비 체력 증명
+- [13:41](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=821) ISM 제조업 PMI 2022년 이후 최고치 → 경기 회복 신호이나 지불 가격 급등은 부담
+- [17:30](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=1050) 오픈AI 122억 달러 규모 투자 유치 → 반도체 및 AI 관련주 강력한 상승 동력
+- [23:00](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=1380) 나이키 가이던스 실망에 15% 이상 급락 → 중국 매출 부진이 실적 발목 잡아
+- [24:16](https://www.youtube.com/watch?v=6Ife-kgDHwk&t=1456) 상승 추세 지속 여부에 대한 신중론 → 데드캣 바운스 가능성 경계 필요
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=6Ife-kgDHwk)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/6Ife-kgDHwk_김현석의-월스트리트나우-4월2일)0:{"buildId":"xM-plz-kb0U-UIXK9MInC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월2일] 트럼프 \"전쟁 종료 단계\", 200일선에 막힌 랠리..바닥 vs 일시적 반등","videoId":"6Ife-kgDHwk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

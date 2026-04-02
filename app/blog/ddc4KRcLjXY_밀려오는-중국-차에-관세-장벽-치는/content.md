@@ -1,0 +1,30 @@
+---
+title: "밀려오는 중국 차에 관세 장벽 치는 국가들 | 김은정의 베이징나우"
+video_id: "ddc4KRcLjXY"
+tags: "김은정, 베이징나우"
+published_at: "2026-04-02T10:01:02Z"
+---
+
+# 밀려오는 중국 차에 관세 장벽 치는 국가들 | 김은정의 베이징나우
+
+## 📋 한 줄 요약
+
+> 멕시코가 자국 핵심인 자동차 산업 보호와 미국의 대중 견제 압박에 대응해 중국산 제품에 최대 50%의 고율 관세를 부과하며 양국 간 무역 갈등이 격화되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:09](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=9) 멕시코 자동차 산업, 중국 전기차 공세로 붕괴 위기 → 국가 핵심 산업의 생존권 위협
+- [00:34](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=34) 멕시코, 1463개 품목에 5~50% 고율 관세 부과 → 중국산 진입을 막기 위한 강력한 무역 장벽
+- [01:30](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=90) 중국산 제품의 불공정 경쟁 및 보조금 문제 제기 → 정부 보조금을 통한 저가 공세에 대한 반격
+- [02:12](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=132) 멕시코 경제에서 자동차 산업이 차지하는 압도적 비중 → 수출의 30%를 차지하는 경제 보루 사수
+- [02:54](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=174) 중국 자동차의 멕시코 시장 점유율 급상승 (0% → 10%) → 단기간 내 시장 잠식 속도가 매우 빠름
+- [04:06](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=246) 미국 시장 우회 진출 통로로 활용되는 멕시코 → 미국의 대중 견제 압박이 멕시코 정책에 반영
+- [04:57](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=297) 중국 전기차 기업들의 해외 진출은 '생존 전략' → 내수 포화와 수익성 악화로 인한 필연적 선택
+- [07:24](https://www.youtube.com/watch?v=ddc4KRcLjXY&t=444) USMCA 재협상을 앞둔 멕시코의 전략적 선택 → 미국과의 공급망 동맹 강화를 위한 고육지책
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=ddc4KRcLjXY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ddc4KRcLjXY_밀려오는-중국-차에-관세-장벽-치는)

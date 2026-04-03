@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=s-QpSzJ6FII)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"6000억달러 AI인프라 투자 시대.. 바뀌는 투자 트렌드는? | 김인엽의 실리콘밸리나우","videoId":"s-QpSzJ6FII","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=s-QpSzJ6FII)0:{"buildId":"CZRvvmLpES-iOH47FIZtR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"6000억달러 AI인프라 투자 시대.. 바뀌는 투자 트렌드는? | 김인엽의 실리콘밸리나우","videoId":"s-QpSzJ6FII","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

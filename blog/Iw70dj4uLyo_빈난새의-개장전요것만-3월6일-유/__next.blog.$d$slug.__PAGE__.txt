@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Iw70dj4uLyo)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Iw70dj4uLyo_빈난새의-개장전요것만-3월6일-유)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월6일] 유가 2년래 최고 | 2월 고용 -9만 | VC업계 AI 버블 우려 | 24개주, 트럼프 관세 소송 | 램리서치 마벨 코스트코 비트마인 시에나","videoId":"Iw70dj4uLyo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Iw70dj4uLyo_빈난새의-개장전요것만-3월6일-유)0:{"buildId":"CZRvvmLpES-iOH47FIZtR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월6일] 유가 2년래 최고 | 2월 고용 -9만 | VC업계 AI 버블 우려 | 24개주, 트럼프 관세 소송 | 램리서치 마벨 코스트코 비트마인 시에나","videoId":"Iw70dj4uLyo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

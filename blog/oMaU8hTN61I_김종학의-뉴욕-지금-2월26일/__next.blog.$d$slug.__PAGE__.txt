@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=oMaU8hTN61I)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/oMaU8hTN61I_김종학의-뉴욕-지금-2월26일)0:{"buildId":"GDCL_atzk4bjzw7O6vn15","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월26일] 1.8조 달러 규모 사모대출 산업 경고음 | 종목(엔비디아, 써클, 애플, 알파벳, 오라클, 넷플릭스, CME, 우버, TJ맥스, 로우, 엑손)","videoId":"oMaU8hTN61I","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/oMaU8hTN61I_김종학의-뉴욕-지금-2월26일)0:{"buildId":"CZRvvmLpES-iOH47FIZtR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월26일] 1.8조 달러 규모 사모대출 산업 경고음 | 종목(엔비디아, 써클, 애플, 알파벳, 오라클, 넷플릭스, CME, 우버, TJ맥스, 로우, 엑손)","videoId":"oMaU8hTN61I","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

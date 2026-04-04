@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=O9hREBfS_Hs)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/O9hREBfS_Hs_빈난새의-개장전-요것만-3월27일)0:{"buildId":"Q94j5ux8bSPxfhMcJ3T10","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전 요것만-3월27일] 종전 기대보다 혼란 장기화 초점 | 더 강해진 금리 동결·인상 베팅 | 메타, 텍사스 데이터센터 투자 6배+","videoId":"O9hREBfS_Hs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/O9hREBfS_Hs_빈난새의-개장전-요것만-3월27일)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전 요것만-3월27일] 종전 기대보다 혼란 장기화 초점 | 더 강해진 금리 동결·인상 베팅 | 메타, 텍사스 데이터센터 투자 6배+","videoId":"O9hREBfS_Hs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

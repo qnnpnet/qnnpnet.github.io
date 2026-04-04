@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ALMkdH928XA)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ALMkdH928XA_샌프란에서-실리콘밸리로-진출하는-오픈)0:{"buildId":"Q94j5ux8bSPxfhMcJ3T10","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"샌프란에서 실리콘밸리로 진출하는 오픈AI, 수익 전략 있을까 | 김인엽의 실리콘밸리나우","videoId":"ALMkdH928XA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ALMkdH928XA_샌프란에서-실리콘밸리로-진출하는-오픈)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"샌프란에서 실리콘밸리로 진출하는 오픈AI, 수익 전략 있을까 | 김인엽의 실리콘밸리나우","videoId":"ALMkdH928XA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

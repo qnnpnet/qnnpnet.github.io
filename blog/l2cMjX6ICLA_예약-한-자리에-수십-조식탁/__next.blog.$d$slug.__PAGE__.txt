@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=l2cMjX6ICLA)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/l2cMjX6ICLA_예약-한-자리에-수십-조식)0:{"buildId":"Q94j5ux8bSPxfhMcJ3T10","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"예약 한 자리에 수십 조\"..식탁 위 전쟁에 뛰어든 특급 카드회사 | 바이아메리카 in 뉴욕","videoId":"l2cMjX6ICLA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/l2cMjX6ICLA_예약-한-자리에-수십-조식)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"예약 한 자리에 수십 조\"..식탁 위 전쟁에 뛰어든 특급 카드회사 | 바이아메리카 in 뉴욕","videoId":"l2cMjX6ICLA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

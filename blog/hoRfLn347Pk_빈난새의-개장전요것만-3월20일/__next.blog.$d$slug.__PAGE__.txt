@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=hoRfLn347Pk)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/hoRfLn347Pk_빈난새의-개장전요것만-3월20일)0:{"buildId":"CZRvvmLpES-iOH47FIZtR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월20일] 조정 기로에 선 증시 | $5.7조 옵션만기 | 슈마컴 공동창업자 엔비디아칩 중국 밀수 혐의 | 델 페덱스 플래닛랩스 파이어플라이 인텔","videoId":"hoRfLn347Pk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/hoRfLn347Pk_빈난새의-개장전요것만-3월20일)0:{"buildId":"Q94j5ux8bSPxfhMcJ3T10","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월20일] 조정 기로에 선 증시 | $5.7조 옵션만기 | 슈마컴 공동창업자 엔비디아칩 중국 밀수 혐의 | 델 페덱스 플래닛랩스 파이어플라이 인텔","videoId":"hoRfLn347Pk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

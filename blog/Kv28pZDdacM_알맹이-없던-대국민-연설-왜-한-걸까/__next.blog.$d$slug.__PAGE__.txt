@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Ta47,
+# 알맹이 없던 대국민 연설 왜 한 걸까 | 이란, 새로운 슈퍼파워 되나? | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 트럼프의 대국민 담화 이후 중동 긴장과 유가 변동성이 지속되는 가운데, 시장은 호르무즈 해협 개방 여부와 기업 실적 가이던스에 주목하며 불안한 흐름을 이어가고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [01:09](https://www.youtube.com/watch?v=Kv28pZDdacM&t=69) 트럼프 대통령의 대국민 담화와 이란에 대한 강력한 경고 → 구체적 해결책 없는 전쟁 마케팅에 대한 시장의 실망감
+- [04:51](https://www.youtube.com/watch?v=Kv28pZDdacM&t=291) 시장을 움직이는 세 가지 트라우마: 인플레, 침체, 스냅백 → 과거 경험에 갇힌 투자자들의 심리적 불안과 조울증적 반응
+- [07:24](https://www.youtube.com/watch?v=Kv28pZDdacM&t=444) 트럼프가 구체적인 타임라인을 제시하지 않은 5가지 이유 → 금리 하락, 에너지 자급력, 고용 지표 등을 고려한 전략적 모호성
+- [10:51](https://www.youtube.com/watch?v=Kv28pZDdacM&t=651) 이란의 호르무즈 해협 통제권 강화와 통행세 징수 가능성 → 에너지 공급망을 볼모로 한 이란의 '슈퍼파워'화 우려
+- [16:33](https://www.youtube.com/watch?v=Kv28pZDdacM&t=993) 지상군 투입 가능성과 장기전으로의 확전 리스크 → 2~3주 내 종결이라는 트럼프의 주장이 비현실적일 가능성
+- [26:40](https://www.youtube.com/watch?v=Kv28pZDdacM&t=1600) 유가 상승과 물가 지표 악화에 따른 기업 실적 가이던스 우려 → 비용 상승으로 인해 기업들이 보수적인 전망을 내놓을 시점
+- [31:39](https://www.youtube.com/watch?v=Kv28pZDdacM&t=1899) 유가 130달러 돌파 시 '윌리 코요테 모먼트' 경고 → 임계점을 넘어서는 순간 발생하는 급격한 경기 침체와 증시 폭락 위험
+- [35:21](https://www.youtube.com/watch?v=Kv28pZDdacM&t=2121) 이란-오만 간의 호르무즈 해협 통행 프로토콜 마련 소식 → 통행료를 내더라도 해협이 열리는 것 자체가 단기적 호재가 될 수 있음
+- [37:48](https://www.youtube.com/watch?v=Kv28pZDdacM&t=2268) 뉴욕 증시의 기술적 지지선 붕괴와 약세장 재진입 우려 → 200일 이동평균선 돌파 실패에 따른 추가 하락 가능성 경계
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Kv28pZDdacM)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Kv28pZDdacM_알맹이-없던-대국민-연설-왜-한-걸까)0:{"buildId":"Q94j5ux8bSPxfhMcJ3T10","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"알맹이 없던 대국민 연설 왜 한 걸까 | 이란, 새로운 슈퍼파워 되나? | 월가백브리핑","videoId":"Kv28pZDdacM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

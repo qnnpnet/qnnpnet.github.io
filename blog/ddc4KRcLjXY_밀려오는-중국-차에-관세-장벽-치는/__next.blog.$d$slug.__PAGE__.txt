@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ddc4KRcLjXY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ddc4KRcLjXY_밀려오는-중국-차에-관세-장벽-치는)0:{"buildId":"CZRvvmLpES-iOH47FIZtR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"밀려오는 중국 차에 관세 장벽 치는 국가들 | 김은정의 베이징나우","videoId":"ddc4KRcLjXY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ddc4KRcLjXY_밀려오는-중국-차에-관세-장벽-치는)0:{"buildId":"Q94j5ux8bSPxfhMcJ3T10","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"밀려오는 중국 차에 관세 장벽 치는 국가들 | 김은정의 베이징나우","videoId":"ddc4KRcLjXY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

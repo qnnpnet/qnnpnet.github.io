@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=6-NUshdsl5M)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/6-NUshdsl5M_내리막길-탄-메모리-주식이게-다)0:{"buildId":"CZRvvmLpES-iOH47FIZtR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"내리막길 탄 메모리 주식..이게 다 머스크 때문이다? | 월가백브리핑","videoId":"6-NUshdsl5M","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/6-NUshdsl5M_내리막길-탄-메모리-주식이게-다)0:{"buildId":"Q94j5ux8bSPxfhMcJ3T10","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"내리막길 탄 메모리 주식..이게 다 머스크 때문이다? | 월가백브리핑","videoId":"6-NUshdsl5M","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

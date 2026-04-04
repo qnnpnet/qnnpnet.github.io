@@ -1,0 +1,31 @@
+---
+title: "‘트리플 약세’ 빠진 일본…전쟁 직격탄 | 김일규의 도쿄나우"
+video_id: "WxsTQ7RlMX4"
+tags: "김일규, 도쿄나우"
+published_at: "2026-04-03T10:00:52Z"
+---
+
+# ‘트리플 약세’ 빠진 일본…전쟁 직격탄 | 김일규의 도쿄나우
+
+## 📋 한 줄 요약
+
+> 중동 분쟁과 고유가로 인해 일본 경제가 주가·국채·엔화 가치가 동반 하락하는 '트리플 약세'에 직면하며 실물 경제 전반에 위기감이 확산하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:03](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=3) 일본 경제의 '트리플 약세' 가속화 → 대외 변수에 취약한 구조적 한계 노출
+- [01:21](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=81) 도요타·소프트뱅크 등 주요 기업 주가 급락 → 제조업 및 기술주 전반의 실적 악화 우려
+- [02:10](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=130) 니케이 지수, 35년 만에 역대 최대 월간 하락폭 기록 → 시장 심리가 극도로 위축된 상태
+- [02:46](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=166) 10년물 국채 금리 27년 만에 최고치 경신 → 인플레이션 압박에 따른 금리 인상 압박 증대
+- [03:39](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=219) 엔·달러 환율 160엔 돌파 및 정부 개입 가능성 → 엔저 방어를 위한 통화 당국의 고심 깊어짐
+- [05:22](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=322) 엔화 가치 하락으로 인한 유가 상승 충격 배가 → 수입 물가 상승이 가계와 기업에 이중고 초래
+- [06:29](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=389) 일본인 해외 여행 급감 및 경제력 저하 지적 → 구매력 하락으로 인한 '내수형 국가'로의 고착화 우려
+- [08:55](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=535) 에너지 공급난으로 온천 휴업 및 대중교통 감축 → 에너지 안보 위기가 민생 경제를 직접 타격
+- [10:03](https://www.youtube.com/watch?v=WxsTQ7RlMX4&t=603) 전기 요금 인상 및 정부 보조금의 한계 → 재정 지출 확대가 오히려 엔저를 부추기는 악순환 가능성
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=WxsTQ7RlMX4)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/WxsTQ7RlMX4_트리플-약세-빠진-일본전쟁-직격)

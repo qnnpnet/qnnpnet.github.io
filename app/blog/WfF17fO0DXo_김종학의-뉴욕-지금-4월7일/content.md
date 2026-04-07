@@ -1,0 +1,30 @@
+---
+title: "[김종학의 뉴욕, 지금-4월7일] “이란, 하룻밤이면 제거.. 화요일 밤일 수도” | 16일, 케빈 워시 청문회 예정 | 마이크론, 오라클, JP모건, 로빈후드, 메타, 넷플릭스"
+video_id: "WfF17fO0DXo"
+tags: "김종학의 뉴욕 지금-4월7일, 김종학, 뉴욕 지금"
+published_at: "2026-04-06T21:23:33Z"
+---
+
+# [김종학의 뉴욕, 지금-4월7일] “이란, 하룻밤이면 제거.. 화요일 밤일 수도” | 16일, 케빈 워시 청문회 예정 | 마이크론, 오라클, JP모건, 로빈후드, 메타, 넷플릭스
+
+## 📋 한 줄 요약
+
+> 트럼프 대통령의 이란 최후통첩과 호르무즈 해협 긴장감이 지속되는 가운데, 시장은 전쟁 향방과 물가 지표를 주시하며 관망세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:34](https://www.youtube.com/watch?v=WfF17fO0DXo&t=34) 트럼프 기자회견 및 시장 반응 → 지정학적 불확실성 증대
+- [04:35](https://www.youtube.com/watch?v=WfF17fO0DXo&t=275) 이란에 대한 최후통첩 및 군사적 압박 → 군사 충돌 가능성 상존
+- [07:26](https://www.youtube.com/watch?v=WfF17fO0DXo&t=446) 이란의 종전 조건과 트럼프의 거부 → 양측의 입장 차이 뚜렷
+- [09:39](https://www.youtube.com/watch?v=WfF17fO0DXo&t=579) 호르무즈 해협의 '톨게이트'식 통제 모델 → 에너지 안보 위협 심화
+- [11:03](https://www.youtube.com/watch?v=WfF17fO0DXo&t=663) 서비스업 물가 지수 13년 만에 최대폭 상승 → 인플레이션 재점화 우려
+- [11:51](https://www.youtube.com/watch?v=WfF17fO0DXo&t=711) 이번 주 금요일 소비자물가지수(CPI) 발표 예정 → 금리 향방의 핵심 변수
+- [12:54](https://www.youtube.com/watch?v=WfF17fO0DXo&t=774) 메디케어 보험 요율 인상에 유나이티드헬스 급등 → 정책 변화에 따른 수익성 개선
+- [14:04](https://www.youtube.com/watch?v=WfF17fO0DXo&t=844) 제이미 다이먼의 지정학적 리스크 경고 → 보수적 투자 접근 필요
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=WfF17fO0DXo)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/WfF17fO0DXo_김종학의-뉴욕-지금-4월7일)

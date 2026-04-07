@@ -1,0 +1,30 @@
+---
+title: "[김현석의 월스트리트나우-4월7일] 테슬라 '매도'하란 JPM, 메모리 '매수' 외친 MS..트럼프 '더워서' 철수?"
+video_id: "0OyTlxbcKVI"
+tags: "김현석의 월스트리트나우-4월7일, 김현석, 월스트리트나우"
+published_at: "2026-04-06T22:10:12Z"
+---
+
+# [김현석의 월스트리트나우-4월7일] 테슬라 '매도'하란 JPM, 메모리 '매수' 외친 MS..트럼프 '더워서' 철수?
+
+## 📋 한 줄 요약
+
+> 중동 긴장 완화 기대와 고용 지표 호조로 뉴욕 증시가 4일 연속 상승했으나, 서비스업 물가 급등과 3월 CPI 발표를 앞두고 인플레이션 재점화 우려가 공존하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [01:02](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=62) 뉴욕 증시 4일 연속 상승 및 트럼프의 출구 전략 기대 → 시장은 전쟁 확전보다 트럼프의 협상 및 철수 가능성에 무게를 두는 모습
+- [03:30](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=210) 이란의 휴전안 거부와 미국의 지속적인 협상 시도 → 이란은 영구적 종식을 원하며, 호르무즈 해협 통행량은 소폭 회복 중
+- [10:00](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=600) 월가 전문가들의 증시 바닥론 및 낙관적 전망 확산 → 비관론이 정점에 달했다는 분석과 함께 실적 우량주에 대한 매수 권고
+- [13:21](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=801) 3월 고용 지표 서프라이즈와 노동 시장의 혼조세 → 표면적 고용은 견조하나 경제 활동 참가율 하락 등 세부 지표는 우려 존재
+- [16:55](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=1015) ISM 서비스업 지불 가격 지수 2022년 이후 최고치 기록 → 유가 상승 여파로 서비스 물가 압력이 다시 높아지며 인플레이션 경고등
+- [18:50](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=1130) 3월 CPI 예상치 상향 및 유가 급등의 영향 → 에너지 가격 상승으로 인해 CPI가 3.4%까지 치솟을 것으로 전망됨
+- [20:21](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=1221) 제이미 다이먼의 연례 서안을 통한 인플레이션 경고 → 경제는 회복력이 있으나 고금리 장기화와 자산 가격 하락 리스크 강조
+- [23:11](https://www.youtube.com/watch?v=0OyTlxbcKVI&t=1391) 테슬라의 목표주가 하향과 메모리 반도체 슈퍼 사이클 전망 → 전기차 수요 둔화 우려와 AI 기반 반도체 장기 호황 기대가 극명히 대비
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=0OyTlxbcKVI)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/0OyTlxbcKVI_김현석의-월스트리트나우-4월7일)

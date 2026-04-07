@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=UWt1iXHpwnY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/UWt1iXHpwnY_김현석의-월스트리트나우-4월1일)0:{"buildId":"ckI1n9ZC7hihGQahQJeG-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월1일] 종전 베팅 폭발..5% 폭등한 'Mag 7', 기술적 반등이었나","videoId":"UWt1iXHpwnY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/UWt1iXHpwnY_김현석의-월스트리트나우-4월1일)0:{"buildId":"bL9qvoY9F5Be76lcFLI5Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월1일] 종전 베팅 폭발..5% 폭등한 'Mag 7', 기술적 반등이었나","videoId":"UWt1iXHpwnY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

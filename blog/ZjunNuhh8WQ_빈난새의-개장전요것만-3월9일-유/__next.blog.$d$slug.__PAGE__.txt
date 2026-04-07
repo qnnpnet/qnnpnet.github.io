@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ZjunNuhh8WQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZjunNuhh8WQ_빈난새의-개장전요것만-3월9일-유)0:{"buildId":"ckI1n9ZC7hihGQahQJeG-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월9일] 유가 $100, 미 지상군 투입 우려 | G7 전략비축유 방출 검토 | 비료, 농산물 상승 | 오라클 힘스 루멘텀 AAOI 써클 레드와이어 GEV","videoId":"ZjunNuhh8WQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ZjunNuhh8WQ_빈난새의-개장전요것만-3월9일-유)0:{"buildId":"bL9qvoY9F5Be76lcFLI5Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월9일] 유가 $100, 미 지상군 투입 우려 | G7 전략비축유 방출 검토 | 비료, 농산물 상승 | 오라클 힘스 루멘텀 AAOI 써클 레드와이어 GEV","videoId":"ZjunNuhh8WQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

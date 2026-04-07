@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=MSBE6WeBQXs)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/MSBE6WeBQXs_김종학의-뉴욕-지금-3월21일)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월21일] 미군, 중동에 수천 명 추가 파병 | 월가, 연준 인상 베팅 50%로 확대 | 종목(슈마컴, 델, 테슬라, 유니트리로보틱스, 페덱스, JP모건)","videoId":"MSBE6WeBQXs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/MSBE6WeBQXs_김종학의-뉴욕-지금-3월21일)0:{"buildId":"ckI1n9ZC7hihGQahQJeG-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월21일] 미군, 중동에 수천 명 추가 파병 | 월가, 연준 인상 베팅 50%로 확대 | 종목(슈마컴, 델, 테슬라, 유니트리로보틱스, 페덱스, JP모건)","videoId":"MSBE6WeBQXs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

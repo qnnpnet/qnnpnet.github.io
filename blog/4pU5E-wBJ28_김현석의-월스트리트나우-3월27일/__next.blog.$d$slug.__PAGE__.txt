@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=4pU5E-wBJ28)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/4pU5E-wBJ28_김현석의-월스트리트나우-3월27일)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월27일] 선택지 없는 트럼프 \"공격 열흘 더 연기\", 마이크론 무너질 땐 답 없다","videoId":"4pU5E-wBJ28","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/4pU5E-wBJ28_김현석의-월스트리트나우-3월27일)0:{"buildId":"ckI1n9ZC7hihGQahQJeG-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월27일] 선택지 없는 트럼프 \"공격 열흘 더 연기\", 마이크론 무너질 땐 답 없다","videoId":"4pU5E-wBJ28","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=6Ife-kgDHwk)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/6Ife-kgDHwk_김현석의-월스트리트나우-4월2일)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월2일] 트럼프 \"전쟁 종료 단계\", 200일선에 막힌 랠리..바닥 vs 일시적 반등","videoId":"6Ife-kgDHwk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/6Ife-kgDHwk_김현석의-월스트리트나우-4월2일)0:{"buildId":"ckI1n9ZC7hihGQahQJeG-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월2일] 트럼프 \"전쟁 종료 단계\", 200일선에 막힌 랠리..바닥 vs 일시적 반등","videoId":"6Ife-kgDHwk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

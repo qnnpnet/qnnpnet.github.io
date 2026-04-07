@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=lp7kAORC21Y)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/lp7kAORC21Y_젠슨황이-설계한-엔비디아-제국의)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"젠슨황이 설계한 ‘엔비디아 제국’의 미래는 | 김인엽의 실리콘밸리나우","videoId":"lp7kAORC21Y","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/lp7kAORC21Y_젠슨황이-설계한-엔비디아-제국의)0:{"buildId":"ckI1n9ZC7hihGQahQJeG-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"젠슨황이 설계한 ‘엔비디아 제국’의 미래는 | 김인엽의 실리콘밸리나우","videoId":"lp7kAORC21Y","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

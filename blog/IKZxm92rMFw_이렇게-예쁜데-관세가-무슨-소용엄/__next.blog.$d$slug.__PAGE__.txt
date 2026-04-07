@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=IKZxm92rMFw)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/IKZxm92rMFw_이렇게-예쁜데-관세가-무슨-소용엄)0:{"buildId":"NINeUNGzpJyimtUAPm0dI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"이렇게 예쁜데 관세가 무슨 소용..엄마와 딸이 같이 쇼핑하는 여성복 최강자, 아리치아 | 바이아메리카 in 뉴욕","videoId":"IKZxm92rMFw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/IKZxm92rMFw_이렇게-예쁜데-관세가-무슨-소용엄)0:{"buildId":"ckI1n9ZC7hihGQahQJeG-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"이렇게 예쁜데 관세가 무슨 소용..엄마와 딸이 같이 쇼핑하는 여성복 최강자, 아리치아 | 바이아메리카 in 뉴욕","videoId":"IKZxm92rMFw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"n170kVnZheAJoac63qiEd","c":["","blog","N7NZz541Ru0_2600%EC%A1%B0%EC%9B%90-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X-%EB%B0%B8%EB%A5%98%EC%97%90%EC%9D%B4%EC%85%98"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","N7NZz541Ru0_2600%EC%A1%B0%EC%9B%90-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X-%EB%B0%B8%EB%A5%98%EC%97%90%EC%9D%B4%EC%85%98","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T8da,
+# 2600조원 스페이스X, 밸류에이션 집중 분석 | 김인엽의 실리콘밸리나우
+
+## 📋 한 줄 요약
+
+> 스페이스X가 1.75조 달러라는 역대급 기업 가치로 상장을 추진하며, 스타링크와 스타십을 필두로 우주 경제의 독점적 인프라 기업으로 도약하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:30](https://www.youtube.com/watch?v=N7NZz541Ru0&t=30) 스페이스X, 기업 가치 1조 7,500억 달러 목표로 상장 신청 → 메타와 테슬라를 넘어서는 M7급 규모의 탄생 예고
+- [02:19](https://www.youtube.com/watch?v=N7NZz541Ru0&t=139) 기존 방산 기업 대비 압도적인 기업 가치 평가 → 현재 매출보다 미래 성장성에 기반한 110배의 PSR 적용
+- [03:52](https://www.youtube.com/watch?v=N7NZz541Ru0&t=232) 스타링크 가입자 12억 명 및 글로벌 통신 시장 15% 점유 전망 → 우주 인터넷을 통한 강력한 현금 흐름 창출 기대
+- [06:50](https://www.youtube.com/watch?v=N7NZz541Ru0&t=410) V3 위성 도입으로 통신 비용 75% 절감 및 속도 개선 → 지상 광랜 수준의 속도로 기존 통신사와의 경쟁력 확보
+- [10:47](https://www.youtube.com/watch?v=N7NZz541Ru0&t=647) 차세대 로켓 '스타십'을 통한 발사 비용의 혁명적 단축 → 완전 재사용 기술로 kg당 비용을 200달러 수준으로 하락
+- [12:52](https://www.youtube.com/watch?v=N7NZz541Ru0&t=772) 우주 데이터 센터 등 미래 산업의 독점적 인프라화 → 모든 우주 비즈니스가 스페이스X의 로켓에 의존하게 되는 구조
+- [16:32](https://www.youtube.com/watch?v=N7NZz541Ru0&t=992) 머스크의 지배력 강화 및 테슬라와의 합병 가능성 → 차등의결권 도입을 통해 장기적 비전인 화성 탐사 추진 동력 확보
+- [19:38](https://www.youtube.com/watch?v=N7NZz541Ru0&t=1178) 실리콘밸리의 리스크 테이킹 문화와 한국의 현실 비교 → 실패를 두려워하지 않는 도전 정신이 혁신 기업 탄생의 핵심
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=N7NZz541Ru0)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/N7NZz541Ru0_2600조원-스페이스X-밸류에이션)4:["$","$Ld",null,{"title":"2600조원 스페이스X, 밸류에이션 집중 분석 | 김인엽의 실리콘밸리나우","videoId":"N7NZz541Ru0","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"2600조원 스페이스X, 밸류에이션 집중 분석 | 김인엽의 실리콘밸리나우"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

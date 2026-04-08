@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T86c,
+# [빈난새의 개장전요것만-4월8일] 휴전 후 JPM "전술적 강세 복귀" 골드만 "추격매수 신중" | 실적시즌 기대주 | 델타항공 마이크론 인텔 루멘텀 캐터필러 리바이스 아마존 씨티
+
+## 📋 한 줄 요약
+
+> 중동 휴전 소식에 유가가 폭락하고 증시가 급등하며 위험 자산 선호 심리가 강하게 살아났습니다.
+
+## 🧠 핵심 포인트
+
+- [00:43](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=43) 휴전 소식 발표에 따른 글로벌 증시 급등 → 최악의 지정학적 위기 해소에 따른 안도 랠리
+- [01:51](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=111) 유가 18% 폭락 및 산업용 금속 자산 반등 → 에너지 가격 하락으로 인플레이션 우려 완화
+- [03:37](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=217) 국채 금리 하락과 금리 인하 기대감 재부각 → 전쟁 이전의 금리 경로로 회귀하려는 시장의 움직임
+- [06:02](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=362) 기술주 및 반도체 섹터가 반등 장세 주도 → AI 성장성과 밸류에이션 매력이 다시 주목받는 시점
+- [09:04](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=544) 3월 CPI 발표 및 중고차 가격 상승 변수 → 강한 소비 지표가 금리 인하 속도를 늦출 가능성 상존
+- [14:32](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=872) 호르무즈 해협 통행료 및 합작 투자 논의 → 해협 재개방 방식에 따른 에너지 가격 영향 주시 필요
+- [41:46](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=2506) AI 데이터 센터 확대로 메모리 수요 625배 급증 전망 → 반도체 사이클의 장기화 및 구조적 성장 확인
+- [47:48](https://www.youtube.com/watch?v=_KfExsQ9gyY&t=2868) 앤스로픽의 보안 프로젝트와 사이버 보안주 수혜 → AI 모델 고도화에 따른 보안 인프라 수요 증가
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=_KfExsQ9gyY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/_KfExsQ9gyY_빈난새의-개장전요것만-4월8일-휴)0:{"buildId":"n170kVnZheAJoac63qiEd","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월8일] 휴전 후 JPM \"전술적 강세 복귀\" 골드만 \"추격매수 신중\" | 실적시즌 기대주 | 델타항공 마이크론 인텔 루멘텀 캐터필러 리바이스 아마존 씨티","videoId":"_KfExsQ9gyY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

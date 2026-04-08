@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=oNd9ktDuDA8)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/oNd9ktDuDA8_전쟁에도-수익자부담-원칙-안보)0:{"buildId":"bL9qvoY9F5Be76lcFLI5Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"전쟁에도 '수익자부담 원칙'.. 안보동맹 청구서 날린 트럼프 | 이상은의 워싱턴나우","videoId":"oNd9ktDuDA8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/oNd9ktDuDA8_전쟁에도-수익자부담-원칙-안보)0:{"buildId":"n170kVnZheAJoac63qiEd","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"전쟁에도 '수익자부담 원칙'.. 안보동맹 청구서 날린 트럼프 | 이상은의 워싱턴나우","videoId":"oNd9ktDuDA8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

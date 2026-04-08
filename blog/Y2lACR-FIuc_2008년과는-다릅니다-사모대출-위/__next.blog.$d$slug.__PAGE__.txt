@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tacf,
+# 2008년과는 다릅니다, 사모대출 위기론 총정리 | 빈난새의 빈틈없이월가
+
+## 📋 한 줄 요약
+
+> 사모 신용 시장의 환매 제한 사태가 2008년식 시스템 위기로 번질 가능성은 낮으나, 고금리 시대의 신용 사이클 전환에 따른 실물 경제 위축 가능성은 경계해야 합니다.
+
+## 🧠 핵심 포인트
+
+- [00:38](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=38) 대형 운용사들의 사모 대출 펀드 환매 제한(게이팅) 발생 → 투자 심리 위축으로 인한 뱅크런성 자금 유출 시작
+- [01:20](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=80) 무디스의 BDC(비상장 기업 투자 기구) 업계 전망 하향 조정 → 2년 만의 부정적 전망으로 금융 위기 전조 우려 확산
+- [02:35](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=155) 현재 상황은 2008년과 같은 시스템적 위기로 보기 어려움 → 은행 시스템이나 실물 경제로의 전이 징후는 아직 미비
+- [05:27](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=327) 개인 투자자 유입 증가에 따른 유동성 불일치 문제 → 장기 기업 대출을 단기 환매 가능한 상품으로 판 구조적 결함
+- [08:11](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=491) 사모 대출의 3대 취약점: 불투명성, 유동성 불일치, 신용 사이클 미경험 → 내부 모델 평가에 의존하는 블랙박스형 구조가 불안 키움
+- [11:06](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=666) 소프트웨어 기업 대출 비중과 AI 기술 발전에 따른 리스크 → AI가 기존 사스(SaaS) 모델을 대체할 경우 담보 가치 하락 위험
+- [14:10](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=850) 2008년 서브프라임 모기지 사태와의 차이점 분석 → 시장 규모가 작고 레버리지가 낮아 연쇄 파산 가능성은 낮음
+- [16:53](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=1013) 사모 대출의 선순위 채권자 지위와 낮은 LTV 수준 → 기업 가치가 급락해도 원금을 보호할 수 있는 완충 장치 존재
+- [21:02](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=1262) 실물 경제의 신용 공급 위축(Credit Crunch) 가능성 → 중소기업 및 스타트업의 자금줄이 막히며 경기 둔화 초래 우려
+- [24:54](https://www.youtube.com/watch?v=Y2lACR-FIuc&t=1494) 건들락의 경고: 현재는 2007년과 유사한 위기 초기 단계 → 본격적인 신용 사이클 도래에 대비한 장기적 모니터링 필요
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Y2lACR-FIuc)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Y2lACR-FIuc_2008년과는-다릅니다-사모대출-위)0:{"buildId":"n170kVnZheAJoac63qiEd","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"2008년과는 다릅니다, 사모대출 위기론 총정리 | 빈난새의 빈틈없이월가","videoId":"Y2lACR-FIuc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

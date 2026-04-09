@@ -1,0 +1,30 @@
+---
+title: "[김현석의 월스트리트나우-4월9일] 휴전에도 해협 통과 4척뿐, 6일째 오른 S&P..골드만 \"추격 매수 말라\""
+video_id: "x4nf9Korgz0"
+tags: "김현석의 월스트리트나우-4월9일, 김현석, 월스트리트나우"
+published_at: "2026-04-08T22:06:49Z"
+---
+
+# [김현석의 월스트리트나우-4월9일] 휴전에도 해협 통과 4척뿐, 6일째 오른 S&P..골드만 "추격 매수 말라"
+
+## 📋 한 줄 요약
+
+> 미국과 이란의 2주 휴전 합의로 유가가 하락하고 증시가 급등했으나, 호르무즈 해협 통제권 등 갈등의 불씨가 남아있어 시장은 신중한 낙관론을 유지하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:44](https://www.youtube.com/watch?v=x4nf9Korgz0&t=44) 미국-이란 2주 휴전 합의 및 뉴욕 증시 급등 → 전쟁 확산 공포 해소에 따른 안도 랠리
+- [01:40](https://www.youtube.com/watch?v=x4nf9Korgz0&t=100) S&P 500 및 나스닥 등 주요 지수 2.5% 이상 상승 → 위험 자산 선호 심리 급격히 회복
+- [03:35](https://www.youtube.com/watch?v=x4nf9Korgz0&t=215) 국제 유가 15% 급락하며 배럴당 100달러 하회 → 에너지발 인플레이션 압력 일시적 완화
+- [05:11](https://www.youtube.com/watch?v=x4nf9Korgz0&t=311) 휴전 첫날부터 이어진 공격과 이스라엘의 불만 → 지정학적 리스크가 완전히 해소되지 않은 취약한 평화
+- [07:04](https://www.youtube.com/watch?v=x4nf9Korgz0&t=424) 호르무즈 해협 통제권 및 통행료 징수 문제 대두 → 향후 유가 향방을 결정할 핵심 변수
+- [15:03](https://www.youtube.com/watch?v=x4nf9Korgz0&t=903) 연말 금리 인하 기대감 재부각 → 유가 하락으로 인해 연준의 피벗 가능성 상승
+- [19:41](https://www.youtube.com/watch?v=x4nf9Korgz0&t=1181) 메타 등 빅테크 중심의 기술주 반등 주도 → 낙폭 과대에 따른 밸류에이션 매력 부각
+- [23:16](https://www.youtube.com/watch?v=x4nf9Korgz0&t=1396) 헤지펀드 공매도 청산에 따른 숏 스퀴즈 발생 → 기술적 요인이 증시 급등을 가속화함
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=x4nf9Korgz0)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/x4nf9Korgz0_김현석의-월스트리트나우-4월9일)

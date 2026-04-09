@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8ba,
+# [김종학의 뉴욕, 지금-4월9일] 2주 휴전에 급등했지만..여전한 잡음 | ‘매도세 줄었지만, 완전한 회복 아니다’ | 델타항공, 엑손모빌, 메타, 파라마운트 스카이댄스, 리바이스
+
+## 📋 한 줄 요약
+
+> 중동 전쟁 종전 기대감에 뉴욕 증시가 급등하고 유가가 폭락했으나, 이스라엘의 강경 입장과 연준의 금리 향방 불확실성은 여전히 변수로 남아 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:43](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=43) 뉴욕 3대 지수 2.5% 이상 급등 → 종전 기대감과 숏스퀴즈가 결합된 강력한 반등
+- [01:35](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=95) 국제 유가 14.69% 폭락 및 금값 상승 → 지정학적 리스크 완화가 에너지 가격에 즉각 반영
+- [04:20](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=260) 트럼프, 이란의 협상안에 대해 압박 수위 조절 → 협상 주도권을 잡기 위한 정치적 발언으로 해석
+- [05:39](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=339) 네타냐후 이스라엘 총리의 전쟁 지속 의지 표명 → 휴전을 일시적 정거장으로 표현하며 리스크 잔존 시사
+- [08:01](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=481) 호르무즈 해협 한시적 개방 및 물류 정상화 난항 → 공급망 복구에는 상당한 시간이 소요될 전망
+- [11:40](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=700) 3월 FOMC 의사록 공개, 금리 향방에 대한 위원들 의견 대립 → 인하와 인상 가능성이 공존하는 신중론 우세
+- [14:00](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=840) 메타, 신규 AI 모델 '뮤즈 스파크' 공개로 주가 급등 → 플랫폼 최적화 AI 전략에 대한 시장의 긍정적 반응
+- [15:53](https://www.youtube.com/watch?v=eqMOMULwrXQ&t=953) 내일 발표될 PCE 물가 지수 및 GDP 지표 주목 → 전쟁 이슈 이후 실물 경제 지표가 시장 방향성 결정
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=eqMOMULwrXQ)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/eqMOMULwrXQ_김종학의-뉴욕-지금-4월9일-2)0:{"buildId":"1QQMexomLPJjeOKuSCEYy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-4월9일] 2주 휴전에 급등했지만..여전한 잡음 | ‘매도세 줄었지만, 완전한 회복 아니다’ | 델타항공, 엑손모빌, 메타, 파라마운트 스카이댄스, 리바이스","videoId":"eqMOMULwrXQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

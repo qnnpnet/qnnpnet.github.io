@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T9c3,
+# [빈난새의 개장전요것만-4월9일] 휴전 불확실성 재부각 | 인텔-구글 협력 | 메타 새 모델 | 아마존 칩 매출 공개 | 코어위브 샌디스크 팔란티어 마벨 TXN 디즈니 데이터독
+
+## 📋 한 줄 요약
+
+> 중동 지정학적 리스크 재부각과 유가 상승 압박 속에서도 메타와 아마존의 AI 사업 경쟁력 강화 소식이 기술주 중심의 시장 하방 경직성을 지지하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [01:01](https://www.youtube.com/watch?v=szK-b07McEI&t=61) 유가 급등 및 중동 긴장 고조 → 이스라엘-레바논 공습 지속으로 WTI 100달러 재진입 시도
+- [02:26](https://www.youtube.com/watch?v=szK-b07McEI&t=146) 페트로 달러 체제 균열 및 달러 약세 요인 → 이란의 암호화폐 통행료 징수 등 달러 패권에 대한 장기적 의구심 확산
+- [05:30](https://www.youtube.com/watch?v=szK-b07McEI&t=330) 메타(Meta) 차세대 AI 모델 '뮤즈 스파크' 공개 → 예상보다 빠른 출시와 폐쇄형 모델을 통한 수익화 의지 확인
+- [06:41](https://www.youtube.com/watch?v=szK-b07McEI&t=401) 미국 고용 지표 및 2월 PCE 물가 발표 → 노동 시장의 완만한 둔화와 상품 물가 압력 지속이 혼재된 양상
+- [19:21](https://www.youtube.com/watch?v=szK-b07McEI&t=1161) 호르무즈 해협 봉쇄 우려 및 통행 제한 → 휴전 합의의 취약성과 에너지 공급망 병목 리스크 지속
+- [35:14](https://www.youtube.com/watch?v=szK-b07McEI&t=2114) 아마존 주주 서한 및 자체 칩 사업 성과 → 자체 칩 매출 200억 달러 돌파로 엔비디아 의존도 탈피 가속화
+- [39:11](https://www.youtube.com/watch?v=szK-b07McEI&t=2351) 인텔의 AI 추론 인프라 및 구글 협력 확대 → 맞춤형 칩 시장에서의 인텔 영향력 재평가 및 주가 반등
+- [45:00](https://www.youtube.com/watch?v=szK-b07McEI&t=2700) 오픈AI 영국 '스타게이트' 프로젝트 보류 → AI 데이터센터 확장의 핵심 병목이 전력 및 규제임을 시사
+- [50:18](https://www.youtube.com/watch?v=szK-b07McEI&t=3018) 아날로그 반도체 섹터의 강세 → 데이터센터 수혜주로 부각되며 텍사스 인스트루먼트 등 업그레이드
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=szK-b07McEI)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/szK-b07McEI_빈난새의-개장전요것만-4월9일-휴)0:{"buildId":"1QQMexomLPJjeOKuSCEYy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월9일] 휴전 불확실성 재부각 | 인텔-구글 협력 | 메타 새 모델 | 아마존 칩 매출 공개 | 코어위브 샌디스크 팔란티어 마벨 TXN 디즈니 데이터독","videoId":"szK-b07McEI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

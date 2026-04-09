@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=RE2vCVCe86k)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/RE2vCVCe86k_속보-미국-이스라엘-이란-전격)0:{"buildId":"n170kVnZheAJoac63qiEd","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[속보] 미국-이스라엘, 이란 전격 공습 | 버크셔 해서웨이 실적 정리","videoId":"RE2vCVCe86k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/RE2vCVCe86k_속보-미국-이스라엘-이란-전격)0:{"buildId":"1QQMexomLPJjeOKuSCEYy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[속보] 미국-이스라엘, 이란 전격 공습 | 버크셔 해서웨이 실적 정리","videoId":"RE2vCVCe86k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

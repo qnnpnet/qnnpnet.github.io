@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=f4i0gYcl4CY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/f4i0gYcl4CY_AI가-덮친-노동-시장중국이-찾은)0:{"buildId":"n170kVnZheAJoac63qiEd","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI가 덮친 노동 시장…중국이 찾은 해법은 | 김은정의 베이징나우","videoId":"f4i0gYcl4CY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/f4i0gYcl4CY_AI가-덮친-노동-시장중국이-찾은)0:{"buildId":"1QQMexomLPJjeOKuSCEYy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI가 덮친 노동 시장…중국이 찾은 해법은 | 김은정의 베이징나우","videoId":"f4i0gYcl4CY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

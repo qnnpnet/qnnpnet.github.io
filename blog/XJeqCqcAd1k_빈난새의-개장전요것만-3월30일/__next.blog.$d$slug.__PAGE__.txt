@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=XJeqCqcAd1k)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/XJeqCqcAd1k_빈난새의-개장전요것만-3월30일)0:{"buildId":"n170kVnZheAJoac63qiEd","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월30일] 호르무즈 대체경로 위험 | 이란 \"트럼프 SNS는 역지표\" | 애플, 中 반도체 채택 가능성 | 일라이릴리 마이크론 알코아 메타 팔로알토 로켓랩","videoId":"XJeqCqcAd1k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/XJeqCqcAd1k_빈난새의-개장전요것만-3월30일)0:{"buildId":"1QQMexomLPJjeOKuSCEYy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월30일] 호르무즈 대체경로 위험 | 이란 \"트럼프 SNS는 역지표\" | 애플, 中 반도체 채택 가능성 | 일라이릴리 마이크론 알코아 메타 팔로알토 로켓랩","videoId":"XJeqCqcAd1k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

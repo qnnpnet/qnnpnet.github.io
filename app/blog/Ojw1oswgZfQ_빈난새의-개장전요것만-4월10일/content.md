@@ -1,0 +1,30 @@
+---
+title: "[빈난새의 개장전요것만-4월10일] 앤스로픽 미토스 뭐길래..소프트웨어 또 학살 | 3월 CPI 하회 | 루멘텀 서비스나우 팔로알토 샌디스크 테슬라 나이키 코어위브 인플렉션"
+video_id: "Ojw1oswgZfQ"
+tags: "빈난새의 개장전요것만-4월10일, 빈난새, 개장전요것만, CPI"
+published_at: "2026-04-10T14:09:22Z"
+---
+
+# [빈난새의 개장전요것만-4월10일] 앤스로픽 미토스 뭐길래..소프트웨어 또 학살 | 3월 CPI 하회 | 루멘텀 서비스나우 팔로알토 샌디스크 테슬라 나이키 코어위브 인플렉션
+
+## 📋 한 줄 요약
+
+> 3월 CPI가 예상보다 소폭 낮게 발표되었으나 에너지 가격 상승 우려가 여전한 가운데, 앤스로픽의 '미토스' 모델이 제기한 사이버 리스크로 소프트웨어주는 급락하고 하드웨어주는 강세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [03:21](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=201) 3월 미국 CPI 발표 및 시장 반응 → 예상보다 낮았으나 절대 수치가 높아 금리 인하를 확신하기엔 부족함
+- [04:52](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=292) 에너지 및 휘발유 가격 급등의 영향 → 4월 물가 지표에도 부정적인 영향을 미칠 가능성이 큼
+- [08:21](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=501) 미국 내 소비 둔화 조짐 포착 → 필수재 가격 상승으로 인해 비필수재 소비가 줄어드는 양상
+- [14:03](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=843) 이란-미국 협상 기대감과 밴스 부통령의 역할 → 협상단 격상으로 인한 중동 긴장 완화 및 종전 기대감 형성
+- [23:21](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=1401) 앤스로픽 '미토스' 모델의 사이버 리스크 부각 → AI의 급격한 발전이 금융 및 보안 시스템에 실질적 위협이 됨
+- [28:46](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=1726) 소프트웨어 섹터의 투자 의견 하향 및 지출 감소 → 기업들이 AI 외 일반 소프트웨어 예산을 줄이는 '잠식 효과' 발생
+- [32:38](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=1958) 루멘텀 등 AI 하드웨어 및 광학 섹터의 폭발적 수요 → 2028년 물량까지 완판될 정도로 AI 인프라 투자는 여전히 정점
+- [35:29](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=2129) TSMC 실적 호조 및 메모리 반도체 가격 상승세 → 파운드리와 메모리 모두 공급 부족에 따른 마진 확대 지속
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Ojw1oswgZfQ)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Ojw1oswgZfQ_빈난새의-개장전요것만-4월10일)

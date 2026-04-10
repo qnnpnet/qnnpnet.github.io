@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Y2lACR-FIuc)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Y2lACR-FIuc_2008년과는-다릅니다-사모대출-위)0:{"buildId":"1QQMexomLPJjeOKuSCEYy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"2008년과는 다릅니다, 사모대출 위기론 총정리 | 빈난새의 빈틈없이월가","videoId":"Y2lACR-FIuc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Y2lACR-FIuc_2008년과는-다릅니다-사모대출-위)0:{"buildId":"NIC3qYrvLi-20WR172SZq","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"2008년과는 다릅니다, 사모대출 위기론 총정리 | 빈난새의 빈틈없이월가","videoId":"Y2lACR-FIuc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

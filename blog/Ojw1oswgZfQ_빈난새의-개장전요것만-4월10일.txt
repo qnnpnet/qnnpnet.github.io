@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"NIC3qYrvLi-20WR172SZq","c":["","blog","Ojw1oswgZfQ_%EB%B9%88%EB%82%9C%EC%83%88%EC%9D%98-%EA%B0%9C%EC%9E%A5%EC%A0%84%EC%9A%94%EA%B2%83%EB%A7%8C-4%EC%9B%9410%EC%9D%BC"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","Ojw1oswgZfQ_%EB%B9%88%EB%82%9C%EC%83%88%EC%9D%98-%EA%B0%9C%EC%9E%A5%EC%A0%84%EC%9A%94%EA%B2%83%EB%A7%8C-4%EC%9B%9410%EC%9D%BC","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T957,
+# [빈난새의 개장전요것만-4월10일] 앤스로픽 미토스 뭐길래..소프트웨어 또 학살 | 3월 CPI 하회 | 루멘텀 서비스나우 팔로알토 샌디스크 테슬라 나이키 코어위브 인플렉션
+
+## 📋 한 줄 요약
+
+> 3월 CPI가 예상보다 소폭 낮게 발표되었으나 에너지 가격 상승 우려가 여전한 가운데, 앤스로픽의 '미토스' 모델이 제기한 사이버 리스크로 소프트웨어주는 급락하고 하드웨어주는 강세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [03:21](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=201) 3월 미국 CPI 발표 및 시장 반응 → 예상보다 낮았으나 절대 수치가 높아 금리 인하를 확신하기엔 부족함
+- [04:52](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=292) 에너지 및 휘발유 가격 급등의 영향 → 4월 물가 지표에도 부정적인 영향을 미칠 가능성이 큼
+- [08:21](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=501) 미국 내 소비 둔화 조짐 포착 → 필수재 가격 상승으로 인해 비필수재 소비가 줄어드는 양상
+- [14:03](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=843) 이란-미국 협상 기대감과 밴스 부통령의 역할 → 협상단 격상으로 인한 중동 긴장 완화 및 종전 기대감 형성
+- [23:21](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=1401) 앤스로픽 '미토스' 모델의 사이버 리스크 부각 → AI의 급격한 발전이 금융 및 보안 시스템에 실질적 위협이 됨
+- [28:46](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=1726) 소프트웨어 섹터의 투자 의견 하향 및 지출 감소 → 기업들이 AI 외 일반 소프트웨어 예산을 줄이는 '잠식 효과' 발생
+- [32:38](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=1958) 루멘텀 등 AI 하드웨어 및 광학 섹터의 폭발적 수요 → 2028년 물량까지 완판될 정도로 AI 인프라 투자는 여전히 정점
+- [35:29](https://www.youtube.com/watch?v=Ojw1oswgZfQ&t=2129) TSMC 실적 호조 및 메모리 반도체 가격 상승세 → 파운드리와 메모리 모두 공급 부족에 따른 마진 확대 지속
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Ojw1oswgZfQ)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Ojw1oswgZfQ_빈난새의-개장전요것만-4월10일)4:["$","$Ld",null,{"title":"[빈난새의 개장전요것만-4월10일] 앤스로픽 미토스 뭐길래..소프트웨어 또 학살 | 3월 CPI 하회 | 루멘텀 서비스나우 팔로알토 샌디스크 테슬라 나이키 코어위브 인플렉션","videoId":"Ojw1oswgZfQ","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"[빈난새의 개장전요것만-4월10일] 앤스로픽 미토스 뭐길래..소프트웨어 또 학살 | 3월 CPI 하회 | 루멘텀 서비스나우 팔로알토 샌디스크 테슬라 나이키 코어위브 인플렉션"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

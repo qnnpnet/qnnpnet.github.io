@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Sc3kUk0Lcsc)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Sc3kUk0Lcsc_스태그플레이션-비상-걸린-일본--김)0:{"buildId":"1QQMexomLPJjeOKuSCEYy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스태그플레이션 비상 걸린 일본 | 김일규의 도쿄나우","videoId":"Sc3kUk0Lcsc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Sc3kUk0Lcsc_스태그플레이션-비상-걸린-일본--김)0:{"buildId":"NIC3qYrvLi-20WR172SZq","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스태그플레이션 비상 걸린 일본 | 김일규의 도쿄나우","videoId":"Sc3kUk0Lcsc","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

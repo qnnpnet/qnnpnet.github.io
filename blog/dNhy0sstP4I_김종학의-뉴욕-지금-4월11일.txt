@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"KwdtmACNjGljNHhD8gBGT","c":["","blog","dNhy0sstP4I_%EA%B9%80%EC%A2%85%ED%95%99%EC%9D%98-%EB%89%B4%EC%9A%95-%EC%A7%80%EA%B8%88-4%EC%9B%9411%EC%9D%BC"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","dNhy0sstP4I_%EA%B9%80%EC%A2%85%ED%95%99%EC%9D%98-%EB%89%B4%EC%9A%95-%EC%A7%80%EA%B8%88-4%EC%9B%9411%EC%9D%BC","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T7a9,
+# [김종학의 뉴욕, 지금-4월11일] 미-이란 대표단, 11일(토) 파키스탄서 회동 | '트럼프, 중국 강경노선 조용히 폐기' | 팔란티어, TSMC, 코어위브, 알파벳, 블랙스톤
+
+## 📋 한 줄 요약
+
+> 뉴욕 증시는 반도체 강세와 예상보다 낮은 근원 CPI에 안도하며 혼조세를 보였으나, 지정학적 리스크와 기술주 고평가 논란이 공존하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:42](https://www.youtube.com/watch?v=dNhy0sstP4I&t=42) 반도체 섹터가 지탱한 뉴욕 증시 혼조세 → AI 모멘텀이 시장 하방을 지지 중
+- [03:53](https://www.youtube.com/watch?v=dNhy0sstP4I&t=233) 이란-미국 주말 협상 돌입 및 트럼프의 강경 발언 → 지정학적 긴장 완화 기대와 위협이 공존
+- [08:16](https://www.youtube.com/watch?v=dNhy0sstP4I&t=496) 3월 근원 CPI 예상치 하회하며 시장 안도 → 에너지 급등에도 근원 물가 진정은 긍정적
+- [10:48](https://www.youtube.com/watch?v=dNhy0sstP4I&t=648) 트럼프의 팔란티어 찬사와 마이클 버리의 풋옵션 공개 → 정치적 발언과 밸류에이션 우려 사이의 혼란
+- [13:00](https://www.youtube.com/watch?v=dNhy0sstP4I&t=780) 앤스로픽 AI가 소프트웨어 섹터에 미치는 위협 → AI 에이전트 기술이 기존 SW 시장을 잠식할 우려
+- [14:01](https://www.youtube.com/watch?v=dNhy0sstP4I&t=841) TSMC 1분기 매출 35% 급증하며 어닝 서프라이즈 → 글로벌 반도체 수요의 강력한 회복세 증명
+- [16:30](https://www.youtube.com/watch?v=dNhy0sstP4I&t=990) 다음 주 PPI 발표 및 대형 은행주 실적 시즌 시작 → 물가 지표와 기업 실적이 향후 방향성 결정
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=dNhy0sstP4I)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/dNhy0sstP4I_김종학의-뉴욕-지금-4월11일)4:["$","$Ld",null,{"title":"[김종학의 뉴욕, 지금-4월11일] 미-이란 대표단, 11일(토) 파키스탄서 회동 | '트럼프, 중국 강경노선 조용히 폐기' | 팔란티어, TSMC, 코어위브, 알파벳, 블랙스톤","videoId":"dNhy0sstP4I","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"[김종학의 뉴욕, 지금-4월11일] 미-이란 대표단, 11일(토) 파키스탄서 회동 | '트럼프, 중국 강경노선 조용히 폐기' | 팔란티어, TSMC, 코어위브, 알파벳, 블랙스톤"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

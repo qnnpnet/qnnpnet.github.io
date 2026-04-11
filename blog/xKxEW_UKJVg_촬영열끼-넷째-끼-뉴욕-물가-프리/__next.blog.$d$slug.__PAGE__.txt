@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T774,
+# [촬영열끼-넷째 끼] 뉴욕 물가 프리미엄 때문인 걸까, 환율 때문인 걸까 | NYPD
+
+## 📋 한 줄 요약
+
+> 고환율 시대 뉴욕의 살인적인 물가와 미국 경제 생활의 핵심인 신용 점수 시스템의 중요성을 실제 외식 사례를 통해 분석했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:47](https://www.youtube.com/watch?v=xKxEW_UKJVg&t=47) 환율 1,500원 육박에 따른 뉴욕 체류 비용 부담 → 고환율이 해외 소비 심리에 미치는 직접적인 타격
+- [01:48](https://www.youtube.com/watch?v=xKxEW_UKJVg&t=108) 뉴욕 유명 버거 '오슈발'의 고단백 식단 구성 → 야채 없는 극단적 단백질 조합의 미국식 식문화
+- [02:58](https://www.youtube.com/watch?v=xKxEW_UKJVg&t=178) 프리미엄 신용카드 혜택과 식당 예약 시스템 → 미국 내 상류층 서비스 접근을 위한 카드 활용법
+- [03:06](https://www.youtube.com/watch?v=xKxEW_UKJVg&t=186) 미국 사회의 근간인 신용 점수(Credit Score)의 중요성 → 금융 이력이 곧 개인의 능력을 증명하는 시스템
+- [03:34](https://www.youtube.com/watch?v=xKxEW_UKJVg&t=214) 초기 정착자의 낮은 신용 한도($500)와 불편함 → 금융 인프라 부족 시 겪는 소비 활동의 제약
+- [04:24](https://www.youtube.com/watch?v=xKxEW_UKJVg&t=264) 콜라 한 잔에 12달러, 예상치 못한 뉴욕의 고물가 → 메뉴판 가격 외에 숨겨진 높은 음료 및 부가 비용
+- [04:52](https://www.youtube.com/watch?v=xKxEW_UKJVg&t=292) 2인 버거 식사비 약 22만 원(팁 포함) 지출 → 팁 문화와 고환율이 결합된 뉴욕의 실질 외식 물가 체감
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=xKxEW_UKJVg)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/xKxEW_UKJVg_촬영열끼-넷째-끼-뉴욕-물가-프리)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[촬영열끼-넷째 끼] 뉴욕 물가 프리미엄 때문인 걸까, 환율 때문인 걸까 | NYPD","videoId":"xKxEW_UKJVg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

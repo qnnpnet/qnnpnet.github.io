@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=j0aQC1t7p4k)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/j0aQC1t7p4k_김종학의-뉴욕-지금-3월31일)0:{"buildId":"NIC3qYrvLi-20WR172SZq","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월31일] 이란 의회, 해협 통행세 법안 통과 | 바닥 향하는 미 증시 | 종목(모건스탠리, 시스코, CVS, 젯블루, 마이크로소프트, 팔로알토, 카니발)","videoId":"j0aQC1t7p4k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/j0aQC1t7p4k_김종학의-뉴욕-지금-3월31일)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월31일] 이란 의회, 해협 통행세 법안 통과 | 바닥 향하는 미 증시 | 종목(모건스탠리, 시스코, CVS, 젯블루, 마이크로소프트, 팔로알토, 카니발)","videoId":"j0aQC1t7p4k","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

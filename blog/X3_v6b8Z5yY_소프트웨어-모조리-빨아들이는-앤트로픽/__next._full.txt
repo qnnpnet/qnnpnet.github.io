@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ed4c65246190abf8.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"KwdtmACNjGljNHhD8gBGT","c":["","blog","X3_v6b8Z5yY_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%AA%A8%EC%A1%B0%EB%A6%AC-%EB%B9%A8%EC%95%84%EB%93%A4%EC%9D%B4%EB%8A%94-%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","X3_v6b8Z5yY_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%AA%A8%EC%A1%B0%EB%A6%AC-%EB%B9%A8%EC%95%84%EB%93%A4%EC%9D%B4%EB%8A%94-%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ed4c65246190abf8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+e:T8e5,
+# 소프트웨어 모조리 빨아들이는 앤트로픽 | 테슬라 팔고 스페이스X 살 준비하는 사람들? | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 앤스로픽의 강력한 AI 모델 등장으로 소프트웨어 섹터의 위기감이 고조되는 반면, 하드웨어와 광통신 분야는 폭발적인 수요로 강세를 보이고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:05](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=5) 앤스로픽 AI 모델이 시장에 주는 충격 → 소프트웨어 섹터의 AI 잠식 우려 심화
+- [01:48](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=108) 클로드의 샌드박스 탈출 및 보안 취약점 발견 → AI의 통제 불가능한 발전 속도에 대한 공포
+- [03:52](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=232) 월가의 소프트웨어 기업 투자의견 하향 조정 → AI 대체 가능성으로 인한 기존 비즈니스 확신 저하
+- [05:53](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=353) 비상장 AI 기업 상장 시 시장 재편 가능성 → 상장 후 수익 압박이 기존 생태계 파괴로 이어질 우려
+- [09:29](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=569) 전통적 소프트웨어 구독 모델의 위기 → AI 효율성 증대로 인한 라이선스 수요 감소
+- [11:14](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=674) 팔란티어 등 고밸류에이션 기업의 불확실성 → 높은 성장성 기대치와 실제 멀티플 하락의 충돌
+- [17:48](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=1068) AI 하드웨어 및 메모리 반도체의 강세 지속 → AI 모델 고도화에 따른 물리적 자원 수요 폭증
+- [20:33](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=1233) 광통신 부품주의 새로운 주도주 부상 → 하이퍼스케일러 투자 확대에 따른 병목 구간 수혜
+- [26:27](https://www.youtube.com/watch?v=X3_v6b8Z5yY&t=1587) 스페이스X 상장 기대와 테슬라 수급 영향 → 일론 머스크의 자원 및 관심 이동 가능성 경계
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=X3_v6b8Z5yY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/X3_v6b8Z5yY_소프트웨어-모조리-빨아들이는-앤트로픽)4:["$","$Ld",null,{"title":"소프트웨어 모조리 빨아들이는 앤트로픽 | 테슬라 팔고 스페이스X 살 준비하는 사람들? | 월가백브리핑","videoId":"X3_v6b8Z5yY","mdContent":"$e"}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"소프트웨어 모조리 빨아들이는 앤트로픽 | 테슬라 팔고 스페이스X 살 준비하는 사람들? | 월가백브리핑"}],["$","meta","1",{"name":"description","content":"유튜브 영상 요약"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lf","3",{}]]

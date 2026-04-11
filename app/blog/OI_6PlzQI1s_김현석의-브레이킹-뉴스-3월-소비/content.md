@@ -1,0 +1,30 @@
+---
+title: "[김현석의 브레이킹 뉴스] 3월 소비자물가지수(CPI) 발표! 4월 10일 오후 9시 30분 L.I.V.E"
+video_id: "OI_6PlzQI1s"
+tags: "김현석의 브레이킹 뉴스, 김현석, 브레이킹 뉴스, CPI"
+published_at: "2026-04-10T19:29:41Z"
+---
+
+# [김현석의 브레이킹 뉴스] 3월 소비자물가지수(CPI) 발표! 4월 10일 오후 9시 30분 L.I.V.E
+
+## 📋 한 줄 요약
+
+> 3월 헤드라인 CPI가 에너지 가격 폭등으로 크게 올랐으나, 근원 물가가 예상을 하회하며 시장은 안도 섞인 관망세를 보이고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:40](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=40) 유가 및 휘발유 가격 급등의 3월 CPI 반영 예상 → 에너지 충격 가시화
+- [01:48](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=108) 연준 금리 인하의 핵심 지표인 근원 물가 추이 주목 → 정책 결정의 결정적 변수
+- [03:22](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=202) 주거비 하락세와 대비되는 상품 물가의 상승 압력 → 물가 구성 항목 간 불균형
+- [05:00](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=300) 근원 CPI 0.2% 발표로 시장 예상치(0.3%) 하회 → 단기적 시장 안도 요인
+- [05:43](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=343) 고유가 지속 시 근원 물가로의 전이 가능성 우려 → 인플레이션 재발 리스크 상존
+- [07:00](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=420) 식품 및 외식 물가의 예상 밖 보합세 유지 → 장바구니 물가의 의외의 선방
+- [08:59](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=539) 중고차 가격 4개월 연속 하락하며 물가 안정 기여 → 디스인플레이션의 주요 동력
+- [10:08](https://www.youtube.com/watch?v=OI_6PlzQI1s&t=608) 의료비와 중고차 안정에 따른 금리 하락 및 증시 선물 상승 → 지표 발표 직후 긍정적 반응
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=OI_6PlzQI1s)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/OI_6PlzQI1s_김현석의-브레이킹-뉴스-3월-소비)

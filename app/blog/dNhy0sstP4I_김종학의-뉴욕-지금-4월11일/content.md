@@ -1,0 +1,29 @@
+---
+title: "[김종학의 뉴욕, 지금-4월11일] 미-이란 대표단, 11일(토) 파키스탄서 회동 | '트럼프, 중국 강경노선 조용히 폐기' | 팔란티어, TSMC, 코어위브, 알파벳, 블랙스톤"
+video_id: "dNhy0sstP4I"
+tags: "김종학의 뉴욕 지금-4월11일, 김종학, 뉴욕 지금"
+published_at: "2026-04-10T21:21:58Z"
+---
+
+# [김종학의 뉴욕, 지금-4월11일] 미-이란 대표단, 11일(토) 파키스탄서 회동 | '트럼프, 중국 강경노선 조용히 폐기' | 팔란티어, TSMC, 코어위브, 알파벳, 블랙스톤
+
+## 📋 한 줄 요약
+
+> 뉴욕 증시는 반도체 강세와 예상보다 낮은 근원 CPI에 안도하며 혼조세를 보였으나, 지정학적 리스크와 기술주 고평가 논란이 공존하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:42](https://www.youtube.com/watch?v=dNhy0sstP4I&t=42) 반도체 섹터가 지탱한 뉴욕 증시 혼조세 → AI 모멘텀이 시장 하방을 지지 중
+- [03:53](https://www.youtube.com/watch?v=dNhy0sstP4I&t=233) 이란-미국 주말 협상 돌입 및 트럼프의 강경 발언 → 지정학적 긴장 완화 기대와 위협이 공존
+- [08:16](https://www.youtube.com/watch?v=dNhy0sstP4I&t=496) 3월 근원 CPI 예상치 하회하며 시장 안도 → 에너지 급등에도 근원 물가 진정은 긍정적
+- [10:48](https://www.youtube.com/watch?v=dNhy0sstP4I&t=648) 트럼프의 팔란티어 찬사와 마이클 버리의 풋옵션 공개 → 정치적 발언과 밸류에이션 우려 사이의 혼란
+- [13:00](https://www.youtube.com/watch?v=dNhy0sstP4I&t=780) 앤스로픽 AI가 소프트웨어 섹터에 미치는 위협 → AI 에이전트 기술이 기존 SW 시장을 잠식할 우려
+- [14:01](https://www.youtube.com/watch?v=dNhy0sstP4I&t=841) TSMC 1분기 매출 35% 급증하며 어닝 서프라이즈 → 글로벌 반도체 수요의 강력한 회복세 증명
+- [16:30](https://www.youtube.com/watch?v=dNhy0sstP4I&t=990) 다음 주 PPI 발표 및 대형 은행주 실적 시즌 시작 → 물가 지표와 기업 실적이 향후 방향성 결정
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=dNhy0sstP4I)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/dNhy0sstP4I_김종학의-뉴욕-지금-4월11일)

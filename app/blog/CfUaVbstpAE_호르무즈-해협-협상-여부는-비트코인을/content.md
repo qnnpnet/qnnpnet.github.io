@@ -1,0 +1,30 @@
+---
+title: "호르무즈 해협 협상 여부는 비트코인을 보면 안다? | 월가백브리핑"
+video_id: "CfUaVbstpAE"
+tags: "월가백브리핑, 비트코인"
+published_at: "2026-04-12T03:00:14Z"
+---
+
+# 호르무즈 해협 협상 여부는 비트코인을 보면 안다? | 월가백브리핑
+
+## 📋 한 줄 요약
+
+> 중동 지정학적 위기와 트럼프의 종전 압박 속에서 중국의 중재자 역할이 커지며 달러 패권 약화와 글로벌 공급망 및 증시 재편 가능성이 대두되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:54](https://www.youtube.com/watch?v=CfUaVbstpAE&t=54) 트럼프의 조기 종전 의지와 미국의 협상력 약화 → 미국의 중동 영향력 변화 감지
+- [03:21](https://www.youtube.com/watch?v=CfUaVbstpAE&t=201) 네타냐후 총리의 사법 리스크와 전쟁 지속 의지 → 정치적 생존이 전쟁의 주요 변수
+- [05:12](https://www.youtube.com/watch?v=CfUaVbstpAE&t=312) 중국의 중동 중재자 부상과 이란에 대한 영향력 확대 → 미-중 패권 경쟁의 새로운 국면
+- [08:50](https://www.youtube.com/watch?v=CfUaVbstpAE&t=530) 중국의 대만 장악 야욕과 TSMC를 통한 증시 영향력 → 기술 패권이 금융 시장의 핵심 리스크
+- [12:05](https://www.youtube.com/watch?v=CfUaVbstpAE&t=725) 비트코인과 위안화의 결제 수단 활용 및 달러 패권 도전 → 페트로 달러 체제의 균열 가능성
+- [15:17](https://www.youtube.com/watch?v=CfUaVbstpAE&t=917) 미국의 '수에즈 모먼트' 가능성과 리더십 위기 → 글로벌 패권의 역사적 변곡점 시사
+- [19:41](https://www.youtube.com/watch?v=CfUaVbstpAE&t=1181) 미국 소비의 견고함과 경기 침체 우려에 대한 반론 → 미국 경제의 강한 하방 경직성 확인
+- [21:02](https://www.youtube.com/watch?v=CfUaVbstpAE&t=1262) S&P 500 지수의 기술적 반등과 시장 바닥 확인 → 투자 심리 회복 및 긍정적 장세 전망
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=CfUaVbstpAE)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/CfUaVbstpAE_호르무즈-해협-협상-여부는-비트코인을)

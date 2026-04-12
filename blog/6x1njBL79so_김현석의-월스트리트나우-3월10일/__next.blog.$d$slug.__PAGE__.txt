@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=6x1njBL79so)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/6x1njBL79so_김현석의-월스트리트나우-3월10일)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월10일] 유가 120달러가 한계? 열흘 만에 '타코'..트럼프 \"전쟁 거의 끝\"","videoId":"6x1njBL79so","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/6x1njBL79so_김현석의-월스트리트나우-3월10일)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월10일] 유가 120달러가 한계? 열흘 만에 '타코'..트럼프 \"전쟁 거의 끝\"","videoId":"6x1njBL79so","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

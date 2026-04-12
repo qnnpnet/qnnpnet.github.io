@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Vt9Ood2fyLI)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Vt9Ood2fyLI_김현석의-월스트리트나우-4월3일)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월3일] 이란 '통행료 받을 준비' 호재로 받아들인 월가..지상군 투입? 불안한 연휴","videoId":"Vt9Ood2fyLI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Vt9Ood2fyLI_김현석의-월스트리트나우-4월3일)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월3일] 이란 '통행료 받을 준비' 호재로 받아들인 월가..지상군 투입? 불안한 연휴","videoId":"Vt9Ood2fyLI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

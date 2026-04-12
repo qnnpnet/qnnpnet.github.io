@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=szK-b07McEI)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/szK-b07McEI_빈난새의-개장전요것만-4월9일-휴)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월9일] 휴전 불확실성 재부각 | 인텔-구글 협력 | 메타 새 모델 | 아마존 칩 매출 공개 | 코어위브 샌디스크 팔란티어 마벨 TXN 디즈니 데이터독","videoId":"szK-b07McEI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/szK-b07McEI_빈난새의-개장전요것만-4월9일-휴)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월9일] 휴전 불확실성 재부각 | 인텔-구글 협력 | 메타 새 모델 | 아마존 칩 매출 공개 | 코어위브 샌디스크 팔란티어 마벨 TXN 디즈니 데이터독","videoId":"szK-b07McEI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

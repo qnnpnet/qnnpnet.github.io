@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=U2IoDaElQYU)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/U2IoDaElQYU_김현석의-월스트리트나우-4월11일)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월11일] 트럼프도 못 구한 팔란티어..버리 \"엔비디아 풋 추가\", 협상 결과? 휴전 연장(60%)","videoId":"U2IoDaElQYU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/U2IoDaElQYU_김현석의-월스트리트나우-4월11일)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월11일] 트럼프도 못 구한 팔란티어..버리 \"엔비디아 풋 추가\", 협상 결과? 휴전 연장(60%)","videoId":"U2IoDaElQYU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

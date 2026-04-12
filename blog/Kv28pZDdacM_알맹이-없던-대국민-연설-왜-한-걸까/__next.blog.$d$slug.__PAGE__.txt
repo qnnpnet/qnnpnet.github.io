@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Kv28pZDdacM)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Kv28pZDdacM_알맹이-없던-대국민-연설-왜-한-걸까)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"알맹이 없던 대국민 연설 왜 한 걸까 | 이란, 새로운 슈퍼파워 되나? | 월가백브리핑","videoId":"Kv28pZDdacM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Kv28pZDdacM_알맹이-없던-대국민-연설-왜-한-걸까)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"알맹이 없던 대국민 연설 왜 한 걸까 | 이란, 새로운 슈퍼파워 되나? | 월가백브리핑","videoId":"Kv28pZDdacM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

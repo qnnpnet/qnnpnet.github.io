@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=EZkpPiElmoo)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/EZkpPiElmoo_AI-진짜-병목의-열쇠-빛)0:{"buildId":"KwdtmACNjGljNHhD8gBGT","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI 진짜 병목의 열쇠, '빛' | 광학 밸류체인 총정리 | 빈난새의 빈틈없이월가","videoId":"EZkpPiElmoo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/EZkpPiElmoo_AI-진짜-병목의-열쇠-빛)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"AI 진짜 병목의 열쇠, '빛' | 광학 밸류체인 총정리 | 빈난새의 빈틈없이월가","videoId":"EZkpPiElmoo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

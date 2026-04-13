@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=k3LPIC_vgoA)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/k3LPIC_vgoA_김종학의-뉴욕-지금-3월13일)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월13일] 브렌트유 배럴당 100달러 재돌파 | 미 국채금리 급등 | 종목(어도비, 딕스스포팅굿즈, 달러제너럴, 애플, 테슬라, 유아이패스, 코스트코)","videoId":"k3LPIC_vgoA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/k3LPIC_vgoA_김종학의-뉴욕-지금-3월13일)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-3월13일] 브렌트유 배럴당 100달러 재돌파 | 미 국채금리 급등 | 종목(어도비, 딕스스포팅굿즈, 달러제너럴, 애플, 테슬라, 유아이패스, 코스트코)","videoId":"k3LPIC_vgoA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

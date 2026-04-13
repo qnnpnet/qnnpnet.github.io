@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=WfF17fO0DXo)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/WfF17fO0DXo_김종학의-뉴욕-지금-4월7일)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-4월7일] “이란, 하룻밤이면 제거.. 화요일 밤일 수도” | 16일, 케빈 워시 청문회 예정 | 마이크론, 오라클, JP모건, 로빈후드, 메타, 넷플릭스","videoId":"WfF17fO0DXo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/WfF17fO0DXo_김종학의-뉴욕-지금-4월7일)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-4월7일] “이란, 하룻밤이면 제거.. 화요일 밤일 수도” | 16일, 케빈 워시 청문회 예정 | 마이크론, 오라클, JP모건, 로빈후드, 메타, 넷플릭스","videoId":"WfF17fO0DXo","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

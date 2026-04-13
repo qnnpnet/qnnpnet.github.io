@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=XVEPJvk59fM)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/XVEPJvk59fM_4월-15일-이전-종전한다에)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"4월 15일 이전 종전한다\"에 거액을 베팅한 수상한 존재가 있다는데 | 월가백브리핑","videoId":"XVEPJvk59fM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/XVEPJvk59fM_4월-15일-이전-종전한다에)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"4월 15일 이전 종전한다\"에 거액을 베팅한 수상한 존재가 있다는데 | 월가백브리핑","videoId":"XVEPJvk59fM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

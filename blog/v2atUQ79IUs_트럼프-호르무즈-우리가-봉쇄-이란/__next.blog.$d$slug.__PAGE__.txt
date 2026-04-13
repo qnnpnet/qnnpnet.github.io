@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T84c,
+# 트럼프 "호르무즈 우리가 봉쇄" 이란 치는데 한국이 끙끙ㅣ이상은의 워싱턴나우
+
+## 📋 한 줄 요약
+
+> 미국이 이란의 호르무즈 봉쇄에 맞서 역봉쇄 조치를 결정하며 중동 긴장이 고조되는 가운데, 협상 결렬과 유가 시장의 현물-선물 가격 괴리로 인한 경제적 불확실성이 심화되고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:03](https://www.youtube.com/watch?v=v2atUQ79IUs&t=3) 미국의 이란 교역 대상 '역봉쇄' 조치 결정 → 이란의 호르무즈 봉쇄에 맞선 강력한 압박 수단 강구
+- [03:08](https://www.youtube.com/watch?v=v2atUQ79IUs&t=188) 파키스탄에서의 1차 협상 결렬 및 장기화 조짐 → 단기 합의는 실패했으나 차후 협상의 여지는 남겨둔 상태
+- [06:40](https://www.youtube.com/watch?v=v2atUQ79IUs&t=400) 핵 농축 주권 및 호르무즈 통행세 등 핵심 쟁점 간극 → 서로 양보하기 어려운 국가적 안보와 경제적 이권이 충돌
+- [09:53](https://www.youtube.com/watch?v=v2atUQ79IUs&t=593) 트럼프의 강경한 승리 선언과 인프라 폭격 위협 → 이란의 협상 테이블 복귀를 위한 고강도 압박 전략 지속
+- [16:27](https://www.youtube.com/watch?v=v2atUQ79IUs&t=987) 이란 최고 지도자 모즈타바 하메이의 건강 이상설 확산 → 이란 내부 리더십 공백으로 인한 통제력 약화 가능성 제기
+- [18:44](https://www.youtube.com/watch?v=v2atUQ79IUs&t=1124) 러시아와 중국의 이란 지원 및 대리전 양상 → 강대국들의 개입으로 인해 분쟁이 국제적인 진영 싸움으로 번질 우려
+- [21:25](https://www.youtube.com/watch?v=v2atUQ79IUs&t=1285) 유가 시장의 극심한 백워데이션(현물-선물 가격 괴리) 발생 → 실물 원유 공급 부족으로 현물 가격이 폭등하며 실물 경제 타격 가시화
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=v2atUQ79IUs)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/v2atUQ79IUs_트럼프-호르무즈-우리가-봉쇄)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"트럼프 \"호르무즈 우리가 봉쇄\" 이란 치는데 한국이 끙끙ㅣ이상은의 워싱턴나우","videoId":"v2atUQ79IUs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

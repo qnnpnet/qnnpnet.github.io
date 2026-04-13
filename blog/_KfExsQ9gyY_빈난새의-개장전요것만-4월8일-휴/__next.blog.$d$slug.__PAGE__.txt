@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=_KfExsQ9gyY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/_KfExsQ9gyY_빈난새의-개장전요것만-4월8일-휴)0:{"buildId":"PgicBHWfBnPMnp60mCsM-","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월8일] 휴전 후 JPM \"전술적 강세 복귀\" 골드만 \"추격매수 신중\" | 실적시즌 기대주 | 델타항공 마이크론 인텔 루멘텀 캐터필러 리바이스 아마존 씨티","videoId":"_KfExsQ9gyY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/_KfExsQ9gyY_빈난새의-개장전요것만-4월8일-휴)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월8일] 휴전 후 JPM \"전술적 강세 복귀\" 골드만 \"추격매수 신중\" | 실적시즌 기대주 | 델타항공 마이크론 인텔 루멘텀 캐터필러 리바이스 아마존 씨티","videoId":"_KfExsQ9gyY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

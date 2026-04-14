@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=WxsTQ7RlMX4)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/WxsTQ7RlMX4_트리플-약세-빠진-일본전쟁-직격)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"‘트리플 약세’ 빠진 일본…전쟁 직격탄 | 김일규의 도쿄나우","videoId":"WxsTQ7RlMX4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/WxsTQ7RlMX4_트리플-약세-빠진-일본전쟁-직격)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"‘트리플 약세’ 빠진 일본…전쟁 직격탄 | 김일규의 도쿄나우","videoId":"WxsTQ7RlMX4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

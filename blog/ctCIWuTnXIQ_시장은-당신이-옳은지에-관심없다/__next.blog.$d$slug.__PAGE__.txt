@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T89b,
+# "시장은 당신이 옳은지에 관심없다" 시장이 내 생각과 다르게 움직일때 | 빈난새의 빈틈없이월가
+
+## 📋 한 줄 요약
+
+> 블랙록의 릭 리더는 시장의 비합리성을 인정하고 본인의 논리에 매몰되기보다 유연한 포지션 관리와 철저한 리서치를 통해 살아남는 것이 투자 성공의 핵심이라고 강조합니다.
+
+## 🧠 핵심 포인트
+
+- [00:45](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=45) 월가의 증시 바닥론과 낙관론 확산 → 전쟁 불확실성보다 기업 실적과 펀더멘탈에 집중하는 분위기
+- [02:21](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=141) 블랙록 채권 CIO 릭 리더의 등장 → 2.7조 달러를 운용하는 월가 거물의 투자 지혜 공유
+- [05:04](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=304) 시장은 투자자의 정답 여부에 관심이 없음 → 옳음을 증명하기보다 수익을 내고 살아남는 것이 본질
+- [06:23](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=383) 테슬라 사례로 본 리서치와 경험의 중요성 → 직접 제품을 체험하고 구조적 사고를 통해 확신을 구축
+- [10:11](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=611) 비합리적인 시장에서의 생존 전략 → 시장은 생각보다 오래 비합리적일 수 있으므로 자본 관리가 필수
+- [13:02](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=782) 펠로톤 투자 실패를 통한 손절매의 교훈 → 확신이 틀렸을 때 포지션을 축소하는 것은 건강한 행동
+- [15:40](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=940) 기업 경영진의 적응력과 운영 능력 중시 → 빠른 환경 변화 속에서 CEO와 팀의 역량이 투자 결정의 핵심
+- [21:01](https://www.youtube.com/watch?v=ctCIWuTnXIQ&t=1261) 가치 평가만큼 중요한 투자 심리(센티먼트) → 내재 가치뿐 아니라 대중의 심리 변화를 읽는 안목이 필요
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=ctCIWuTnXIQ)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ctCIWuTnXIQ_시장은-당신이-옳은지에-관심없다)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"시장은 당신이 옳은지에 관심없다\" 시장이 내 생각과 다르게 움직일때 | 빈난새의 빈틈없이월가","videoId":"ctCIWuTnXIQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

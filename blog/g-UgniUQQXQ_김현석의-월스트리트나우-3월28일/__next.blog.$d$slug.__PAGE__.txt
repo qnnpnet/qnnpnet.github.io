@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=g-UgniUQQXQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/g-UgniUQQXQ_김현석의-월스트리트나우-3월28일)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월28일] 중국 배도 막은 이란..\"목, 금요일 피해라\", '미저러블 7' 또 급락","videoId":"g-UgniUQQXQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/g-UgniUQQXQ_김현석의-월스트리트나우-3월28일)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월28일] 중국 배도 막은 이란..\"목, 금요일 피해라\", '미저러블 7' 또 급락","videoId":"g-UgniUQQXQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

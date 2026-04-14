@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=wO7rYH76zVQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/wO7rYH76zVQ_김현석의-월스트리트나우-3월5일)0:{"buildId":"xtgYJJu9YnPH0t_eqVbKZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월5일] \"유가 정점 찍으면 기술주부터 뛴다\"..빅테크, SW 폭등","videoId":"wO7rYH76zVQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/wO7rYH76zVQ_김현석의-월스트리트나우-3월5일)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월5일] \"유가 정점 찍으면 기술주부터 뛴다\"..빅테크, SW 폭등","videoId":"wO7rYH76zVQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

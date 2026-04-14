@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8e5,
+# [김현석의 월스트리트나우-4월14일] '봉쇄는 협상용'..나스닥 9일째 상승, 블랙록 "미 주식, 비중확대"
+
+## 📋 한 줄 요약
+
+> 미국과 이란의 협상 재개 기대감과 기업들의 견조한 실적 발표에 힘입어 뉴욕 증시가 전쟁 이전 수준을 회복하며 일제히 상승했습니다.
+
+## 🧠 핵심 포인트
+
+- [00:43](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=43) 미국-이란 첫 협상 노딜 종료 및 호르무즈 해협 봉쇄 발표 → 지정학적 긴장 고조로 유가 급등 및 장초반 증시 압박
+- [01:11](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=71) 2차 협상 가능성 보도에 증시 반등 및 유가 상승폭 축소 → 군사적 충돌보다는 외교적 해결 기대감이 시장에 반영
+- [04:53](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=293) 미국의 우라늄 농축 제한 조건 완화 등 실질적 진전 포착 → 양측의 협상 의지가 확인되며 시장 불안 심리 완화
+- [10:32](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=632) 미국 3월 기존 주택 판매가 9개월 만에 최저치 기록 → 고금리와 전쟁 여파로 인한 부동산 시장 위축 확인
+- [12:07](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=727) 모건스탠리 등 주요 투자은행의 증시 바닥론 제기 → 악재가 이미 선반영되었다는 판단하에 저가 매수세 유입
+- [14:20](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=860) 블랙록, 미국 주식 투자의견을 '중립'에서 '비중확대'로 상향 → 전쟁 확전 가능성 저하와 견조한 기업 실적에 주목
+- [15:11](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=911) 골드만삭스, 어닝 서프라이즈 기록했으나 주가는 하락 → 채권 트레이딩 부진과 대손충당금 증가에 대한 우려 반영
+- [22:42](https://www.youtube.com/watch?v=AQcT8LzdAL8&t=1362) 지난주 급락했던 소프트웨어 및 AI 관련주 강력 반등 → 과도한 경쟁 우려 해소와 AI 수요 지속 기대감 작용
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=AQcT8LzdAL8)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/AQcT8LzdAL8_김현석의-월스트리트나우-4월14일)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월14일] '봉쇄는 협상용'..나스닥 9일째 상승, 블랙록 \"미 주식, 비중확대\"","videoId":"AQcT8LzdAL8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

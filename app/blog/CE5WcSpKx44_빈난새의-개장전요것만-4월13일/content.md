@@ -1,0 +1,31 @@
+---
+title: "[빈난새의 개장전요것만-4월13일] \"협상 끝 아니다\"..역봉쇄 목적 | 실적, 포지셔닝 개선 | 소프트웨어 반등 | 골드만삭스 버티브 샌디스크 테슬라 로블록스 RVMD AAOI"
+video_id: "CE5WcSpKx44"
+tags: "빈난새의 개장전요것만-4월13일, 빈난새, 개장전요것만"
+published_at: "2026-04-13T14:36:19Z"
+---
+
+# [빈난새의 개장전요것만-4월13일] "협상 끝 아니다"..역봉쇄 목적 | 실적, 포지셔닝 개선 | 소프트웨어 반등 | 골드만삭스 버티브 샌디스크 테슬라 로블록스 RVMD AAOI
+
+## 📋 한 줄 요약
+
+> 지정학적 긴장과 유가 상승에도 불구하고 기업 실적에 대한 기대감과 낙관론이 시장의 하방 경직성을 지지하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:42](https://www.youtube.com/watch?v=CE5WcSpKx44&t=42) 주말 간 뉴스 영향으로 3대 지수 하락 출발 후 낙폭 축소 → 악재에도 불구하고 시장의 복원력이 확인됨
+- [01:31](https://www.youtube.com/watch?v=CE5WcSpKx44&t=91) 유가 100달러 재돌파 및 원자재 가격 변동성 확대 → 인플레이션 우려가 다시 고개를 드는 국면
+- [06:42](https://www.youtube.com/watch?v=CE5WcSpKx44&t=402) 미군의 호르무즈 해협 역봉쇄 작전 개시 및 중국 압박 → 에너지 패권을 둘러싼 고도의 정치적 수싸움
+- [11:05](https://www.youtube.com/watch?v=CE5WcSpKx44&t=665) 미국-이란 협상 교착 상태이나 외교적 해법은 열려 있음 → 완전한 결렬이 아니라는 점이 시장에 안도감 부여
+- [21:10](https://www.youtube.com/watch?v=CE5WcSpKx44&t=1270) 시장에 여전히 존재하는 '저가 매수(Buy the dip)' 낙관론 → 기업 이익 성장세가 매크로 불안을 이길 것이라는 믿음
+- [30:22](https://www.youtube.com/watch?v=CE5WcSpKx44&t=1822) 골드만삭스 실적 발표와 신용 손실 충당금 증가 → 고금리 장기화에 따른 부실 우려가 지표로 나타남
+- [36:24](https://www.youtube.com/watch?v=CE5WcSpKx44&t=2184) AI 데이터 센터 프로젝트의 공급 병목 및 지연 가능성 → 인프라와 전력 공급이 수요 속도를 못 따라가는 상황
+- [50:26](https://www.youtube.com/watch?v=CE5WcSpKx44&t=3026) 샌디스크의 나스닥 100 지수 편입 및 AI 하드웨어 강세 → 반도체 중심의 주도주 재편 현상 가속화
+- [52:25](https://www.youtube.com/watch?v=CE5WcSpKx44&t=3145) 테슬라 FSD 네덜란드 승인 및 유럽 확장 기대감 → 자율주행 소프트웨어의 글로벌 상용화 진전 신호
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=CE5WcSpKx44)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/CE5WcSpKx44_빈난새의-개장전요것만-4월13일)

@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=OI_6PlzQI1s)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/OI_6PlzQI1s_김현석의-브레이킹-뉴스-3월-소비)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 브레이킹 뉴스] 3월 소비자물가지수(CPI) 발표! 4월 10일 오후 9시 30분 L.I.V.E","videoId":"OI_6PlzQI1s","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/OI_6PlzQI1s_김현석의-브레이킹-뉴스-3월-소비)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 브레이킹 뉴스] 3월 소비자물가지수(CPI) 발표! 4월 10일 오후 9시 30분 L.I.V.E","videoId":"OI_6PlzQI1s","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

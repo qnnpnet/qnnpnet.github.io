@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ulENBpdnl_E)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ulENBpdnl_E_빈난새의-개장전요것만-3월24일)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월24일] 아슬아슬 휴전 기대 | 아폴로 또 사모대출 환매 제한 | 럽너 \"숏스퀴즈 가능성\" | 넷기어 루멘텀 테슬라 제프리스 랄프로렌 에스티로더 써클","videoId":"ulENBpdnl_E","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ulENBpdnl_E_빈난새의-개장전요것만-3월24일)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월24일] 아슬아슬 휴전 기대 | 아폴로 또 사모대출 환매 제한 | 럽너 \"숏스퀴즈 가능성\" | 넷기어 루멘텀 테슬라 제프리스 랄프로렌 에스티로더 써클","videoId":"ulENBpdnl_E","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

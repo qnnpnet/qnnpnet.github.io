@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=xKxEW_UKJVg)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/xKxEW_UKJVg_촬영열끼-넷째-끼-뉴욕-물가-프리)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[촬영열끼-넷째 끼] 뉴욕 물가 프리미엄 때문인 걸까, 환율 때문인 걸까 | NYPD","videoId":"xKxEW_UKJVg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/xKxEW_UKJVg_촬영열끼-넷째-끼-뉴욕-물가-프리)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[촬영열끼-넷째 끼] 뉴욕 물가 프리미엄 때문인 걸까, 환율 때문인 걸까 | NYPD","videoId":"xKxEW_UKJVg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

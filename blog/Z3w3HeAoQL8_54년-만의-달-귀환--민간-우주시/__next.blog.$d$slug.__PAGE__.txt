@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T90b,
+# 54년 만의 달 귀환 … 민간 우주시대 열렸다 | 김인엽의 실리콘밸리나우
+
+## 📋 한 줄 요약
+
+> 54년 만의 유인 달 탐사 프로젝트인 아르테미스 2호의 성공은 민간 주도의 우주 경제 시대 개막을 알리며, 장기적 관점의 투자 가치를 시사합니다.
+
+## 🧠 핵심 포인트
+
+- [00:22](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=22) 아르테미스 2호 성공과 민간 주도 우주 산업 전환 → 정부 주도에서 민간 기업 중심으로 우주 패러다임 변화
+- [02:52](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=172) 아폴로 계획과 다른 아르테미스의 목표: 인류 터전 확장 → 단순 방문을 넘어 달을 인류 거주 및 전초 기지로 활용하려는 의도
+- [04:10](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=250) 내열성 및 생명 유지 시스템 등 핵심 기술 검증 완료 → 유인 우주 비행의 안전성과 장기 체류 가능성 데이터 확보
+- [07:25](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=445) 스페이스X와 블루 오리진의 달 착륙선 개발 경쟁 → 민간 기업 간의 기술 혁신이 우주 탐사 비용 절감 기대
+- [09:32](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=572) 로키드 마틴 등 전통 방산 기업의 우주 모듈 제작 참여 → 기존 방산 기술의 우주 산업 전이 및 미래 성장 동력 확보
+- [11:55](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=715) 카르만 홀딩스 등 실질적 우주 매출 비중이 높은 부품사 부각 → 대형주 대비 우주 산업 노출도가 높은 틈새 투자처 존재
+- [16:41](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=1001) 한국 우주 산업의 전략: 로보틱스 및 센서 분야 특화 제언 → 강점이 있는 특정 기술 분야에 집중하여 글로벌 공급망 진입 필요
+- [18:15](https://www.youtube.com/watch?v=Z3w3HeAoQL8&t=1095) 우주 산업 투자: 단기 수익보다 먼 미래를 준비하는 관점 → 변동성에 일희일비하기보다 장기적 성장 가치에 주목해야 함
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=Z3w3HeAoQL8)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Z3w3HeAoQL8_54년-만의-달-귀환--민간-우주시)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"54년 만의 달 귀환 … 민간 우주시대 열렸다 | 김인엽의 실리콘밸리나우","videoId":"Z3w3HeAoQL8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

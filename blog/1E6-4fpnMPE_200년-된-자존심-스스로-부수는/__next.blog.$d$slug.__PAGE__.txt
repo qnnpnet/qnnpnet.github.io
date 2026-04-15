@@ -23,5 +23,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=1E6-4fpnMPE)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"200년 된 자존심, 스스로 부수는 중..재고폭탄에 세대교체까지, 미국 위스키 산업이 무너지고 있다 | 바이아메리카 in 뉴욕","videoId":"1E6-4fpnMPE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=1E6-4fpnMPE)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"200년 된 자존심, 스스로 부수는 중..재고폭탄에 세대교체까지, 미국 위스키 산업이 무너지고 있다 | 바이아메리카 in 뉴욕","videoId":"1E6-4fpnMPE","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=31XMe1pOyxk)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/31XMe1pOyxk_일본-존립-위기-사태-검토하나)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"일본, 존립 위기 사태 검토하나 | 김일규의 도쿄나우","videoId":"31XMe1pOyxk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/31XMe1pOyxk_일본-존립-위기-사태-검토하나)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"일본, 존립 위기 사태 검토하나 | 김일규의 도쿄나우","videoId":"31XMe1pOyxk","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

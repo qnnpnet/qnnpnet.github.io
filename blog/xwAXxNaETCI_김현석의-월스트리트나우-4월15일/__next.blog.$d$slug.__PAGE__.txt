@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T8a3,
+# [김현석의 월스트리트나우-4월15일] "전쟁 끝났다"는 시장..7월까지 '슈거 하이'?, 모멘텀에 몰리는 돈
+
+## 📋 한 줄 요약
+
+> 미국-이란 평화 협상 진전과 예상보다 낮은 PPI 발표로 전쟁 및 인플레이션 우려가 완화되면서, S&P 500이 사상 최고치에 근접하고 기술주 중심의 강력한 랠리가 나타났습니다.
+
+## 🧠 핵심 포인트
+
+- [00:53](https://www.youtube.com/watch?v=xwAXxNaETCI&t=53) 3월 생산자물가지수(PPI) 예상치 하회 → 인플레이션 압력 완화로 시장 안도감 확산
+- [01:21](https://www.youtube.com/watch?v=xwAXxNaETCI&t=81) S&P 500 지수 사상 최고치 0.2% 근접 → 전쟁 리스크 해소에 따른 강력한 복원력 확인
+- [02:41](https://www.youtube.com/watch?v=xwAXxNaETCI&t=161) 미국과 이란의 평화 협상 진전 및 종전 기대감 → 지정학적 리스크 감소가 유가 급락과 증시 상승 견인
+- [08:43](https://www.youtube.com/watch?v=xwAXxNaETCI&t=523) 차기 연준 의장 후보 케빈 워시 인준 청문회 개최 예정 → 파월 이후의 통화 정책 방향성에 대한 시장 관심 증폭
+- [10:06](https://www.youtube.com/watch?v=xwAXxNaETCI&t=606) JP모건 등 주요 은행권의 양호한 1분기 실적 발표 → 미국 경제가 여전히 건재함을 증명하는 지표로 작용
+- [13:37](https://www.youtube.com/watch?v=xwAXxNaETCI&t=817) 시티그룹, 미국 주식 투자의견 '비중확대'로 상향 → AI 및 기술주 중심의 펀더멘털 신뢰도 상승
+- [16:45](https://www.youtube.com/watch?v=xwAXxNaETCI&t=1005) 매그니피센트 7(M7) 종목 중심의 기술주 랠리 → 조정 이후 낮아진 밸류에이션이 매수세 유입 촉발
+- [18:13](https://www.youtube.com/watch?v=xwAXxNaETCI&t=1093) AI 컴퓨팅 파워 부족 우려에 따른 데이터 센터 및 반도체주 급등 → 오라클, 마이크론 등 인프라 관련주의 추가 성장 모멘텀 확보
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=xwAXxNaETCI)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/xwAXxNaETCI_김현석의-월스트리트나우-4월15일)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월15일] \"전쟁 끝났다\"는 시장..7월까지 '슈거 하이'?, 모멘텀에 몰리는 돈","videoId":"xwAXxNaETCI","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

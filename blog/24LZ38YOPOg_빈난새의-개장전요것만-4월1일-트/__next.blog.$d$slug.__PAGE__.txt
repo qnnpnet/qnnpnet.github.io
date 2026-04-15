@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=24LZ38YOPOg)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/24LZ38YOPOg_빈난새의-개장전요것만-4월1일-트)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월1일] 트럼프 \"이란 합의 없어도 떠난다\" | 경제지표 견조 | 메모리 급락후 전망 | 나이키 마이크론 마벨 포엣 디즈니 보잉 마이크로소프트 유헬스","videoId":"24LZ38YOPOg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/24LZ38YOPOg_빈난새의-개장전요것만-4월1일-트)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월1일] 트럼프 \"이란 합의 없어도 떠난다\" | 경제지표 견조 | 메모리 급락후 전망 | 나이키 마이크론 마벨 포엣 디즈니 보잉 마이크로소프트 유헬스","videoId":"24LZ38YOPOg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

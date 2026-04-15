@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=iY_ScxdnnFM)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/iY_ScxdnnFM_김현석의-월스트리트나우-3월31일)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월31일] 반도체 폭락 대처법..\"엄청난 매수 기회\" vs \"트럼프 믿는 건 위험\"","videoId":"iY_ScxdnnFM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/iY_ScxdnnFM_김현석의-월스트리트나우-3월31일)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월31일] 반도체 폭락 대처법..\"엄청난 매수 기회\" vs \"트럼프 믿는 건 위험\"","videoId":"iY_ScxdnnFM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

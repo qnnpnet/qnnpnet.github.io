@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=wlaqqN4fM_g)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/wlaqqN4fM_g_김현석의-월스트리트나우-2월26일)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월26일] 'AI 공포' 바닥쳤나..메모리 폭등에도 엔비디아 마진 75%↑","videoId":"wlaqqN4fM_g","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/wlaqqN4fM_g_김현석의-월스트리트나우-2월26일)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월26일] 'AI 공포' 바닥쳤나..메모리 폭등에도 엔비디아 마진 75%↑","videoId":"wlaqqN4fM_g","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=0Qmh8y_fvvA)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/0Qmh8y_fvvA_지금-유가만큼-중요한-금리가-급락한)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"지금 유가만큼 중요한 금리가 급락한 이유 | 인플레 공포에서 벗어난 시장 | 빈난새의 빈틈없이월가","videoId":"0Qmh8y_fvvA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/0Qmh8y_fvvA_지금-유가만큼-중요한-금리가-급락한)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"지금 유가만큼 중요한 금리가 급락한 이유 | 인플레 공포에서 벗어난 시장 | 빈난새의 빈틈없이월가","videoId":"0Qmh8y_fvvA","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

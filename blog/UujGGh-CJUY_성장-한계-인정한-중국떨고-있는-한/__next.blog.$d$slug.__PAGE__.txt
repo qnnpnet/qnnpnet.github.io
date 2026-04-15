@@ -24,5 +24,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=UujGGh-CJUY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/UujGGh-CJUY_성장-한계-인정한-중국떨고-있는-한)0:{"buildId":"bXENrFoQl3QOU_alkptps","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"성장 한계 인정한 중국…떨고 있는 한국, 왜? | 김은정의 베이징나우","videoId":"UujGGh-CJUY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/UujGGh-CJUY_성장-한계-인정한-중국떨고-있는-한)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"성장 한계 인정한 중국…떨고 있는 한국, 왜? | 김은정의 베이징나우","videoId":"UujGGh-CJUY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

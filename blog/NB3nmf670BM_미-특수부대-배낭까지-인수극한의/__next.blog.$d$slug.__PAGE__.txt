@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=NB3nmf670BM)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/NB3nmf670BM_미-특수부대-배낭까지-인수극한의)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"미 특수부대 배낭까지 인수..극한의 장비만 골라 만드는 낚시 광인의 기업 | 바이아메리카 in 뉴욕","videoId":"NB3nmf670BM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/NB3nmf670BM_미-특수부대-배낭까지-인수극한의)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"미 특수부대 배낭까지 인수..극한의 장비만 골라 만드는 낚시 광인의 기업 | 바이아메리카 in 뉴욕","videoId":"NB3nmf670BM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

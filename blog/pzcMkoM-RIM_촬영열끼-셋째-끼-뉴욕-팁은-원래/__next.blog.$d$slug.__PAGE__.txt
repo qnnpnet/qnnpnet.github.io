@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=pzcMkoM-RIM)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/pzcMkoM-RIM_촬영열끼-셋째-끼-뉴욕-팁은-원래)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[촬영열끼-셋째 끼] 뉴욕 팁은 원래 다 이런가요? | NYPD","videoId":"pzcMkoM-RIM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/pzcMkoM-RIM_촬영열끼-셋째-끼-뉴욕-팁은-원래)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[촬영열끼-셋째 끼] 뉴욕 팁은 원래 다 이런가요? | NYPD","videoId":"pzcMkoM-RIM","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

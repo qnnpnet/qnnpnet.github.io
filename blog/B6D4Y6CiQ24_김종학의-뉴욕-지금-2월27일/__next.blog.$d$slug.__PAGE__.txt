@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=B6D4Y6CiQ24)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/B6D4Y6CiQ24_김종학의-뉴욕-지금-2월27일)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월27일] 엔비디아, 성공의 역설 | “AI의 일자리 파괴 논리 지나치다\" | 종목(세일즈포스, 알파벳, AMD, 델, 캐나다왕립은행, 와비파커, WBD)","videoId":"B6D4Y6CiQ24","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/B6D4Y6CiQ24_김종학의-뉴욕-지금-2월27일)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월27일] 엔비디아, 성공의 역설 | “AI의 일자리 파괴 논리 지나치다\" | 종목(세일즈포스, 알파벳, AMD, 델, 캐나다왕립은행, 와비파커, WBD)","videoId":"B6D4Y6CiQ24","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

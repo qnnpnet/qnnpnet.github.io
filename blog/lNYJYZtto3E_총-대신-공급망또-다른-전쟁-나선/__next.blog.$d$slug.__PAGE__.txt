@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=lNYJYZtto3E)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/lNYJYZtto3E_총-대신-공급망또-다른-전쟁-나선)0:{"buildId":"MdTXHN3SHbOhdCZ4cP4HH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"총 대신 공급망…또 다른 전쟁 나선 중국 | 김은정의 베이징나우","videoId":"lNYJYZtto3E","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/lNYJYZtto3E_총-대신-공급망또-다른-전쟁-나선)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"총 대신 공급망…또 다른 전쟁 나선 중국 | 김은정의 베이징나우","videoId":"lNYJYZtto3E","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

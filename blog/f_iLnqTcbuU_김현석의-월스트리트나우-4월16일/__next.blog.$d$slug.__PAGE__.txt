@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Ta6f,
+# [김현석의 월스트리트나우-4월16일] S&P, 나스닥 신기록.."테크가 높게 이끌 것", Fed도 확인한 '낙관론'
+
+## 📋 한 줄 요약
+
+> 중동 전쟁 종식 기대감과 빅테크 기업들의 강력한 AI 수요 및 실적 기대감에 힘입어 S&P 500 지수가 사상 처음으로 7,000선을 돌파하며 기술주 중심의 랠리가 이어졌습니다.
+
+## 🧠 핵심 포인트
+
+- [01:06](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=66) S&P 500 지수 7,000 돌파 및 나스닥 11거래일 연속 상승 → 기술주 중심의 강력한 매수세로 사상 최고치 경신
+- [02:34](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=154) 트럼프 전 대통령의 중동 전쟁 종식 발언 및 유가 안정 → 지정학적 리스크 완화가 증시 상승의 촉매제로 작용
+- [06:16](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=376) 3월 수입 물가 상승 및 주요 경제 지표 발표 → 예상보다 낮은 물가 상승폭에 시장은 안도하는 모습
+- [08:11](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=491) 연준 베이지북 발표를 통한 경제 활동 개선 확인 → 미국 경제의 견고한 회복력이 데이터로 입증됨
+- [10:07](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=607) 뱅크오브아메리카 실적 호조 및 소비 건전성 확인 → 고금리 상황에서도 미국 소비자의 구매력이 유지됨
+- [10:37](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=637) 트럼프의 파월 의장 해임 위협 및 연준 독립성 논란 → 정치적 외압이 향후 통화 정책의 불확실성 요인으로 부상
+- [12:59](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=779) 세금 납부 마감일(Tax Day) 이후 유동성 축소 우려 → 연준의 국채 매입 축소와 맞물려 시장 유동성 변화 주시 필요
+- [15:06](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=906) 테슬라, 애플 등 빅테크(Mag 7) 주식의 동반 급등 → 실적 발표를 앞두고 밸류에이션 매력과 기대감이 집중됨
+- [17:36](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=1056) 우버의 AI 예산 조기 소진 등 폭발적인 AI 수요 확인 → AI 투자가 단순한 거품이 아닌 실질적 수요로 연결됨
+- [23:34](https://www.youtube.com/watch?v=f_iLnqTcbuU&t=1414) 소프트웨어 업종의 강력한 반등 및 순환매 양상 → 반도체에 이어 소프트웨어로 AI 랠리가 확산되는 흐름
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=f_iLnqTcbuU)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/f_iLnqTcbuU_김현석의-월스트리트나우-4월16일)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-4월16일] S&P, 나스닥 신기록..\"테크가 높게 이끌 것\", Fed도 확인한 '낙관론'","videoId":"f_iLnqTcbuU","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

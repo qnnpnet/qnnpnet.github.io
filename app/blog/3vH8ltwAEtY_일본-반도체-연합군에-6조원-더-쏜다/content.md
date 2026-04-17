@@ -1,0 +1,30 @@
+---
+title: "일본 반도체 연합군에 6조원 더 쏜다 | 김일규의 도쿄나우"
+video_id: "3vH8ltwAEtY"
+tags: "김일규, 도쿄나우"
+published_at: "2026-04-17T10:00:07Z"
+---
+
+# 일본 반도체 연합군에 6조원 더 쏜다 | 김일규의 도쿄나우
+
+## 📋 한 줄 요약
+
+> 일본 정부는 반도체 부활을 위해 파격적인 보조금을 투입하는 동시에, 만화·애니메이션 등 콘텐츠 산업을 자동차 산업 규모의 핵심 수출 동력으로 육성하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:03](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=3) 일본 정부, 자국 반도체 연합군 라피더스에 6조 원 추가 지원 → 반도체 패권 탈환을 위한 국가적 총력전
+- [01:13](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=73) 라피더스, 전·후공정 일관 생산 체계 구축 및 2나노 양산 속도 → 기술 격차 해소를 위한 공격적 공정 통합
+- [02:17](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=137) 후지쓰·IBM 등 고객사 확보를 위한 정부 차원의 재정 지원 → 생산뿐만 아니라 수요처까지 직접 챙기는 생태계 전략
+- [04:02](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=242) TSMC 구마모토 공장, 일본 최초 3나노 반도체 양산 계획 → 해외 선두 기업 유치를 통한 기술 전수 및 클러스터 활성화
+- [05:31](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=331) 한국 반도체 정책에 대한 경계 및 일본의 유연한 보조금 정책 → 규제와 특혜 프레임에 갇힌 한국에 던지는 시사점
+- [06:31](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=391) 만화 '원피스'를 활용한 구마모토 지진 피해 지역 재건 성공 → 강력한 IP가 지역 경제와 관광을 살리는 사례
+- [08:33](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=513) '귀멸의 칼날' 흥행과 소니 그룹의 엔터테인먼트 중심 사업 재편 → 제조업에서 콘텐츠 지식재산권(IP) 기업으로의 성공적 변신
+- [09:51](https://www.youtube.com/watch?v=3vH8ltwAEtY&t=591) 신 쿨재팬 전략, 2033년 콘텐츠 수출 20조 엔 목표 → 콘텐츠를 자동차에 버금가는 차세대 국가 기간산업으로 육성
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=3vH8ltwAEtY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/3vH8ltwAEtY_일본-반도체-연합군에-6조원-더-쏜다)

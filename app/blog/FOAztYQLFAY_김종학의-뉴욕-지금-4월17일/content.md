@@ -1,0 +1,31 @@
+---
+title: "[김종학의 뉴욕, 지금-4월17일] 트럼프 '이란과 주말 회담 할 수도' | 넷플릭스, TSMC, 세일즈포스, 페이팔, 애플, 알파벳, 코어위브, 펩시코, US뱅코프, 보잉, 코닝"
+video_id: "FOAztYQLFAY"
+tags: "김종학의 뉴욕 지금-4월17일, 김종학, 뉴욕 지금"
+published_at: "2026-04-16T21:18:54Z"
+---
+
+# [김종학의 뉴욕, 지금-4월17일] 트럼프 '이란과 주말 회담 할 수도' | 넷플릭스, TSMC, 세일즈포스, 페이팔, 애플, 알파벳, 코어위브, 펩시코, US뱅코프, 보잉, 코닝
+
+## 📋 한 줄 요약
+
+> 뉴욕 증시는 중동 긴장 완화 기대감에 S&P 500이 사상 최고치를 경신했으나, TSMC와 넷플릭스는 실적 발표 후 차익 실현과 경영진 변화로 인해 주가가 엇갈렸습니다.
+
+## 🧠 핵심 포인트
+
+- [00:39](https://www.youtube.com/watch?v=FOAztYQLFAY&t=39) S&P 500 사상 최고치 경신 및 나스닥 12일 연속 상승 → 인플레이션 우려에도 불구하고 전쟁 완화 기대가 시장을 주도함
+- [03:18](https://www.youtube.com/watch?v=FOAztYQLFAY&t=198) 트럼프 대통령의 이란 휴전 가능성 언급 및 중동 긴장 완화 기대 → 지정학적 리스크 감소가 시장의 안도 랠리를 이끄는 핵심 동력
+- [06:03](https://www.youtube.com/watch?v=FOAztYQLFAY&t=363) 필라델피아 연준 제조업 지수 호조 및 산업 생산 감소 → 제조업은 견조하나 생산 지표의 일부 둔화는 눈여겨볼 대목
+- [06:33](https://www.youtube.com/watch?v=FOAztYQLFAY&t=393) 연준 인사들의 매파적 발언 및 금리 동결 기조 유지 → 중동 상황이 안정될 때까지 금리 인하 결정은 유보될 가능성 높음
+- [07:40](https://www.youtube.com/watch?v=FOAztYQLFAY&t=460) TSMC 어닝 서프라이즈에도 불구하고 차익 실현 매물로 주가 하락 → AI 수요는 여전히 강력하나 단기 급등에 따른 가격 부담 존재
+- [08:50](https://www.youtube.com/watch?v=FOAztYQLFAY&t=530) 넷플릭스 실적 발표 후 창업자 사퇴 및 가이던스 우려로 급락 → 실적 자체는 좋았으나 경영진 변화와 미래 비전에 대한 의구심 반영
+- [10:13](https://www.youtube.com/watch?v=FOAztYQLFAY&t=613) 마이클 버리의 세일즈포스 및 페이팔 투자 확대 공개 → AI 기술 도입에도 영향받지 않는 소프트웨어 섹터의 가치에 주목
+- [11:12](https://www.youtube.com/watch?v=FOAztYQLFAY&t=672) 구글(알파벳)의 제미나이 미 국방부 도입 협상 소식 → 빅테크 AI 기술의 정부 및 군사 작전 활용 범위가 확대되는 추세
+- [12:09](https://www.youtube.com/watch?v=FOAztYQLFAY&t=729) 펩시코의 가격 인하 전략을 통한 실적 방어 성공 → 고물가 시대에 가격 경쟁력을 확보한 필수 소비재의 강점 증명
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=FOAztYQLFAY)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/FOAztYQLFAY_김종학의-뉴욕-지금-4월17일)

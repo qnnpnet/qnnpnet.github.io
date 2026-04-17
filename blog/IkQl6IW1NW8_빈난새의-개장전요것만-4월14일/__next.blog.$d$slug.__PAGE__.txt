@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=IkQl6IW1NW8)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/IkQl6IW1NW8_빈난새의-개장전요것만-4월14일)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월14일] \"이란 호르무즈 이용 한시중단 검토\" | 3월 PPI 하회 | 구글, 마벨과 TPU 협력? | 오라클 블룸에너지 메타 샌디스크 브로드컴 JP모건","videoId":"IkQl6IW1NW8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/IkQl6IW1NW8_빈난새의-개장전요것만-4월14일)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월14일] \"이란 호르무즈 이용 한시중단 검토\" | 3월 PPI 하회 | 구글, 마벨과 TPU 협력? | 오라클 블룸에너지 메타 샌디스크 브로드컴 JP모건","videoId":"IkQl6IW1NW8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

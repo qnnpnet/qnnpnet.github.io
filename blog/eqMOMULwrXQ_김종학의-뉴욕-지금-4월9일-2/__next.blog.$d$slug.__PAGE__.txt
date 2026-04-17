@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=eqMOMULwrXQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/eqMOMULwrXQ_김종학의-뉴욕-지금-4월9일-2)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-4월9일] 2주 휴전에 급등했지만..여전한 잡음 | ‘매도세 줄었지만, 완전한 회복 아니다’ | 델타항공, 엑손모빌, 메타, 파라마운트 스카이댄스, 리바이스","videoId":"eqMOMULwrXQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/eqMOMULwrXQ_김종학의-뉴욕-지금-4월9일-2)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-4월9일] 2주 휴전에 급등했지만..여전한 잡음 | ‘매도세 줄었지만, 완전한 회복 아니다’ | 델타항공, 엑손모빌, 메타, 파라마운트 스카이댄스, 리바이스","videoId":"eqMOMULwrXQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

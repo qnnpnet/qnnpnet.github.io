@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=d-fu8-I9808)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/d-fu8-I9808_빈난새의-개장전요것만-3월23일)0:{"buildId":"LzHip5a06lQiEeRjTs1-Y","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월23일] \"5일간 에너지 공격 유예\" 이란은 협상 부인 | 머스크, 테라팹 공식 발표 | 버크셔, 일본 도쿄해상 투자 | 시놉시스 팔란티어 GEV LNG","videoId":"d-fu8-I9808","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/d-fu8-I9808_빈난새의-개장전요것만-3월23일)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-3월23일] \"5일간 에너지 공격 유예\" 이란은 협상 부인 | 머스크, 테라팹 공식 발표 | 버크셔, 일본 도쿄해상 투자 | 시놉시스 팔란티어 GEV LNG","videoId":"d-fu8-I9808","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

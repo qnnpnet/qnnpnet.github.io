@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Ta3c,
+# 스페이스X + 테슬라 합병썰 나오는 이유 | 우주 산업 르네상스 수혜주 | 빈난새의 빈틈없이월가
+
+## 📋 한 줄 요약
+
+> 스페이스X의 역사적 IPO와 우주 데이터 센터 등 AI 인프라 확장을 계기로 우주 산업이 단순 탐사를 넘어 거대 경제 생태계로 진화하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:37](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=37) 스페이스X의 7월 상장 기대감과 2조 달러 기업 가치 전망 → 역사상 최대 규모의 IPO가 우주 섹터 전체의 밸류에이션을 재정의할 것
+- [02:28](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=148) 우주 경제로의 막대한 자본 유입과 테마의 확장 → 로켓을 넘어 AI, 에너지, 통신, 국방이 결합된 복합 산업으로 변모 중
+- [04:12](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=252) 빅테크들의 우주 데이터 센터 구축 경쟁 본격화 → 지상의 전력 부족과 규제 문제를 해결하기 위한 AI 인프라의 우주 이전
+- [07:53](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=473) 미·중 간의 우주 패권 경쟁과 정책적 지원 확대 → 지정학적 리스크가 오히려 우주 산업의 강력한 성장 동력으로 작용
+- [11:06](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=666) 모건스탠리가 꼽은 3대 트렌드: D2D, 우주 AI, 국방 결합 → 위성과 스마트폰의 직접 연결 등 실질적인 수익 모델 가시화
+- [14:04](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=844) 우주 산업 공급망의 다양화 (Space 60 리스트) → 희토류, 특수 합금, 반도체 등 로켓 외 부품주에도 투자 기회 존재
+- [18:01](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=1081) 재사용 로켓을 통한 압도적인 비용 절감과 스타링크의 수익성 → 스페이스X가 독점적 지위를 유지할 수 있는 핵심 경제적 해자
+- [20:40](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=1240) 테슬라와 스페이스X의 합병 가능성 및 '매크로하드' 프로젝트 → 머스크의 모든 사업이 인류 문명 확장이라는 하나의 비전으로 수렴 중
+- [24:13](https://www.youtube.com/watch?v=fvNHk7dhBDs&t=1453) 스페이스X IPO의 이례적인 개인 투자자 배정 비율(30%) → 강력한 팬덤을 활용해 높은 멀티플을 유지하려는 전략적 선택
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=fvNHk7dhBDs)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/fvNHk7dhBDs_스페이스X--테슬라-합병썰-나오는)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스페이스X + 테슬라 합병썰 나오는 이유 | 우주 산업 르네상스 수혜주 | 빈난새의 빈틈없이월가","videoId":"fvNHk7dhBDs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,31 @@
+---
+title: "[김현석의 월스트리트나우-4월18일] 해협 개방→유가 급락..추격 매수 vs 쫓지 마, \"상승, 쉬운 부분은 끝\""
+video_id: "hEusDxuj06o"
+tags: "김현석의 월스트리트나우-4월18일, 김현석, 월스트리트나우"
+published_at: "2026-04-17T22:16:19Z"
+---
+
+# [김현석의 월스트리트나우-4월18일] 해협 개방→유가 급락..추격 매수 vs 쫓지 마, "상승, 쉬운 부분은 끝"
+
+## 📋 한 줄 요약
+
+> 이란의 호르무즈 해협 개방 소식에 유가가 급락하며 미 증시가 역대급 속도로 반등했고, 기술적 매수세와 낙관론이 시장을 주도하고 있습니다.
+
+## 🧠 핵심 포인트
+
+- [00:42](https://www.youtube.com/watch?v=hEusDxuj06o&t=42) 이란 호르무즈 해협 개방 발표로 유가 10% 급락 → 지정학적 리스크 완화 기대
+- [01:24](https://www.youtube.com/watch?v=hEusDxuj06o&t=84) 미 3대 지수 일제히 상승 및 다우 지수 강세 → 경기 민감주 중심의 랠리 확산
+- [03:47](https://www.youtube.com/watch?v=hEusDxuj06o&t=227) 해협 개방의 조건부 및 한시적 성격 → 완전한 해결까지는 신중한 접근 필요
+- [07:06](https://www.youtube.com/watch?v=hEusDxuj06o&t=426) S&P 500, 1982년 이후 가장 빠른 V자 반등 → 강력한 시장 복원력과 매수세 확인
+- [11:05](https://www.youtube.com/watch?v=hEusDxuj06o&t=665) CTA 펀드 및 숏 스퀴즈가 주가 상승 견인 → 알고리즘 매매가 상승폭을 확대
+- [14:34](https://www.youtube.com/watch?v=hEusDxuj06o&t=874) 기관 투자자들의 낮은 주식 비중과 추격 매수 가능성 → 포모(FOMO)로 인한 추가 상승 여력
+- [18:15](https://www.youtube.com/watch?v=hEusDxuj06o&t=1095) 연준 월러 이사의 매파적 발언과 인플레 경고 → 금리 인하 신중론 및 고금리 장기화 우려
+- [21:48](https://www.youtube.com/watch?v=hEusDxuj06o&t=1308) 넷플릭스, 가이던스 실망감에 9.7% 폭락 → 실적 기대치에 대한 시장의 엄격한 평가
+- [25:06](https://www.youtube.com/watch?v=hEusDxuj06o&t=1506) 투자자 82%가 추가 상승 전망, 낙관론 최고조 → 상승장에 대한 투자자들의 강한 확신
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=hEusDxuj06o)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/hEusDxuj06o_김현석의-월스트리트나우-4월18일)

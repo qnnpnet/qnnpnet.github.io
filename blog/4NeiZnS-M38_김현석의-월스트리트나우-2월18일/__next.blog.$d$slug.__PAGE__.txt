@@ -22,5 +22,5 @@
 
 ## 🔗 원본 영상
 
-[📺 영상 보기](https://www.youtube.com/watch?v=4NeiZnS-M38)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월18일] 계속되는 'AI 공포'..소프트웨어 내리고, 하드웨어 오르고","videoId":"4NeiZnS-M38","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[📺 영상 보기](https://www.youtube.com/watch?v=4NeiZnS-M38)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-2월18일] 계속되는 'AI 공포'..소프트웨어 내리고, 하드웨어 오르고","videoId":"4NeiZnS-M38","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

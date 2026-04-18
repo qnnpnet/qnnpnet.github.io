@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=lqjZMmFI2X8)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/lqjZMmFI2X8_빈난새의-개장전요것만-4월15일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월15일] \"이틀내 놀라운 일\" | 브로드컴-메타 1GW 계약 | SW 강세 지속가능한가 | 아이온큐 ASML 마이크론 코어위브 로빈후드 나이키 우버 포엣","videoId":"lqjZMmFI2X8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/lqjZMmFI2X8_빈난새의-개장전요것만-4월15일)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월15일] \"이틀내 놀라운 일\" | 브로드컴-메타 1GW 계약 | SW 강세 지속가능한가 | 아이온큐 ASML 마이크론 코어위브 로빈후드 나이키 우버 포엣","videoId":"lqjZMmFI2X8","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

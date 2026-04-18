@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Ojw1oswgZfQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Ojw1oswgZfQ_빈난새의-개장전요것만-4월10일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월10일] 앤스로픽 미토스 뭐길래..소프트웨어 또 학살 | 3월 CPI 하회 | 루멘텀 서비스나우 팔로알토 샌디스크 테슬라 나이키 코어위브 인플렉션","videoId":"Ojw1oswgZfQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Ojw1oswgZfQ_빈난새의-개장전요것만-4월10일)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월10일] 앤스로픽 미토스 뭐길래..소프트웨어 또 학살 | 3월 CPI 하회 | 루멘텀 서비스나우 팔로알토 샌디스크 테슬라 나이키 코어위브 인플렉션","videoId":"Ojw1oswgZfQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

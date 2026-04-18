@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=DcKREbW4xNw)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/DcKREbW4xNw_김종학의-뉴욕-지금-4월18일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-4월18일] 이란 외무장관 “상업용 선박에 해협 전격 개방“ | 인텔, 27년 만에 신고가? | 넷플릭스, 룰루레몬, 팔란티어, 제너두 퀀텀, 카니발","videoId":"DcKREbW4xNw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/DcKREbW4xNw_김종학의-뉴욕-지금-4월18일)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-4월18일] 이란 외무장관 “상업용 선박에 해협 전격 개방“ | 인텔, 27년 만에 신고가? | 넷플릭스, 룰루레몬, 팔란티어, 제너두 퀀텀, 카니발","videoId":"DcKREbW4xNw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

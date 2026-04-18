@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=FAlSxs9Qv-4)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/FAlSxs9Qv-4_빈난새의-개장전요것만-4월17일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월17일] \"휴전 동안 해협 개방\" | 백악관, 미토스 도입 협상 | 오픈AI-세레브라스 공급확대 | 넷플릭스 AMD 애플 테슬라 어펌 MPWR GE버노바","videoId":"FAlSxs9Qv-4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/FAlSxs9Qv-4_빈난새의-개장전요것만-4월17일)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월17일] \"휴전 동안 해협 개방\" | 백악관, 미토스 도입 협상 | 오픈AI-세레브라스 공급확대 | 넷플릭스 AMD 애플 테슬라 어펌 MPWR GE버노바","videoId":"FAlSxs9Qv-4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

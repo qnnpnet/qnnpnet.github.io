@@ -27,5 +27,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=Z1EZGCMwIzw)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/Z1EZGCMwIzw_빈난새의-개장전요것만-2월26일)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-2월26일] 이란 중국 불확실성 | 엔비디아 호실적에도 하락 | 샌디스크 HBF 시동 | 브로드컴 아이온큐 조비 세일즈포스 스노우플레이크 시놉시스 와비파커","videoId":"Z1EZGCMwIzw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/Z1EZGCMwIzw_빈난새의-개장전요것만-2월26일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-2월26일] 이란 중국 불확실성 | 엔비디아 호실적에도 하락 | 샌디스크 HBF 시동 | 브로드컴 아이온큐 조비 세일즈포스 스노우플레이크 시놉시스 와비파커","videoId":"Z1EZGCMwIzw","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

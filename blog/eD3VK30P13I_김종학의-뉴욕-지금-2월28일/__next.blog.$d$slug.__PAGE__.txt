@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=eD3VK30P13I)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/eD3VK30P13I_김종학의-뉴욕-지금-2월28일)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월28일] 사모펀드발 금융위기 불안 증폭 | UBS, 미국 주식 등급 하향 | 종목(델, 넷플릭스, 파라마운트, 블록, 트럼프미디어&테크놀로지)","videoId":"eD3VK30P13I","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/eD3VK30P13I_김종학의-뉴욕-지금-2월28일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김종학의 뉴욕, 지금-2월28일] 사모펀드발 금융위기 불안 증폭 | UBS, 미국 주식 등급 하향 | 종목(델, 넷플릭스, 파라마운트, 블록, 트럼프미디어&테크놀로지)","videoId":"eD3VK30P13I","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

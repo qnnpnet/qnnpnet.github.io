@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[54151,["/_next/static/chunks/ea40bab5abbf9dad.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/0bd6498bda341889.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T963,
+# [빈난새의 개장전요것만-4월17일] "휴전 동안 해협 개방" | 백악관, 미토스 도입 협상 | 오픈AI-세레브라스 공급확대 | 넷플릭스 AMD 애플 테슬라 어펌 MPWR GE버노바
+
+## 📋 한 줄 요약
+
+> 이란의 호르무즈 해협 개방 발표로 지정학적 리스크가 해소되며 유가와 금리가 하락하고, AI 산업의 강력한 수요 속에 증시가 상승세를 보였습니다.
+
+## 🧠 핵심 포인트
+
+- [00:42](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=42) 이란의 호르무즈 해협 전면 개방 발표 → 지정학적 리스크 완화 및 공급망 정상화 기대
+- [01:43](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=103) 국제 유가 급락 및 시장 금리 일제히 하락 → 에너지발 인플레이션 우려 감소로 시장 안도감 확산
+- [04:16](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=256) 비트코인 및 주요 기술주 중심의 위험 자산 강세 → 금리 하락에 따른 유동성 환경 개선 기대감 반영
+- [12:31](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=751) 골드만삭스의 좁은 랠리에 대한 기술적 경고 → 실물 경제 펀더멘탈과의 괴리에 대한 주의 필요
+- [18:10](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=1090) 시타델의 긍정적 전망 및 실적 장세 전환 → 수급 정상화와 함께 종목별 차별화 장세 본격화
+- [24:48](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=1488) 오픈AI와 셀브라스의 200억 달러 규모 칩 계약 → 엔비디아 외 대안 칩 수요 및 AI 하드웨어 확장성 입증
+- [30:37](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=1837) 앤스로픽 CEO의 백악관 방문 및 정부 협상 → AI 기술의 국가 안보적 가치와 규제 간의 줄타기
+- [34:58](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=2098) 넷플릭스 실적 발표 후 가이던스 우려로 하락 → 높아진 시장 기대치 대비 성장 둔화에 대한 민감도 상승
+- [38:55](https://www.youtube.com/watch?v=FAlSxs9Qv-4&t=2335) 애플의 중국 내 아이폰 출하량 20% 증가 소식 → 우려했던 중국 시장에서의 수요 회복 신호 포착
+
+## 🔗 원본 영상
+
+[📺 영상 보기](https://www.youtube.com/watch?v=FAlSxs9Qv-4)
+## 📝 블로그 포스트
+
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/FAlSxs9Qv-4_빈난새의-개장전요것만-4월17일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월17일] \"휴전 동안 해협 개방\" | 백악관, 미토스 도입 협상 | 오픈AI-세레브라스 공급확대 | 넷플릭스 AMD 애플 테슬라 어펌 MPWR GE버노바","videoId":"FAlSxs9Qv-4","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=CE5WcSpKx44)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/CE5WcSpKx44_빈난새의-개장전요것만-4월13일)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월13일] \"협상 끝 아니다\"..역봉쇄 목적 | 실적, 포지셔닝 개선 | 소프트웨어 반등 | 골드만삭스 버티브 샌디스크 테슬라 로블록스 RVMD AAOI","videoId":"CE5WcSpKx44","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/CE5WcSpKx44_빈난새의-개장전요것만-4월13일)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[빈난새의 개장전요것만-4월13일] \"협상 끝 아니다\"..역봉쇄 목적 | 실적, 포지셔닝 개선 | 소프트웨어 반등 | 골드만삭스 버티브 샌디스크 테슬라 로블록스 RVMD AAOI","videoId":"CE5WcSpKx44","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

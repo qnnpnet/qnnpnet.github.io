@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=X3_v6b8Z5yY)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/X3_v6b8Z5yY_소프트웨어-모조리-빨아들이는-앤트로픽)0:{"buildId":"XPAYZDsdrtJiXjp2kpzjs","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"소프트웨어 모조리 빨아들이는 앤트로픽 | 테슬라 팔고 스페이스X 살 준비하는 사람들? | 월가백브리핑","videoId":"X3_v6b8Z5yY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/X3_v6b8Z5yY_소프트웨어-모조리-빨아들이는-앤트로픽)0:{"buildId":"J7IBoK9HuUOub11P8zNWX","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"소프트웨어 모조리 빨아들이는 앤트로픽 | 테슬라 팔고 스페이스X 살 준비하는 사람들? | 월가백브리핑","videoId":"X3_v6b8Z5yY","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

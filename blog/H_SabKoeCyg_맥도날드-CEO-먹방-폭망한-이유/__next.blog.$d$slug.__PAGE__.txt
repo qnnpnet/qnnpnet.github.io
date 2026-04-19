@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=H_SabKoeCyg)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/H_SabKoeCyg_맥도날드-CEO-먹방-폭망한-이유)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"맥도날드 CEO 먹방 폭망한 이유...무너지는 미국 버거 산업 | 바이아메리카 in 뉴욕","videoId":"H_SabKoeCyg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/H_SabKoeCyg_맥도날드-CEO-먹방-폭망한-이유)0:{"buildId":"YTA2QQ5tdhFhwaFBzEgFF","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"맥도날드 CEO 먹방 폭망한 이유...무너지는 미국 버거 산업 | 바이아메리카 in 뉴욕","videoId":"H_SabKoeCyg","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

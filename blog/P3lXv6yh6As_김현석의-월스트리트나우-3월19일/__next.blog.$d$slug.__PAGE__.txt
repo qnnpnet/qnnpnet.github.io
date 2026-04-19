@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=P3lXv6yh6As)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/P3lXv6yh6As_김현석의-월스트리트나우-3월19일)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월19일] 현실 깨닫는 시장? 이란은 석유시설 폭격..파월 '풋'은 사라졌다","videoId":"P3lXv6yh6As","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/P3lXv6yh6As_김현석의-월스트리트나우-3월19일)0:{"buildId":"YTA2QQ5tdhFhwaFBzEgFF","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"[김현석의 월스트리트나우-3월19일] 현실 깨닫는 시장? 이란은 석유시설 폭격..파월 '풋'은 사라졌다","videoId":"P3lXv6yh6As","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

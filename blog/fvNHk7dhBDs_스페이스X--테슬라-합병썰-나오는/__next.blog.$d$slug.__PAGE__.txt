@@ -26,5 +26,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=fvNHk7dhBDs)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/fvNHk7dhBDs_스페이스X--테슬라-합병썰-나오는)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스페이스X + 테슬라 합병썰 나오는 이유 | 우주 산업 르네상스 수혜주 | 빈난새의 빈틈없이월가","videoId":"fvNHk7dhBDs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/fvNHk7dhBDs_스페이스X--테슬라-합병썰-나오는)0:{"buildId":"YTA2QQ5tdhFhwaFBzEgFF","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"스페이스X + 테슬라 합병썰 나오는 이유 | 우주 산업 르네상스 수혜주 | 빈난새의 빈틈없이월가","videoId":"fvNHk7dhBDs","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null

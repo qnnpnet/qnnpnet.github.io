@@ -25,5 +25,5 @@
 [📺 영상 보기](https://www.youtube.com/watch?v=ctCIWuTnXIQ)
 ## 📝 블로그 포스트
 
-[🔗 블로그 보기](https://qnnpnet.github.io/blog/ctCIWuTnXIQ_시장은-당신이-옳은지에-관심없다)0:{"buildId":"tQvSh95mCwgBll7JRNgPJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"시장은 당신이 옳은지에 관심없다\" 시장이 내 생각과 다르게 움직일때 | 빈난새의 빈틈없이월가","videoId":"ctCIWuTnXIQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+[🔗 블로그 보기](https://qnnpnet.github.io/blog/ctCIWuTnXIQ_시장은-당신이-옳은지에-관심없다)0:{"buildId":"YTA2QQ5tdhFhwaFBzEgFF","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"\"시장은 당신이 옳은지에 관심없다\" 시장이 내 생각과 다르게 움직일때 | 빈난새의 빈틈없이월가","videoId":"ctCIWuTnXIQ","mdContent":"$3"}],[["$","script","script-0",{"src":"/_next/static/chunks/ea40bab5abbf9dad.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
